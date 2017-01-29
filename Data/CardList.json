@@ -65,19 +65,6 @@
 			"origin": "Original Card",
 			"img": "http://enstars.info/images/cards/15_1.png",
 			"imgbloomed": "http://enstars.info/images/cards/15_1b.png"
-		},
-		{
-			"id": 125,
-			"name": "Fake Keito",
-			"nick": "keito",
-			"alias": "n",
-			"star": "1",
-			"lesson": "Slightly increases acquisition of Blue Jewel Fragments",
-			"dreamfes": "Slightly increases own Vocal",
-			"stat": "Vo",
-			"origin": "Original Card",
-			"img": "http://enstars.info/images/cards/15_1.png",
-			"imgbloomed": "http://enstars.info/images/cards/15_1b.png"
 		}
 	]
 }

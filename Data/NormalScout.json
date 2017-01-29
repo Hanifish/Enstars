@@ -1,17 +1,24 @@
 {
-	"cards": [
+	"three": [
 		
 		{
 			"id": 1,
-			"name": "",
-			"nick": "",
-			"star": "",
-			"lessonskill": "",
-			"dreamfesskill": "",
-			"dance": "",
-			"vocal": "",
-			"pf": "",
-			"origin": ""
+			"name": "Midori Takamine",
+			"nick": "midori",
+			"alias": "n",
+			"star": "1",
+			"lesson": "Slightly increases acquisition of yellow jewels",
+			"dreamfes": "Performance Up",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/5_1.png",
+			"imgbloomed": "http://enstars.info/images/cards/5_1b.png"
 		}
+	],
+	"four": [
+		
+	],
+	"five": [
+		
 	]
 }

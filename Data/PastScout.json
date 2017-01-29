@@ -1,0 +1,61 @@
+{
+	"three": [
+		
+		{
+			"id": 797,
+			"name": "(New Skater) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "sr",
+			"star": "3",
+			"lesson": "Slightly increases all stats during Lesson Battles",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
+			"img": "http://enstars.info/images/cards/10_24.png",
+			"imgbloomed": "http://enstars.info/images/cards/10_24b.png"
+		},
+		{
+			"id": 798,
+			"name": "(Uninhibited Skater) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "sr",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Vo",
+			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
+			"img": "http://enstars.info/images/cards/10_24.png",
+			"imgbloomed": "http://enstars.info/images/cards/10_24b.png"
+		}
+	],
+	"four": [
+		{
+			"id": 796,
+			"name": "(Fragrant? Skater) Kaoru Hakaze",
+			"nick": "kaoru",
+			"alias": "ssr",
+			"star": "4",
+			"lesson": "Greatly increases acquisition of all fragments",
+			"dreamfes": "Opponent's Vocal Down Greatly",
+			"stat": "Vo",
+			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
+			"img": "http://enstars.info/images/cards/24_21.png",
+			"imgbloomed": "http://enstars.info/images/cards/24_21b.png"
+		}
+	],
+	"five": [
+		{
+			"id": 795,
+			"name": "(Brilliant Skater) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur",
+			"star": "5",
+			"lesson": "Greatly increases Fever",
+			"dreamfes": "Opponent's Performance down greatly",
+			"stat": "Pf",
+			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
+			"img": "http://enstars.info/images/cards/25_24.png",
+			"imgbloomed": "http://enstars.info/images/cards/25_24b.png"
+		}
+	]
+}
