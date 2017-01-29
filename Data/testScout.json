@@ -1,0 +1,130 @@
+{
+	"eventThree": [
+		
+		{
+			"id": 786,
+			"name": "(Skilled Handcrafts) Shu Itsuki",
+			"nick": "shu",
+			"alias": "sr",
+			"star": "3",
+			"lesson": "Increases acquisition of all fragments",
+			"dreamfes": "Opponent's Vocal Down",
+			"stat": "Vo",
+			"origin": "Scout: Eccentric! (Dec 30, 2016)",
+			"img": "http://enstars.info/images/cards/27_14.png",
+			"imgbloomed": "http://enstars.info/images/cards/27_14b.png"
+		},
+		{
+			"id": 785,
+			"name": "(Seed of Memories) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "sr",
+			"star": "3",
+			"lesson": "Increases acquisition of small yellow jewels",
+			"dreamfes": "Opponent's Performance down",
+			"stat": "Pf",
+			"origin": "Scout: Eccentric! (Dec 30, 2016)",
+			"img": "http://enstars.info/images/cards/29_26.png",
+			"imgbloomed": "http://enstars.info/images/cards/29_26b.png"
+		}
+	],
+	"eventFour": [
+		{
+			"id": 783,
+			"name": "(A Stage Only for Old Friends) Rei Sakuma",
+			"nick": "rei",
+			"alias": "ssr",
+			"star": "4",
+			"lesson": "Increases luck by one level",
+			"dreamfes": "Opponent's Dance Down Greatly",
+			"stat": "Da",
+			"origin": "Scout: Eccentric! (Dec 30, 2016)",
+			"img": "http://enstars.info/images/cards/31_26.png",
+			"imgbloomed": "http://enstars.info/images/cards/31_26b.png"
+		},
+		{
+			"id": 784,
+			"name": "(Secret Trick) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "ssr",
+			"star": "4",
+			"lesson": "Greatly increases acquisition of all small jewels",
+			"dreamfes": "Opponent's Vocal Down Greatly",
+			"stat": "Vo",
+			"origin": "Scout: Eccentric! (Dec 30, 2016)",
+			"img": "http://enstars.info/images/cards/30_23.png",
+			"imgbloomed": "http://enstars.info/images/cards/30_23b.png"
+		}
+	],
+	"five": [
+		{
+			"id": 782,
+			"name": "(Oddball Show) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "ur",
+			"star": "5",
+			"lesson": "Increases acquisition of all medium jewels",
+			"dreamfes": "Opponent's Performance down greatly",
+			"stat": "Pf",
+			"origin": "Scout: Eccentric! (Dec 30, 2016)",
+			"img": "http://enstars.info/images/cards/37_10.png",
+			"imgbloomed": "http://enstars.info/images/cards/37_10b.png"
+		}
+	],
+	"normFour": [
+		{
+			"id": 1,
+			"name": "a fake 4star",
+			"nick": "midori",
+			"alias": "n",
+			"star": "1",
+			"lesson": "Slightly increases acquisition of yellow jewels",
+			"dreamfes": "Performance Up",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/5_1.png",
+			"imgbloomed": "http://enstars.info/images/cards/5_1b.png"
+		},
+		{
+			"id": 1,
+			"name": "2nd fake 4star",
+			"nick": "midori",
+			"alias": "n",
+			"star": "1",
+			"lesson": "Slightly increases acquisition of yellow jewels",
+			"dreamfes": "Performance Up",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/14_24.png",
+			"imgbloomed": "http://enstars.info/images/cards/5_1b.png"
+		}
+	],
+	"normThree": [
+		{
+			"id": 1,
+			"name": "a fake 3star",
+			"nick": "midori",
+			"alias": "n",
+			"star": "1",
+			"lesson": "Slightly increases acquisition of yellow jewels",
+			"dreamfes": "Performance Up",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/16_24.png",
+			"imgbloomed": "http://enstars.info/images/cards/5_1b.png"
+		},
+		{
+			"id": 1,
+			"name": "2nd fake 3star",
+			"nick": "midori",
+			"alias": "n",
+			"star": "1",
+			"lesson": "Slightly increases acquisition of yellow jewels",
+			"dreamfes": "Performance Up",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/9_23.png",
+			"imgbloomed": "http://enstars.info/images/cards/5_1b.png"
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"three": [
+	"eventThree": [
 		
 		{
 			"id": 797,
@@ -28,7 +28,7 @@
 			"imgbloomed": "http://enstars.info/images/cards/10_24b.png"
 		}
 	],
-	"four": [
+	"eventFour": [
 		{
 			"id": 796,
 			"name": "(Fragrant? Skater) Kaoru Hakaze",
@@ -57,5 +57,11 @@
 			"img": "http://enstars.info/images/cards/25_24.png",
 			"imgbloomed": "http://enstars.info/images/cards/25_24b.png"
 		}
+	],
+	"normFour": [
+
+	],
+	"normThree": [
+
 	]
 }
