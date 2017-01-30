@@ -54,7 +54,7 @@
 			"imgbloomed": "http://enstars.info/images/cards/22_2b.png"
 		},
 		{
-			"id": 5,
+			"id": ,
 			"name": "Adonis Otogari",
 			"nick": "adonis",
 			"alias": "n",
@@ -65,6 +65,32 @@
 			"origin": "Original Card",
 			"img": "http://enstars.info/images/cards/15_1.png",
 			"imgbloomed": "http://enstars.info/images/cards/15_1b.png"
+		},
+		{
+			"id": 6,
+			"name": "Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "n",
+			"star": "1",
+			"lesson": "Increases acquisition of red fragments",
+			"dreamfes": "Slightly increases the card's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/9_1.png",
+			"imgbloomed": "http://enstars.info/images/cards/9_1b.png"
+		},
+		{
+			"id": 6,
+			"name": "Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "n",
+			"star": "1",
+			"lesson": "Increases acquisition of red fragments",
+			"dreamfes": "Slightly increases the card's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/9_1.png",
+			"imgbloomed": "http://enstars.info/images/cards/9_1b.png"
 		}
 	]
 }
