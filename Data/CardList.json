@@ -78,6 +78,19 @@
 			"origin": "Original Card",
 			"img": "http://enstars.info/images/cards/9_1.png",
 			"imgbloomed": "http://enstars.info/images/cards/9_1b.png"
+		},
+		{
+			"id": 11,
+			"name": "Kaoru Hakaze",
+			"nick": "kaoru",
+			"alias": "n",
+			"star": "1",
+			"lesson": "Slightly increases acquisition of blue fragments",
+			"dreamfes": "Slightly increases the card's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/24_1.png",
+			"imgbloomed": "http://enstars.info/images/cards/24_1b.png"
 		}
 	]
 }
