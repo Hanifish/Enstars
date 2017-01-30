@@ -71,7 +71,7 @@
 			"imgbloomed": "http://enstars.info/images/cards/37_10b.png"
 		}
 	],
-	"normFour": [
+	"four": [
 		{
 			"id": 1,
 			"name": "a fake 4star",
@@ -99,7 +99,7 @@
 			"imgbloomed": "http://enstars.info/images/cards/5_1b.png"
 		}
 	],
-	"normThree": [
+	"three": [
 		{
 			"id": 1,
 			"name": "a fake 3star",
