@@ -4,7 +4,7 @@
 			"id": 807,
 			"name": "(Sharp Blade's Edge) Souma Kanzaki",
 			"nick": "souma",
-			"alias": "ssr",
+			"alias": "sr",
 			"star": "4",
 			"lesson": "Increases acquisition of medium yellow jewels",
 			"dreamfes": "Performance Greatly Up",
@@ -17,7 +17,7 @@
 			"id": 767,
 			"name": "(Lantern Gravekeeper) Kuro Kiyru",
 			"nick": "kuro",
-			"alias": "ssr",
+			"alias": "sr",
 			"star": "4",
 			"lesson": "Increases luck by one level",
 			"dreamfes": "Opponent's Dance Down Greatly",
@@ -77,6 +77,58 @@
 			"origin": "Original Card",
 			"img": "http://enstars.info/images/cards/23_4.png",
 			"imgbloomed": "http://enstars.info/images/cards/23_4b.png"
+		},
+		{
+			"id": 292,
+			"name": "(Silent Beast) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Increases acquisition of all fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/15_4.png",
+			"imgbloomed": "http://enstars.info/images/cards/15_4b.png"
+		},
+		{
+			"id": 303,
+			"name": "(Stride of Ares) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Greatly increases all cards' Trust",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Greek Legends! (29 Nov 2015)",
+			"img": "http://enstars.info/images/cards/15_15.png",
+			"imgbloomed": "http://enstars.info/images/cards/15_15b.png"
+		},
+		{
+			"id": 724,
+			"name": "(Gentle Sound) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Tsumugi's Introduction! (26 Oct 2016)",
+			"img": "http://enstars.info/images/cards/38_6.png",
+			"imgbloomed": "http://enstars.info/images/cards/38_6b.png"
+		},
+		{
+			"id": 693,
+			"name": "(Carefree Misfortune) Sora Harukawa",
+			"nick": "sora",
+			"alias": "sr",
+			"star": "4",
+			"lesson": "Increases all stats during Lesson DreamFes",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Sora's Introduction! (26 Sept 2016)",
+			"img": "http://enstars.info/images/cards/36_6.png",
+			"imgbloomed": "http://enstars.info/images/cards/36_6b.png"
 		}
 	]
 }

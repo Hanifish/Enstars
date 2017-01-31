@@ -1,0 +1,30 @@
+{
+	"cards": [
+		{
+			"id": 682,
+			"name": "(Contract and Friends) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Reminiscence! Gathering of the Three Magicians! (31 Aug 2016)",
+			"img": "http://enstars.info/images/cards/38_5.png",
+			"imgbloomed": "http://enstars.info/images/cards/38_5b.png"
+		},
+		{
+			"id": 724,
+			"name": "(Gentle Sound) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Tsumugi's Introduction! (26 Oct 2016)",
+			"img": "http://enstars.info/images/cards/38_6.png",
+			"imgbloomed": "http://enstars.info/images/cards/38_6b.png"
+		}
+	]
+}

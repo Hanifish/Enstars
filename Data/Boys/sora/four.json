@@ -1,0 +1,17 @@
+{
+	"cards": [
+		{
+			"id": 693,
+			"name": "(Carefree Misfortune) Sora Harukawa",
+			"nick": "sora",
+			"alias": "sr",
+			"star": "4",
+			"lesson": "Increases all stats during Lesson DreamFes",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Sora's Introduction! (26 Sept 2016)",
+			"img": "http://enstars.info/images/cards/36_6.png",
+			"imgbloomed": "http://enstars.info/images/cards/36_6b.png"
+		}
+	]
+}

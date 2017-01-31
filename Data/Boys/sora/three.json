@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 653,
+			"name": "(Looking for Something) Sora Harukawa",
+			"nick": "sora",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases the acquisition of Small Yellow Jewels",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Switch's Introduction! (26 Aug 2016)",
+			"img": "http://enstars.info/images/cards/36_3.png",
+			"imgbloomed": "http://enstars.info/images/cards/36_3b.png"
+		},
+		{
+			"id": 654,
+			"name": "(Game Match) Sora Harukawa",
+			"nick": "sora",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all jewel fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Switch's Introduction! (26 Aug 2016)",
+			"img": "http://enstars.info/images/cards/36_4.png",
+			"imgbloomed": "http://enstars.info/images/cards/36_4b.png"
+		},
+		{
+			"id": 680,
+			"name": "(The Color of Potential) Sora Harukawa",
+			"nick": "sora",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Yellow Jewels",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Reminiscence! Gathering of the Three Magicians! (31 Aug 2016)",
+			"img": "http://enstars.info/images/cards/36_5.png",
+			"imgbloomed": "http://enstars.info/images/cards/36_5b.png"
+		},
+		{
+			"id": 725,
+			"name": "(Seeing Colors) Sora Harukawa",
+			"nick": "sora",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all jewel fragments",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Tsumugi's Introduction! (26 Oct 2016)",
+			"img": "http://enstars.info/images/cards/36_7.png",
+			"imgbloomed": "http://enstars.info/images/cards/36_7b.png"
+		},
+		{
+			"id": 725,
+			"name": "(Bean Repellent) Sora Harukawa",
+			"nick": "sora",
+			"alias": "r5",
+			"star": "3",
+			"lesson": "Increases acquisition of small red jewels",
+			"dreamfes": "Dance Up",
+			"stat": "Da",
+			"origin": "Event: Inviting Good Luck＊Setsubun Festival with Brothers and Demons! (31 Jan 2017)",
+			"img": "hhttp://enstars.info/images/cards/36_9.png",
+			"imgbloomed": "http://enstars.info/images/cards/36_9b.png"
+		}
+	]
+}

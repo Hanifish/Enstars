@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 661,
+			"name": "(Book's Whereabouts) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases all Stats during Lesson Dreamfes",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Switch's Introduction!",
+			"img": "http://enstars.info/images/cards/38_3.png",
+			"imgbloomed": "http://enstars.info/images/cards/38_3b.png"
+		},
+		{
+			"id": 662,
+			"name": "(Handmade) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of small yellow jewels",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Switch's Introduction!",
+			"img": "http://enstars.info/images/cards/38_4.png",
+			"imgbloomed": "http://enstars.info/images/cards/38_4b.png"
+		},
+		{
+			"id": 734,
+			"name": "(Devil Summoner) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all jewel fragments",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: React! Magical Halloween! (31 Oct 2016)",
+			"img": "http://enstars.info/images/cards/38_7.png",
+			"imgbloomed": "http://enstars.info/images/cards/38_7b.png"
+		},
+		{
+			"id": 753,
+			"name": "(Black Swan and Compassion) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "Slightly increases the acquisition of Small Red Jewels",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Natsume's Introduction! (26 Nov 2016)",
+			"img": "http://enstars.info/images/cards/38_8.png",
+			"imgbloomed": "http://enstars.info/images/cards/38_8b.png"
+		},
+		{
+			"id": 768,
+			"name": "(Gravekeeper of the Books) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "r5",
+			"star": "3",
+			"lesson": "Increases acquisition of small blue jewels",
+			"dreamfes": "Opponent's Vocal Down",
+			"stat": "Vo",
+			"origin": "Scout: Nocturne! (14 Dec 2016)",
+			"img": "http://enstars.info/images/cards/38_9.png",
+			"imgbloomed": "http://enstars.info/images/cards/38_9b.png"
+		}
+	]
+}

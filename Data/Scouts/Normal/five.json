@@ -17,7 +17,7 @@
 			"id": 459,
 			"name": "(Hatter's Temptation) Eichi Tenshouin",
 			"nick": "eichi",
-			"alias": "ur4",
+			"alias": "ur5",
 			"star": "5",
 			"lesson": "Slightly increases Fever rate",
 			"dreamfes": "Decreases opponent's Performance",
@@ -25,6 +25,45 @@
 			"origin": "Scout: Tea Party! (30 Jan 2016)",
 			"img": "http://enstars.info/images/cards/23_19.png",
 			"imgbloomed": "http://enstars.info/images/cards/23_19b.png"
+		},
+		{
+			"id": 293,
+			"name": "(Thoughtful Friends) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "All stats up",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/15_5.png",
+			"imgbloomed": "http://enstars.info/images/cards/15_5b.png"
+		},
+		{
+			"id": 301,
+			"name": "(War at the Crossroads) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Increases acquisition of large red jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Policeman! (16 Oct 2015)",
+			"img": "http://enstars.info/images/cards/15_13.png",
+			"imgbloomed": "http://enstars.info/images/cards/15_13b.png"
+		},
+		{
+			"id": 671,
+			"name": "(Paradise Lion's Dream) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Greatly increases Fever",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Arabian Nights! (14 Sep 2016)",
+			"img": "http://enstars.info/images/cards/15_22.png",
+			"imgbloomed": "http://enstars.info/images/cards/15_22b.png"
 		}
 	]
 }
