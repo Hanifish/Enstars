@@ -103,20 +103,6 @@
 			"origin": "Event: Reminiscence! Gathering of the Three Magicians! (31 Aug 2016)",
 			"img": "http://enstars.info/images/cards/23_24.png",
 			"imgbloomed": "http://enstars.info/images/cards/23_24b.png"
-		},
-		{
-			"id": 800,
-			"name": "(Pilot of the Great Sky) Eichi Tenshouin",
-			"nick": "eichi",
-			"alias": "ur6",
-			"star": "5",
-			"lesson": "Slightly increases acquisition of all Yellow Jewels",
-			"dreamfes": "Increases own Performance",
-			"stat": "Pf",
-			"origin": "Event: Depart! Blue Skies Dream Travel! (15 Jan 2017)",
-			"img": "http://enstars.info/images/cards/23_28.png",
-			"imgbloomed": "http://enstars.info/images/cards/23_28b.png"
 		}
-
 	]
 }
