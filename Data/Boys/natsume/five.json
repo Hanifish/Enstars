@@ -1,0 +1,30 @@
+{
+	"cards": [
+		{
+			"id": 681,
+			"name": "(Contrarian Magician) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Red Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Reminiscence! Gathering of the Three Magicians! (31 Aug 2016)",
+			"img": "http://enstars.info/images/cards/37_5.png",
+			"imgbloomed": "http://enstars.info/images/cards/37_5b.png"
+		},
+		{
+			"id": 782,
+			"name": "(Oddball Show) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Medium Jewels",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Eccentrics! (30 Dec 2016)",
+			"img": "http://enstars.info/images/cards/37_10.png",
+			"imgbloomed": "http://enstars.info/images/cards/37_10b.png"
+		}
+	]
+}

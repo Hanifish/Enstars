@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 445,
+			"name": "(Emperor's Performance) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases all stats during Lesson Dream Fes",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/23_5.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_5b.png"
+		},
+		{
+			"id": 448,
+			"name": "(Timid King) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Greatly increases Fever",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Yumenosaki Circus! (4 Jun 2015)",
+			"img": "http://enstars.info/images/cards/23_8.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_8b.png"
+		},
+		{
+			"id": 452,
+			"name": "(Quarrel with Friend) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of All Jewel Fragments",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Farewell! Festival of Memories and Quarrels! (31 Aug 15)",
+			"img": "http://enstars.info/images/cards/23_12.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_12b.png"
+		},
+		{
+			"id": 459,
+			"name": "(Hatter's Temptation) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Tea Party! (30 Jan 2016)",
+			"img": "http://enstars.info/images/cards/23_19.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_19b.png"
+		},
+		{
+			"id": 463,
+			"name": "(Emperor's Unhealthy Appetite) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Blue Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Dance Performance! Thoughts That Bridge The Milky Way! (30 Jun 2016)",
+			"img": "http://enstars.info/images/cards/23_23.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_23b.png"
+		}
+	]
+}

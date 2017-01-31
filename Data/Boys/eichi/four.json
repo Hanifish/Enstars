@@ -1,0 +1,122 @@
+{
+	"cards": [
+		{
+			"id": 444,
+			"name": "(The Reigning Ruler) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Increases acquisition of blue jewels of all sizes",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/23_4.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_4b.png"
+		},
+		{
+			"id": 451,
+			"name": "(A Working Emperor) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases Performance during Lesson Dreamfes",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Yumenosaki Restaurant! (17 Aug 2015)",
+			"img": "http://enstars.info/images/cards/23_11.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_11b.png"
+		},
+		{
+			"id": 454,
+			"name": "(Wandering Emperor) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Increases acquisition of red medium jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Shine! A Sparkling Starry Night Festival! (30 Nov 2015)",
+			"img": "http://enstars.info/images/cards/23_14.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_14b.png"
+		},
+		{
+			"id": 456,
+			"name": "(Revolutionary Victory Song) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Yellow Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Special: Revolutionary Victory Song Novel (Serial Code)",
+			"img": "http://enstars.info/images/cards/23_16.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_16b.png"
+		},
+		{
+			"id": 457,
+			"name": "(Heaven's Hymn) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Red Medium Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Special: Unit Album Vol. 3 'fine' (Serial Code)",
+			"img": "http://enstars.info/images/cards/23_17.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_17b.png"
+		},
+		{
+			"id": 460,
+			"name": "(Productive Day) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr6",
+			"star": "4",
+			"lesson": "Increases acquisition of medium blue jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Bounce! Hearts and Flowers Bloom - Mall Live! (31 Mar 2016)",
+			"img": "http://enstars.info/images/cards/23_20.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_20b.png"
+		},
+		{
+			"id": 462,
+			"name": "(Dusk Gunman) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr7",
+			"star": "4",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Gunmen of the Wilderness! (14 Jun 2016)",
+			"img": "http://enstars.info/images/cards/23_22.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_22b.png"
+		},
+		{
+			"id": 675,
+			"name": "(Precious Thing) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr8",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Red Jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Reminiscence! Gathering of the Three Magicians! (31 Aug 2016)",
+			"img": "http://enstars.info/images/cards/23_24.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_24b.png"
+		},
+		{
+			"id": 800,
+			"name": "(Pilot of the Great Sky) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Yellow Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Depart! Blue Skies Dream Travel! (15 Jan 2017)",
+			"img": "http://enstars.info/images/cards/23_28.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_28b.png"
+		}
+
+	]
+}

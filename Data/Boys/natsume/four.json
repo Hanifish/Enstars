@@ -1,0 +1,30 @@
+{
+	"cards": [
+		{
+			"id": 731,
+			"name": "(Magical Witch) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: React! Magical Halloween! (31 Oct 2016)",
+			"img": "http://enstars.info/images/cards/37_8.png",
+			"imgbloomed": "http://enstars.info/images/cards/37_8b.png"
+		},
+		{
+			"id": 750,
+			"name": "(Magical Symbol) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases Trust rate of all members",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Natsume's Introduction! (26 Nov 2016)",
+			"img": "http://enstars.info/images/cards/37_9.png",
+			"imgbloomed": "http://enstars.info/images/cards/37_9b.png"
+		}
+	]
+}

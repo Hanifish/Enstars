@@ -1,0 +1,56 @@
+{
+	"cards": [
+		{
+			"id": 292,
+			"name": "(Silent Beast) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Increases acquisition of all fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/15_4.png",
+			"imgbloomed": "http://enstars.info/images/cards/15_4b.png"
+		},
+		{
+			"id": 297,
+			"name": "(Obedient Butler) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Increases Trust for everyone",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: At Your Service! Undead CafÈ! (17 Jun 2015)",
+			"img": "http://enstars.info/images/cards/15_9.png",
+			"imgbloomed": "http://enstars.info/images/cards/15_9b.png"
+		},
+		{
+			"id": 303,
+			"name": "(Stride of Ares) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Greatly increases all cards' Trust",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Greek Legends! (29 Nov 2015)",
+			"img": "http://enstars.info/images/cards/15_15.png",
+			"imgbloomed": "http://enstars.info/images/cards/15_15b.png"
+		},
+		{
+			"id": 308,
+			"name": "(Harmonica's Companion) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Greatly increases acquisition of all small jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Evening Banquet! Band Ensemble! (30 Apr 2016)",
+			"img": "http://enstars.info/images/cards/15_20.png",
+			"imgbloomed": "http://enstars.info/images/cards/15_20b.png"
+		}
+	]
+}

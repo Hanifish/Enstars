@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 657,
+			"name": "(Loophole) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases Dance during Lesson Dreamfes",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Switch's Introduction! (26 Aug 2016)",
+			"img": "http://enstars.info/images/cards/37_3.png",
+			"imgbloomed": "http://enstars.info/images/cards/37_3b.png"
+		},
+		{
+			"id": 658,
+			"name": "(Skipping Class) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Switch's Introduction! (26 Aug 2016)",
+			"img": "http://enstars.info/images/cards/37_4.png",
+			"imgbloomed": "http://enstars.info/images/cards/37_4b.png"
+		},
+		{
+			"id": 718,
+			"name": "(Story-telling Minstrel) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all jewel fragments",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Rosicrucian Story! (14 Oct 2016)",
+			"img": "http://enstars.info/images/cards/37_6.png",
+			"imgbloomed": "http://enstars.info/images/cards/37_6b.png"
+		},
+		{
+			"id": 723,
+			"name": "(Visitor) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "Slightly increases Dance during Lesson DreamFes",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Tsumugi's Introduction! (26 Oct 2016)",
+			"img": "http://enstars.info/images/cards/37_7.png",
+			"imgbloomed": "http://enstars.info/images/cards/37_7b.png"
+		},
+		{
+			"id": 821,
+			"name": "(Beans and Tactics) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "r5",
+			"star": "3",
+			"lesson": "All stats up",
+			"dreamfes": "Performance Up",
+			"stat": "Pf",
+			"origin": "Event: Inviting Good Luck＊Setsubun Festival with Brothers and Demons (31 Jan 2016)",
+			"img": "http://enstars.info/images/cards/37_11.png",
+			"imgbloomed": "http://enstars.info/images/cards/37_11b.png"
+		}
+	]
+}

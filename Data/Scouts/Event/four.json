@@ -1,0 +1,43 @@
+{
+	"four": [
+		{
+			"id": 807,
+			"name": "(Sharp Blade's Edge) Souma Kanzaki",
+			"nick": "souma",
+			"alias": "sr",
+			"star": "4",
+			"lesson": "Increases acquisition of medium yellow jewels",
+			"dreamfes": "Performance Greatly Up",
+			"stat": "Pf",
+			"origin": "Scout: Souma's Introduction! (Jan 26, 2017)",
+			"img": "http://enstars.info/images/cards/14_24.png",
+			"imgbloomed": "http://enstars.info/images/cards/14_24b.png"
+		},
+		{
+			"id": 750,
+			"name": "(Magical Symbol) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases Trust rate of all members",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Natsume's Introduction! (26 Nov 2016)",
+			"img": "http://enstars.info/images/cards/37_9.png",
+			"imgbloomed": "http://enstars.info/images/cards/37_9b.png"
+		},
+		{
+			"id": 444,
+			"name": "(The Reigning Ruler) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Increases acquisition of blue jewels of all sizes",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/23_4.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_4b.png"
+		}
+	]
+}

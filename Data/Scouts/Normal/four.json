@@ -1,0 +1,82 @@
+{
+	"four": [
+		{
+			"id": 807,
+			"name": "(Sharp Blade's Edge) Souma Kanzaki",
+			"nick": "souma",
+			"alias": "ssr",
+			"star": "4",
+			"lesson": "Increases acquisition of medium yellow jewels",
+			"dreamfes": "Performance Greatly Up",
+			"stat": "Pf",
+			"origin": "Scout: Souma's Introduction! (Jan 26, 2017)",
+			"img": "http://enstars.info/images/cards/14_24.png",
+			"imgbloomed": "http://enstars.info/images/cards/14_24b.png"
+		},
+		{
+			"id": 767,
+			"name": "(Lantern Gravekeeper) Kuro Kiyru",
+			"nick": "kuro",
+			"alias": "ssr",
+			"star": "4",
+			"lesson": "Increases luck by one level",
+			"dreamfes": "Opponent's Dance Down Greatly",
+			"stat": "Da",
+			"origin": "Scout: Nocturne! (Dec 14, 2016)",
+			"img": "http://enstars.info/images/cards/28_23.png",
+			"imgbloomed": "http://enstars.info/images/cards/28_23b.png"
+		},
+		{
+			"id": 451,
+			"name": "(A Working Emperor) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases Performance during Lesson Dreamfes",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Yumenosaki Restaurant! (17 Aug 2015)",
+			"img": "http://enstars.info/images/cards/23_11.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_11b.png"
+		},
+		{
+			"id": 462,
+			"name": "(Dusk Gunman) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr7",
+			"star": "4",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Gunmen of the Wilderness! (14 Jun 2016)",
+			"img": "http://enstars.info/images/cards/23_22.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_22b.png"
+		},
+		{
+			"id": 750,
+			"name": "(Magical Symbol) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases Trust rate of all members",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Natsume's Introduction! (26 Nov 2016)",
+			"img": "http://enstars.info/images/cards/37_9.png",
+			"imgbloomed": "http://enstars.info/images/cards/37_9b.png"
+		},
+		{
+			"id": 444,
+			"name": "(The Reigning Ruler) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Increases acquisition of blue jewels of all sizes",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://enstars.info/images/cards/23_4.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_4b.png"
+		}
+	]
+}

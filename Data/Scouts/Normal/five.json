@@ -1,0 +1,30 @@
+{
+	"five": [
+		{
+			"id": 766,
+			"name": "(Grave Keeper of the White Lily) Shu Itsuki",
+			"nick": "shu",
+			"alias": "ur",
+			"star": "5",
+			"lesson": "Increases acquisition of blue jewels of all sizes",
+			"dreamfes": "Opponent's Vocal Down",
+			"stat": "Vo",
+			"origin": "Scout: Nocturne! (Dec 14, 2016)",
+			"img": "http://enstars.info/images/cards/27_13.png",
+			"imgbloomed": "http://enstars.info/images/cards/27_13b.png"
+		},
+		{
+			"id": 459,
+			"name": "(Hatter's Temptation) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Tea Party! (30 Jan 2016)",
+			"img": "http://enstars.info/images/cards/23_19.png",
+			"imgbloomed": "http://enstars.info/images/cards/23_19b.png"
+		}
+	]
+}
