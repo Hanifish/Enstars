@@ -67,19 +67,6 @@
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Lamp%27s_Gravekeeper%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161214102903"
 		},
 		{
-			"id": 455,
-			"name": "(Elegant Boss) Eichi Tenshouin",
-			"nick": "eichi",
-			"alias": "r7",
-			"star": "3",
-			"lesson": "Slightly increases the acquisition of Yellow Fragments",
-			"dreamfes": "Slightly increases own Performance",
-			"stat": "Pf",
-			"origin": "Scout: Agents! (14 Dec 2015)",
-			"img": "http://enstars.info/images/cards/23_15.png",
-			"imgbloomed": "http://enstars.info/images/cards/23_15b.png"
-		},
-		{
 			"id": 657,
 			"name": "(Loophole) Natsume Sakasaki",
 			"nick": "natsume",
@@ -141,8 +128,8 @@
 			"dreamfes": "Slightly increases own Performance",
 			"stat": "Pf",
 			"origin": "Original Card",
-			"img": "http://enstars.info/images/cards/23_3.png",
-			"imgbloomed": "http://enstars.info/images/cards/23_3b.png"
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/ae/%28Expectations%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20160428232008",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Expectations%29_Eichi_Tenshouin_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160428232047"
 		},
 		{
 			"id": 446,
@@ -154,8 +141,8 @@
 			"dreamfes": "Slightly increases own Dance",
 			"stat": "Da",
 			"origin": "Original Card",
-			"img": "http://enstars.info/images/cards/23_6.png",
-			"imgbloomed": "http://enstars.info/images/cards/23_6b.png"
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/81/Collection_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20150501150825",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Collection%29_Eichi_Tenshouin_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160430102108"
 		},
 		{
 			"id": 447,
@@ -167,8 +154,21 @@
 			"dreamfes": "Slightly increases own Vocal",
 			"stat": "Vo",
 			"origin": "Original Card",
-			"img": "http://enstars.info/images/cards/23_7.png",
-			"imgbloomed": "http://enstars.info/images/cards/23_7b.png"
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/70/High_Society_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20150505162829",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/5e/%28High_Society%29_Eichi_Tenshouin_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160509000347"
+		},
+		{
+			"id": 455,
+			"name": "(Elegant Boss) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "r7",
+			"star": "3",
+			"lesson": "Slightly increases the acquisition of Yellow Fragments",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Agents! (14 Dec 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a4/%28Elegant_Boss%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20151214101522",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Elegant_Boss%29_Eichi_Tenshouin_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20151221100033"
 		},
 		{
 			"id": 780,
@@ -180,8 +180,8 @@
 			"dreamfes": "Slightly increases own Dance",
 			"stat": "Da",
 			"origin": "Scout: Ritsu's Introduction!",
-			"img": "http://enstars.info/images/cards/23_27.png",
-			"imgbloomed": "http://enstars.info/images/cards/23_27b.png"
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Emperor_and_Can%29_Eichi_Tenshouin_Bloomed.png",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Emperor_and_Can%29_Eichi_Tenshouin.png"
 		},
 		{
 			"id": 291,

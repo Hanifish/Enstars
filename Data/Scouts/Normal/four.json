@@ -27,6 +27,19 @@
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/54/%28Lantern_Gravekeeper%29_Kuro_Kiryu_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161214102930"
 		},
 		{
+			"id": 444,
+			"name": "(The Reigning Ruler) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Increases acquisition of blue jewels of all sizes",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/81/The_Reigning_Ruler_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20150502212834",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/48/The_Reigning_Ruler_Eichi_Tenshouin_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150505162621"
+		},
+		{
 			"id": 451,
 			"name": "(A Working Emperor) Eichi Tenshouin",
 			"nick": "eichi",
@@ -36,8 +49,8 @@
 			"dreamfes": "Decreases opponent's Performance",
 			"stat": "Pf",
 			"origin": "Scout: Yumenosaki Restaurant! (17 Aug 2015)",
-			"img": "http://enstars.info/images/cards/23_11.png",
-			"imgbloomed": "http://enstars.info/images/cards/23_11b.png"
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/18/%28A_Working_Emperor%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20151105163523",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/2/21/%28A_Working_Emperor%29_Eichi_Tenshouin_ultimate.png/revision/latest/scale-to-width-down/250?cb=20151105163535"
 		},
 		{
 			"id": 462,
@@ -49,8 +62,8 @@
 			"dreamfes": "Decreases opponent's Performance",
 			"stat": "Pf",
 			"origin": "Scout: Gunmen of the Wilderness! (14 Jun 2016)",
-			"img": "http://enstars.info/images/cards/23_22.png",
-			"imgbloomed": "http://enstars.info/images/cards/23_22b.png"
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/58/%28Gunman_of_Dusk%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20160626071517",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Gunman_of_Dusk%29_Eichi_Tenshouin_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160626071523"
 		},
 		{
 			"id": 750,
@@ -64,19 +77,6 @@
 			"origin": "Scout: Natsume's Introduction! (26 Nov 2016)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Magical_Symbol%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20161126060820",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/41/%28Magical_Symbol%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161126060845"
-		},
-		{
-			"id": 444,
-			"name": "(The Reigning Ruler) Eichi Tenshouin",
-			"nick": "eichi",
-			"alias": "sr1",
-			"star": "4",
-			"lesson": "Increases acquisition of blue jewels of all sizes",
-			"dreamfes": "Slightly increases own Vocal",
-			"stat": "Vo",
-			"origin": "Original Card",
-			"img": "http://enstars.info/images/cards/23_4.png",
-			"imgbloomed": "http://enstars.info/images/cards/23_4b.png"
 		},
 		{
 			"id": 292,

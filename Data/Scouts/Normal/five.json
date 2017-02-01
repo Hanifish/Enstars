@@ -14,17 +14,30 @@
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Gravekeeper_of_the_White_Lily%29_Shu_Itsuki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161214090520"
 		},
 		{
+			"id": 445,
+			"name": "(Emperor's Performance) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases all stats during Lesson Dream Fes",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/35/%28Emperor%27s_Performance%29_Eichi_Tenshouin.jpg/revision/latest/scale-to-width-down/250?cb=20150624224630",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Emperor%27s_Performance%29_Eichi_Tenshouin_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20150624224751"
+		},
+		{
 			"id": 459,
 			"name": "(Hatter's Temptation) Eichi Tenshouin",
 			"nick": "eichi",
-			"alias": "ur5",
+			"alias": "ur4",
 			"star": "5",
 			"lesson": "Slightly increases Fever rate",
 			"dreamfes": "Decreases opponent's Performance",
 			"stat": "Pf",
 			"origin": "Scout: Tea Party! (30 Jan 2016)",
-			"img": "http://enstars.info/images/cards/23_19.png",
-			"imgbloomed": "http://enstars.info/images/cards/23_19b.png"
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/64/%28Hatter%27s_Temptation%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20160130213434",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Hatter%27s_Temptation%29_Eichi_Tenshouin_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160330163752"
 		},
 		{
 			"id": 293,
