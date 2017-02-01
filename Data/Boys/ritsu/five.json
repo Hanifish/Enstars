@@ -1,0 +1,56 @@
+{
+	"cards": [
+		{
+			"id": 332,
+			"name": "(King of Sweetness) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases Blue fragment acquisition",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Sweets Patisserie! (31 May 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0b/%28King_of_Sweetness%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20150608004629",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/72/%28King_of_Sweetness%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20150615082013"
+		},
+		{
+			"id": 337,
+			"name": "(Moonlight Vampire) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of Red Jewels (Medium)",
+			"dreamfes": "Decreases the opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Raising Curtains! Dark Night Halloween (31 Oct 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/61/%28Moonlight_Vampire%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20151110144824",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/53/%28Moonlight_Vampire%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20151110144607"
+		},
+		{
+			"id": 343,
+			"name": "(Moonlight's Childhood Friend) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Red Jewels",
+			"dreamfes": "Increases card's Dance",
+			"stat": "Da",
+			"origin": "Event: Evening Banquet ♪ Band Ensemble! (30 April 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/41/%28Moonlight%27s_Childhood_Friend%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20160507053916",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Moonlight%27s_Childhood_Friend%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160507231446"
+		},
+		{
+			"id": 670,
+			"name": "(Cheer in the Shade) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Yellow Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Fight! Yumenosaki Academy Sports Festival 2! (15 Sept 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/62/%28Cheer_in_the_Shade%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20160919233245",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Cheer_in_the_Shade%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160922150452"
+		}
+	]
+}

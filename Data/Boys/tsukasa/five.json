@@ -1,0 +1,56 @@
+{
+	"cards": [
+		{
+			"id": 214,
+			"name": "(Perfect Conduct) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of All Blue Jewels",
+			"dreamfes": "Greatly increases the card's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/53/Perfect_Conduct_Tsukasa_Suou.jpg/revision/latest/scale-to-width-down/250?cb=20150504164850",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e8/Perfect_Conduct_Tsukasa_Suou_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150510204725"
+		},
+		{
+			"id": 219,
+			"name": "(Twilight Knight) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of Blue Jewels (Medium)",
+			"dreamfes": "Decreases the opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Rebellion! The King's Horseback Ride! (30 Sept 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/f/fa/%28Twilight_Knight%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20160429141238",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/ed/%28Twilight_Knight%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160429141258"
+		},
+		{
+			"id": 225,
+			"name": "(Flower Dance Rhythm) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Red Jewels",
+			"dreamfes": "Increases card's Dance",
+			"stat": "Da",
+			"origin": "Event: Bounce! Hearts and Flowers Bloom--Mall Live! (31 Mar 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e4/%28Flower_Dance_Rhythm%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20160410143213",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/9/93/%28Flower_Dance_Rhythm%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160410143233"
+		},
+		{
+			"id": 297,
+			"name": "(Greedy Order) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases rate of Trust",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Fruits Parlor! (29 Sept 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/21/%28Greedy_Order%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20160930212334",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Greedy_Order%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161020014407"
+		}
+	]
+}

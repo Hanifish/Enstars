@@ -1,0 +1,43 @@
+{
+	"cards": [
+		{
+			"id": 640,
+			"name": "(Extremely Delusional) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of all fragments",
+			"dreamfes": "Decreases the opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Leo's Introduction! (26 Sept 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/de/%28Extremely_Delusional%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20160505074436",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Extremely_Delusional%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160505074509"
+		},
+		{
+			"id": 638,
+			"name": "(Oath's Unison) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of medium yellow jewels",
+			"dreamfes": "Decreases the opponent's Performance",
+			"stat": "Pf",
+			"origin": "Special: Unit Album Vol. 2 'Knights' (Serial Code)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/1/17/%28Oath%27s_Unison%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20160505083418",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/63/%28Oath%27s_Unison%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160505083452"
+		},
+		{
+			"id": 16,
+			"name": "(Chirping Turaco) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases trust rate of all members",
+			"dreamfes": "Increases card's Dance",
+			"stat": "Da",
+			"origin": "Scout: Beauties of Nature! (28 Feb 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/8e/%28Chirping_Turaco%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20160228093738",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Chirping_Turaco%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160310144239"
+		}
+	]
+}

@@ -10,8 +10,8 @@
 			"dreamfes": "Opponent's Vocal Down",
 			"stat": "Vo",
 			"origin": "Scout: Nocturne! (Dec 14, 2016)",
-			"img": "http://enstars.info/images/cards/27_13.png",
-			"imgbloomed": "http://enstars.info/images/cards/27_13b.png"
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e5/%28Gravekeeper_of_the_White_Lily%29_Shu_Itsuki.png/revision/latest/scale-to-width-down/250?cb=20161214090516",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Gravekeeper_of_the_White_Lily%29_Shu_Itsuki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161214090520"
 		},
 		{
 			"id": 459,
@@ -64,6 +64,97 @@
 			"origin": "Scout: Arabian Nights! (14 Sep 2016)",
 			"img": "http://enstars.info/images/cards/15_22.png",
 			"imgbloomed": "http://enstars.info/images/cards/15_22b.png"
+		},
+		{
+			"id": 644,
+			"name": "(Robin Hood) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases the rate of fever",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Robin Hood! (14 Aug 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Robin_Hood%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20160814162230",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/68/%28Robin_Hood%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160816072249"
+		},
+		{
+			"id": 480,
+			"name": "(Upperclassman's Devotion) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Blue Jewel Fragments",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/c/c5/%28Upperclassman%27s_Devotion%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20160428092812",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Upperclassman%27s_Devotion%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161115084541"
+		},
+		{
+			"id": 490,
+			"name": "(Attending Physician) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases all cards' Trust up percentage",
+			"dreamfes": "Decreases the opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Doctor! (30 Oct 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Attending_Physician%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20160505204802",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/38/%28Attending_Physician%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160508084728"
+		},
+		{
+			"id": 332,
+			"name": "(King of Sweetness) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases Blue fragment acquisition",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Sweets Patisserie! (31 May 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0b/%28King_of_Sweetness%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20150608004629",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/72/%28King_of_Sweetness%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20150615082013"
+		},
+		{
+			"id": 408,
+			"name": "(Moonlight's Snowy Owl) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Increases card's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Beauties of Nature! (28 Feb 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/37/%28Moonlight%27s_Snowy_Owl%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20160228093606",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Moonlight%27s_Snowy_Owl%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160304004421"
+		},
+		{
+			"id": 214,
+			"name": "(Perfect Conduct) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of All Blue Jewels",
+			"dreamfes": "Greatly increases the card's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/53/Perfect_Conduct_Tsukasa_Suou.jpg/revision/latest/scale-to-width-down/250?cb=20150504164850",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e8/Perfect_Conduct_Tsukasa_Suou_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150510204725"
+		},
+		{
+			"id": 297,
+			"name": "(Greedy Order) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases rate of Trust",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Fruits Parlor! (29 Sept 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/21/%28Greedy_Order%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20160930212334",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Greedy_Order%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161020014407"
 		}
 	]
 }

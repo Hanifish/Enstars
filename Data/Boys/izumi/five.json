@@ -1,0 +1,82 @@
+{
+	"cards": [
+		{
+			"id": 480,
+			"name": "(Upperclassman's Devotion) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Blue Jewel Fragments",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/c/c5/%28Upperclassman%27s_Devotion%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20160428092812",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Upperclassman%27s_Devotion%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161115084541"
+		},
+		{
+			"id": 485,
+			"name": "(Adoring Past) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of All Yellow Jewels",
+			"dreamfes": "Decreases the opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Judge! Black and White Duel! (30 June 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Adoring_Past%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20150710124622",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/18/%28Adoring_Past%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20151018084000"
+		},
+		{
+			"id": 490,
+			"name": "(Attending Physician) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases all cards' Trust up percentage",
+			"dreamfes": "Decreases the opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Doctor! (30 Oct 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Attending_Physician%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20160505204802",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/38/%28Attending_Physician%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160508084728"
+		},
+		{
+			"id": 495,
+			"name": "(Sword Leap) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Yellow Jewels",
+			"dreamfes": "Increases card's Performance",
+			"stat": "Pf",
+			"origin": "Event: Leap! Principal of the Lake's Surface! (15 May 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Sword_Leap%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20160624091912",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e0/%28Sword_Leap%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160624091858"
+		},
+		{
+			"id": 497,
+			"name": "(Interim of Dreams) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Remember! A Midsummer Night's Dream! (31 July 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/28/%28Interim_of_Dreams%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20160805074017",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Interim_of_Dreams%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160814131349"
+		},
+		{
+			"id": 795,
+			"name": "(Brilliant Skater) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Greatly increases Fever",
+			"dreamfes": "Opponent's Performance down greatly",
+			"stat": "Pf",
+			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/51/%28Magnificent_Skater%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20170115085643",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Magnificent_Skater%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170115085700"
+		}
+	]
+}

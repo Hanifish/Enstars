@@ -1,0 +1,82 @@
+{
+	"cards": [
+		{
+			"id": 329,
+			"name": "(Strategist) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of All Yellow Jewels",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/ad/Strategist_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20150501154919",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/52/%28Strategist%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160505204501"
+		},
+		{
+			"id": 334,
+			"name": "(Half Asleep) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of Yellow Fragments",
+			"dreamfes": "Decreases the opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Judge! Black and White Duel! (30 June 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/1a/%28Half_Asleep%29_Ritsu_Sakuma.jpg/revision/latest/scale-to-width-down/250?cb=20150904073149",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Half_Asleep%29_Ritsu_Sakuma_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20150904073154"
+		},
+		{
+			"id": 336,
+			"name": "(Yearning for the World) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of Red Jewels (Small)",
+			"dreamfes": "Increases the card's Dance",
+			"stat": "Da",
+			"origin": "Event: Rebellion! The King's Horseback Ride! (30 Sept 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Yearning_for_the_World%29_Ritsu_Sakuma.PNG/revision/latest/scale-to-width-down/250?cb=20151017060909",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/45/%28Yearning_for_the_World%29_Ritsu_Sakuma_ultimate.PNG/revision/latest/scale-to-width-down/250?cb=20151102141150"
+		},
+		{
+			"id": 340,
+			"name": "(Cheshire's Early Afternoon) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Blue Medium Jewels",
+			"dreamfes": "Increases card's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Tea Party! (30 Jan 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Cheshire%27s_Early_Afternoon%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20160130163356",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a9/%28Cheshire%27s_Early_Afternoon%29_Ritsu_Sakuma_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20160203014628"
+		},
+		{
+			"id": 778,
+			"name": "(Night Theatre) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases Trust rate of all members",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Ritsu's Introduction! (26 Dec 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Night_Theatre%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20161226095840",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/d/d3/%28Night_Theatre%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161226095915"
+		},
+		{
+			"id": 818,
+			"name": "(Demon of the Twelfth Lunar Month) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "sr6",
+			"star": "4",
+			"lesson": "Slightly increases rate of Trust",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Good Fortune＊The Ogres and Brothers' Setsubun Festival! (31 Jan 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/2/26/%28Demon_of_the_Twelfth_Lunar_Month%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20170201040909",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Demon_of_the_Twelfth_Lunar_Month%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170201040920"
+		}
+	]
+}

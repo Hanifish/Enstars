@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 636,
+			"name": "(Unstopping Pen) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases trust rate of small red jewels",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Leo's Introduction! (26 Sept 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Unstopping_Pen%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20160504221133",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/58/%28Unstopping_Pen%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160505012506"
+		},
+		{
+			"id": 637,
+			"name": "(Song of Reunion) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases Vocal during Lesson Dreamfes",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Leo's Introduction! (26 Sept 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2b/%28Song_of_Reunion%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20160504224156",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Song_of_Reunion%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160504224213"
+		},
+		{
+			"id": 641,
+			"name": "(Sugar Box) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases the acquisition of all fragments",
+			"dreamfes": "Slightly increases the card's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Raising Curtains! Dark Night Halloween! (31 Oct 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Sugar_Box%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20160504230054",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/19/%28Sugar_Box%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160504230122"
+		},
+		{
+			"id": 642,
+			"name": "(Outer Space Aspiration) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "Slightly Increases all stats during Lesson Dreamfes",
+			"dreamfes": "Slightly Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Kuro's Introduction! (26 July 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/19/%28Outer_Space_Aspiration%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20161022122519",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b6/%28Outer_Space_Aspiration%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160726170511"
+		},
+		{
+			"id": 798,
+			"name": "(Uninhibited Skater) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "r5",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Vo",
+			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Rampant_Skater%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20170117070336",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/0/09/%28Rampant_Skater%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170117220709"
+		}
+	]
+}

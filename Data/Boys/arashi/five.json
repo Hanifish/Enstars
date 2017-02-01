@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 400,
+			"name": "(Desire to Leave) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Jewels of all size",
+			"dreamfes": "Increases the card's Dance",
+			"stat": "Da",
+			"origin": "Event: Judge! Black and White Duel! (30 June 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/85/%28Desire_to_Leave%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20151018045944",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Desire_to_Leave%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20151018050105"
+		},
+		{
+			"id": 404,
+			"name": "(For my Friends) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of Yellow Jewels (Large)",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Enjoyment♪ Autumn School Trip! (15 Nov 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c8/%28For_my_Friends%29_Arashi_Narukami.jpg/revision/latest/scale-to-width-down/250?cb=20151120061635",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/af/%28For_my_Friends%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160624052559"
+		},
+		{
+			"id": 408,
+			"name": "(Moonlight's Snowy Owl) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Increases card's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Beauties of Nature! (28 Feb 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/37/%28Moonlight%27s_Snowy_Owl%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20160228093606",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Moonlight%27s_Snowy_Owl%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160304004421"
+		},
+		{
+			"id": 410,
+			"name": "(Knight's Dance) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Medium Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Leap! Principal of the Lake's Surface! (15 May 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Knight%27s_Dance%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20160522040831",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Knight%27s_Dance%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160523022710"
+		},
+		{
+			"id": 758,
+			"name": "(Holy Knight of Silver) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Decreases opponent's Performance",
+			"dreamfes": "Increases acquisition of Medium Yellow Jewels",
+			"stat": "Pf",
+			"origin": "Event: Brilliance★Knights' Starlight Festival! (30 Nov 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Holy_Knight_of_Silver%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20161130060029",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Holy_Knight_of_Silver%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161130060108"
+		}
+	]
+}

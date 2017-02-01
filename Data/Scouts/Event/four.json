@@ -10,8 +10,8 @@
 			"dreamfes": "Performance Greatly Up",
 			"stat": "Pf",
 			"origin": "Scout: Souma's Introduction! (Jan 26, 2017)",
-			"img": "http://enstars.info/images/cards/14_24.png",
-			"imgbloomed": "http://enstars.info/images/cards/14_24b.png"
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/8e/%28Sharp_Blade%27s_Edge%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/250?cb=20170128013544",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/4c/%28Sharp_Blade%27s_Edge%29_Souma_Kanzaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170130025155"
 		},
 		{
 			"id": 750,
@@ -23,8 +23,8 @@
 			"dreamfes": "Decreases opponent's Performance",
 			"stat": "Pf",
 			"origin": "Scout: Natsume's Introduction! (26 Nov 2016)",
-			"img": "http://enstars.info/images/cards/37_9.png",
-			"imgbloomed": "http://enstars.info/images/cards/37_9b.png"
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Magical_Symbol%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20161126060820",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/41/%28Magical_Symbol%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161126060845"
 		},
 		{
 			"id": 444,
@@ -77,6 +77,97 @@
 			"origin": "Scout: Sora's Introduction! (26 Sept 2016)",
 			"img": "http://enstars.info/images/cards/36_6.png",
 			"imgbloomed": "http://enstars.info/images/cards/36_6b.png"
+		},
+		{
+			"id": 640,
+			"name": "(Extremely Delusional) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of all fragments",
+			"dreamfes": "Decreases the opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Leo's Introduction! (26 Sept 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/de/%28Extremely_Delusional%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20160505074436",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Extremely_Delusional%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160505074509"
+		},
+		{
+			"id": 483,
+			"name": "(Pace Down) Izumi Sena",
+			"nick": "izumi",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases Fever up percentage",
+			"dreamfes": "Slightly decreases the opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/7b/Pace_Down_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20150501152039",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0d/Pace_Down_Izumi_Sena_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20150510205730"
+		},
+		{
+			"id": 493,
+			"name": "(Model Instruction) Izumi Sena",
+			"nick": "izumi",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Red Jewels (Medium)",
+			"dreamfes": "Increases card's Dance",
+			"stat": "Da",
+			"origin": "Scout: Izumi's Introduction! (27 Jan 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/2/2b/%28Model_Instruction%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20160127073442",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/be/%28Model_Instruction%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160130223011"
+		},
+		{
+			"id": 329,
+			"name": "(Strategist) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of All Yellow Jewels",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/ad/Strategist_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20150501154919",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/52/%28Strategist%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160505204501"
+		},
+		{
+			"id": 778,
+			"name": "(Night Theatre) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases Trust rate of all members",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Ritsu's Introduction! (26 Dec 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Night_Theatre%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20161226095840",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/d/d3/%28Night_Theatre%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161226095915"
+		},
+		{
+			"id": 394,
+			"name": "(Fervent Whirlwind) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases Acquisition of All Red Jewels",
+			"dreamfes": "Slighty reduces Opponent's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e6/Fervent_Whirlwind_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20160222221212",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/41/Fervent_Whirlwind_Arashi_Narukami_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20160222221233"
+		},
+		{
+			"id": 211,
+			"name": "(Chess Lesson) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of All Red Jewels",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/3f/Chess_Lesson_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20150430211027",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/48/Chess_Lesson_Tsukasa_Suou_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150507141131"
 		}
 	]
 }

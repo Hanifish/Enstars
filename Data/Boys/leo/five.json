@@ -1,0 +1,56 @@
+{
+	"cards": [
+		{
+			"id": 639,
+			"name": "(King's Arrival) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of large yellow jewels",
+			"dreamfes": "Increases the card's Performance",
+			"stat": "Pf",
+			"origin": "Event: Rebellion! The King's Horseback Ride! (30 Sept 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/18/%28King%27s_Arrival%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20151018042810",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a7/%28King%27s_Arrival%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20151018040808"
+		},
+		{
+			"id": 643,
+			"name": "(Wandering Tsujigiri) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of large blue jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Sword Fight! Opera of Moonlight Romance! (15 Jan 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Wandering_Tsujigiri%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20160125134448",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/45/%28Wandering_Tsujigiri%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160205194140"
+		},
+		{
+			"id": 644,
+			"name": "(Robin Hood) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases the rate of fever",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Robin Hood! (14 Aug 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Robin_Hood%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20160814162230",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/68/%28Robin_Hood%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160816072249"
+		},
+		{
+			"id": 759,
+			"name": "(Holy Knight of the Golden Lion) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all medium jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Brilliance ★ Knights' Starlight Festival! (30 Nov 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/44/%28Holy_Knight_of_the_Golden_Lion%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20161202055149",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Holy_Knight_of_the_Golden_Lion%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161202055203"
+		}
+	]
+}

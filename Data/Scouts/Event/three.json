@@ -10,8 +10,8 @@
 			"dreamfes": "Opponents Performance Down",
 			"stat": "Pf",
 			"origin": "Scout: Souma's Introduction! (Jan 26, 2017)",
-			"img": "http://enstars.info/images/cards/16_24.png",
-			"imgbloomed": "http://enstars.info/images/cards/16_24b.png"
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/2/2c/%28Card_Game%29_Koga_Oogami.png/revision/latest/scale-to-width-down/250?cb=20170126090652",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/70/%28Card_Game%29_Koga_Oogami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170126090652"
 		},
 		{
 			"id": 809,
@@ -23,8 +23,8 @@
 			"dreamfes": "Dance Up",
 			"stat": "Da",
 			"origin": "Scout: Souma's Introduction! (Jan 26, 2017)",
-			"img": "http://enstars.info/images/cards/20_25.png",
-			"imgbloomed": "http://enstars.info/images/cards/20_25b.png"
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Voice_Training_Council%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170128014545",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/11/%28Voice_Training_Council%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170128014755"
 		},
 		{
 			"id": 810,
@@ -36,8 +36,8 @@
 			"dreamfes": "Vocal Up",
 			"stat": "Vo",
 			"origin": "Scout: Souma's Introduction! (Jan 26, 2017)",
-			"img": "http://enstars.info/images/cards/9_23.png",
-			"imgbloomed": "http://enstars.info/images/cards/9_23b.png"
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/8a/%28Contract%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20170128020643",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/41/%28Contract%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170126090654"
 		},
 		{
 			"id": 657,
@@ -49,8 +49,8 @@
 			"dreamfes": "Slightly increases own Dance",
 			"stat": "Da",
 			"origin": "Scout: Switch's Introduction! (26 Aug 2016)",
-			"img": "http://enstars.info/images/cards/37_3.png",
-			"imgbloomed": "http://enstars.info/images/cards/37_3b.png"
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/17/%28Secret_Passage%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20161019110512",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/8d/%28Secret_Passage%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160828155201"
 		},
 		{
 			"id": 658,
@@ -62,8 +62,8 @@
 			"dreamfes": "Slightly decreases opponent's Vocal",
 			"stat": "Vo",
 			"origin": "Scout: Switch's Introduction! (26 Aug 2016)",
-			"img": "http://enstars.info/images/cards/37_4.png",
-			"imgbloomed": "http://enstars.info/images/cards/37_4b.png"
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/be/%28Skipping_Class%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20170109173501",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b8/%28Skipping_Class%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170109173521"
 		},
 		{
 			"id": 723,
@@ -75,8 +75,8 @@
 			"dreamfes": "Slightly increases own Dance",
 			"stat": "Da",
 			"origin": "Scout: Tsumugi's Introduction! (26 Oct 2016)",
-			"img": "http://enstars.info/images/cards/37_7.png",
-			"imgbloomed": "http://enstars.info/images/cards/37_7b.png"
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Visitor%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20161026230827",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Visitor%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161026230827"
 		},
 		{
 			"id": 443,
@@ -259,6 +259,253 @@
 			"origin": "Scout: Tsumugi's Introduction! (26 Oct 2016)",
 			"img": "http://enstars.info/images/cards/36_7.png",
 			"imgbloomed": "http://enstars.info/images/cards/36_7b.png"
+		},
+		{
+			"id": 636,
+			"name": "(Unstopping Pen) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases trust rate of small red jewels",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Leo's Introduction! (26 Sept 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Unstopping_Pen%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20160504221133",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/58/%28Unstopping_Pen%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160505012506"
+		},
+		{
+			"id": 637,
+			"name": "(Song of Reunion) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases Vocal during Lesson Dreamfes",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Leo's Introduction! (26 Sept 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2b/%28Song_of_Reunion%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20160504224156",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Song_of_Reunion%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160504224213"
+		},
+		{
+			"id": 642,
+			"name": "(Outer Space Aspiration) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "Slightly Increases all stats during Lesson Dreamfes",
+			"dreamfes": "Slightly Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Kuro's Introduction! (26 July 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/19/%28Outer_Space_Aspiration%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20161022122519",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b6/%28Outer_Space_Aspiration%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160726170511"
+		},
+		{
+			"id": 479,
+			"name": "(Self-Righteous) Izumi Sena",
+			"nick": "izumi",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases Fever up percentage",
+			"dreamfes": "Slightly increases the card's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/0/0b/Self-Righteous_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20150502032049",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/3f/Self-Righteous_Izumi_Sena_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150505043014"
+		},
+		{
+			"id": 481,
+			"name": "(Sweating) Izumi Sena",
+			"nick": "izumi",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases the acquisition of all fragments",
+			"dreamfes": "Slightly increases the card's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/ed/Sweating_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20150518140256",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/8/89/Sweating_Izumi_Sena_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150518140509"
+		},
+		{
+			"id": 482,
+			"name": "(Assessment) Izumi Sena",
+			"nick": "izumi",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases all stats during Lesson DreamFes",
+			"dreamfes": "Slightly increases the card's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/40/Assessment_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20150430033108",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/18/Assessment_Izumi_Sena_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150625191601"
+		},
+		{
+			"id": 489,
+			"name": "(Cooking Practice) Izumi Sena",
+			"nick": "izumi",
+			"alias": "r11",
+			"star": "3",
+			"lesson": "Slightly increases acquistion of all Small Jewels",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Mika's Introduction! (26 June 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0a/%28Cooking_Practice%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20160626071920",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/cb/%28Cooking_Practice%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161101205804"
+		},
+		{
+			"id": 328,
+			"name": "(Sleepy) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases small Jewel acquisition (Red)",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/64/Sleepy_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20150501230204",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/35/%28Sleepy%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20150823102426"
+		},
+		{
+			"id": 330,
+			"name": "(Soda) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly Increases acquisition of Small Blue Jewels",
+			"dreamfes": "Slightly Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/d/dc/Soda_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20150501160131",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c3/Soda_Ritsu_Sakuma_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150509184916"
+		},
+		{
+			"id": 331,
+			"name": "(Cramped Costume) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases Jewel acquisition (Yellow)",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/1/1e/Cramped_Costume_Ritsu_Sakuma.PNG/revision/latest/scale-to-width-down/250?cb=20150503145724",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Cramped_Costume%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161114172759"
+		},
+		{
+			"id": 751,
+			"name": "(Flower Garden Slumber) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "r12",
+			"star": "3",
+			"lesson": "Slightly increases Vocal stat during Lesson Dream Fes",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Natsume's Introduction! (26 Nov 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b8/%28Flower_Garden_Slumber%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20161212054316",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/52/%28Flower_Garden_Slumber%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161212054334"
+		},
+		{
+			"id": 393,
+			"name": "(Ally) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all jewel fragments.",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b6/Ally_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20150503191838",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/f/fb/Ally_Arashi_Narukami_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20150507230648"
+		},
+		{
+			"id": 395,
+			"name": "(Owner) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases all stats during Dream Festival Lesson.",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/1/12/Owner_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20150503012248",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/0/08/Owner_Arashi_Narukami_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150518022438"
+		},
+		{
+			"id": 396,
+			"name": "(Well-dressed) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/a0/Well-dressed_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20150501230205",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/38/%28Well-dressed%29_Arashi_Narukami_ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151018145956"
+		},
+		{
+			"id": 399,
+			"name": "(Narcissism) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of All Jewel Fragments",
+			"dreamfes": "Slightly increases card's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Izumi's Introduction! (27 Jan 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Narcissism%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20160127073036",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Narcissism%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160130210635"
+		},
+		{
+			"id": 210,
+			"name": "(Play) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases the acquisition of Small Jewels",
+			"dreamfes": "Slightly decreases the opponent's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2c/Play_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20150504195750",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Play%29_Tsukasa_Suou_ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151018143555"
+		},
+		{
+			"id": 212,
+			"name": "(Snacks) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Increases Luck by one level at the beginning of Lessons",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/12/Snacks_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20150503012334",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/49/%28Snacks%29_Tsukasa_Suou_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150516153905"
+		},
+		{
+			"id": 213,
+			"name": "(Antique Books) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases all cards' Trust up percentage",
+			"dreamfes": "Slightly decreases the opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6c/Antique_Books_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20150516005132",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a5/Antique_Books_Tsukasa_Suou_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150518022014"
+		},
+		{
+			"id": 216,
+			"name": "(Serving Goal) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r10",
+			"star": "3",
+			"lesson": "Slightly increases own Performance during Lesson Dreamfes",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Shu's Introduction! (26 May 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Serving_Goal%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20160530073929",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5c/%28Serving_Goal%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160526064913"
 		}
 	]
 }

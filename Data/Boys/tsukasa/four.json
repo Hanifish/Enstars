@@ -1,0 +1,82 @@
+{
+	"cards": [
+		{
+			"id": 211,
+			"name": "(Chess Lesson) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of All Red Jewels",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/3f/Chess_Lesson_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20150430211027",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/48/Chess_Lesson_Tsukasa_Suou_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150507141131"
+		},
+		{
+			"id": 217,
+			"name": "(Small Scheme) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of All Red Jewels",
+			"dreamfes": "Increases the card's Dance",
+			"stat": "Da",
+			"origin": "Event: Judge! Black and White Duel! (30 June 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/5c/%28Small_Scheme%29_Tsukasa_Suou.jpg/revision/latest/scale-to-width-down/250?cb=20151018143640",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Small_Scheme%29_Tsukasa_Suou_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151018143551"
+		},
+		{
+			"id": 222,
+			"name": "(Humble Hatsumode) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases rate of trust",
+			"dreamfes": "Increases the card's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Winter's New Year Shrine Visit! (30 Dec 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Humble_Hatsumode%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20151230140917",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Humble_Hatsumode%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160103152430"
+		},
+		{
+			"id": 226,
+			"name": "(Chasing) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Leap! Principal of the Lake's Surface! (15 May 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6b/%28Chasing%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20160525132510",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Chasing%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160610230149"
+		},
+		{
+			"id": 647,
+			"name": "(Master of Equestrian Archery) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Robin Hood! (14 Aug 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/8/86/%28Master_of_Equestrian_Archery%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20160814131945",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/51/%28Master_of_Equestrian_Archery%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160817083023"
+		},
+		{
+			"id": 760,
+			"name": "(Aligned Stage) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "sr6",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Brilliance★Knights' Starlight Festival! (30 Nov 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Aligned_Stage%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20161206001225",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/41/%28Aligned_Stage%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161206001037"
+		}
+	]
+}

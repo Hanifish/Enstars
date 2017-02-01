@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 394,
+			"name": "(Fervent Whirlwind) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases Acquisition of All Red Jewels",
+			"dreamfes": "Slighty reduces Opponent's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e6/Fervent_Whirlwind_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20160222221212",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/41/Fervent_Whirlwind_Arashi_Narukami_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20160222221233"
+		},
+		{
+			"id": 397,
+			"name": "(Cooking Leader) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases Red, Blue, Yellow fragment acquisition",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Sweets Patisserie! (31 May 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Cooking_Leader%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20150608004505",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/61/%28Cooking_Leader%29_Arashi_Narukami_ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151018145753"
+		},
+		{
+			"id": 403,
+			"name": "(Heading Towards Elegance) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all Jewel fragments",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Rebellion! The King's Horseback Ride! (30 Sept 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Heading_Towards_Elegance%29_Arashi_Narukami.PNG/revision/latest/scale-to-width-down/250?cb=20151017061438",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/89/%28Heading_Towards_Elegance%29_Arashi_Narukami_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20151023205223"
+		},
+		{
+			"id": 406,
+			"name": "(Meddling Phantom Thief) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of All Jewel Fragments",
+			"dreamfes": "Increases card's Dance",
+			"stat": "Da",
+			"origin": "Event: Showdown! Magnificent Phantom Thief VS Detective Brigade! (31 Dec 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/36/%28Meddling_Phantom_Thief%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20160102133315",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/d1/%28Meddling_Phantom_Thief%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160103094427"
+		},
+		{
+			"id": 411,
+			"name": "(Self-Love and Love) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Remember! A Midsummer Night's Dream! (31 July 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Self-Love_and_Love%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20160808185950",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/83/%28Self-Love_and_Love%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160808190009"
+		}
+	]
+}

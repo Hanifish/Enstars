@@ -5,27 +5,27 @@
 			"id": 797,
 			"name": "(New Skater) Tsukasa Suou",
 			"nick": "tsukasa",
-			"alias": "sr",
+			"alias": "r12",
 			"star": "3",
 			"lesson": "Slightly increases all stats during Lesson Battles",
 			"dreamfes": "Slightly increases own Vocal",
 			"stat": "Vo",
 			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
-			"img": "http://enstars.info/images/cards/10_24.png",
-			"imgbloomed": "http://enstars.info/images/cards/10_24b.png"
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Young_and_Energetic_Skater%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170117070321",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Young_and_Energetic_Skater%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170117220849"
 		},
 		{
 			"id": 798,
 			"name": "(Uninhibited Skater) Leo Tsukinaga",
 			"nick": "leo",
-			"alias": "sr",
+			"alias": "r5",
 			"star": "3",
 			"lesson": "Slightly increases acquisition of all Jewel Fragments",
 			"dreamfes": "Slightly increases own Dance",
 			"stat": "Vo",
 			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
-			"img": "http://enstars.info/images/cards/10_24.png",
-			"imgbloomed": "http://enstars.info/images/cards/10_24b.png"
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Rampant_Skater%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20170117070336",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/0/09/%28Rampant_Skater%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170117220709"
 		}
 	],
 	"eventFour": [
@@ -39,8 +39,8 @@
 			"dreamfes": "Opponent's Vocal Down Greatly",
 			"stat": "Vo",
 			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
-			"img": "http://enstars.info/images/cards/24_21.png",
-			"imgbloomed": "http://enstars.info/images/cards/24_21b.png"
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b4/%28Sweet-Smelling_Skater%29_Kaoru_Hakaze.png/revision/latest/scale-to-width-down/250?cb=20170117070213",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Sweet-Smelling_Skater%29_Kaoru_Hakaze_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170117070236"
 		}
 	],
 	"five": [
@@ -48,14 +48,14 @@
 			"id": 795,
 			"name": "(Brilliant Skater) Izumi Sena",
 			"nick": "izumi",
-			"alias": "ur",
+			"alias": "ur6",
 			"star": "5",
 			"lesson": "Greatly increases Fever",
 			"dreamfes": "Opponent's Performance down greatly",
 			"stat": "Pf",
 			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
-			"img": "http://enstars.info/images/cards/25_24.png",
-			"imgbloomed": "http://enstars.info/images/cards/25_24b.png"
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/51/%28Magnificent_Skater%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20170115085643",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Magnificent_Skater%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170115085700"
 		}
 	]
 }
