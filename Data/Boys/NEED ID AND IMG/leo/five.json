@@ -1,0 +1,56 @@
+{
+	"cards": [
+		{
+			"id": 0,
+			"name": "(King's Arrival) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of large yellow jewels",
+			"dreamfes": "Increases the card's Performance",
+			"stat": "Pf",
+			"origin": "Event: Rebellion! The King's Horseback Ride! (30 Sept 2015)",
+			"img": "",
+			"imgbloomed": ""
+		},
+		{
+			"id": 0,
+			"name": "(Wandering Tsujigiri) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of large blue jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Sword Fight! Opera of Moonlight Romance! (15 Jan 2016)",
+			"img": "",
+			"imgbloomed": ""
+		},
+		{
+			"id": 0,
+			"name": "(Robin Hood) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases the rate of fever",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Robin Hood! (14 Aug 2016)",
+			"img": "",
+			"imgbloomed": ""
+		},
+		{
+			"id": 0,
+			"name": "(Holy Knight of the Golden Lion) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all medium jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Brilliance ★ Knights' Starlight Festival! (30 Nov 2016)",
+			"img": "",
+			"imgbloomed": ""
+		}
+	]
+}

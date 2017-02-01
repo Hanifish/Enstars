@@ -1,0 +1,82 @@
+{
+	"cards": [
+		{
+			"id": 0,
+			"name": "(Upperclassman's Devotion) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Blue Jewel Fragments",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "",
+			"imgbloomed": ""
+		},
+		{
+			"id": 0,
+			"name": "(Adoring Past) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of All Yellow Jewels",
+			"dreamfes": "Decreases the opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Judge! Black and White Duel! (30 June 2015)",
+			"img": "",
+			"imgbloomed": ""
+		},
+		{
+			"id": 0,
+			"name": "(Attending Physician) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases all cards' Trust up percentage",
+			"dreamfes": "Decreases the opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Doctor! (30 Oct 2015)",
+			"img": "",
+			"imgbloomed": ""
+		},
+		{
+			"id": 0,
+			"name": "(Sword Leap) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Yellow Jewels",
+			"dreamfes": "Increases card's Performance",
+			"stat": "Pf",
+			"origin": "Event: Leap! Principal of the Lake's Surface! (15 May 2016)",
+			"img": "",
+			"imgbloomed": ""
+		},
+		{
+			"id": 0,
+			"name": "(Interim of Dreams) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Remember! A Midsummer Night's Dream! (31 July 2016)",
+			"img": "",
+			"imgbloomed": ""
+		},
+		{
+			"id": 795,
+			"name": "(Brilliant Skater) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Greatly increases Fever",
+			"dreamfes": "Opponent's Performance down greatly",
+			"stat": "Pf",
+			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
+			"img": "http://enstars.info/images/cards/25_24.png",
+			"imgbloomed": "http://enstars.info/images/cards/25_24b.png"
+		}
+	]
+}
