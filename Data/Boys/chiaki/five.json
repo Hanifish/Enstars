@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 504,
+			"name": "(Burning Red) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly Increases Trust rate of all members",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Hero Show! (30 June 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Burning_Red%29_Chiaki_Morisawa.jpg/revision/latest/scale-to-width-down/250?cb=20150630103809",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/11/%28Burning_Red%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161024102859"
+		},
+		{
+			"id": 507,
+			"name": "(Wholehearted Sports Festival) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly Increases Fever rate",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Burning Up! Yumenosaki Academy Sports Festival! (15 Sept 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Wholehearted_Sports_Festival%29_Chiaki_Morisawa.jpg/revision/latest/scale-to-width-down/250?cb=20150927190712",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Wholehearted_Sports_Festival%29_Chiaki_Morisawa_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20150927190645"
+		},
+		{
+			"id": 514,
+			"name": "(Full Power Hero) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases Fever Rate",
+			"dreamfes": "Increases own Vocal",
+			"stat": "",
+			"origin": "Event: Flutter! Chick and Emperor's Triumphant Return! (15 Feb 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/f/f0/%28Full_Power_Hero%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20160216091636",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/80/%28Full_Power_Hero%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160216091648"
+		},
+		{
+			"id": 518,
+			"name": "(Shooter of the Sun) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Dogfight! (29 June 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/78/%28Shooter_of_the_Sun%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20160629061842",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/10/%28Shooter_of_the_Sun%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160630161211"
+		},
+		{
+			"id": 771,
+			"name": "(Bright Red Excitement) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Red Jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Radiant☆Hot Holiday Party! (15 Dec 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/de/%28Bright_Red_Excitement%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20161222131335",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/9/9a/%28Bright_Red_Excitement%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161222131529"
+		}
+	]
+}

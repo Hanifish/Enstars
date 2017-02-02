@@ -168,6 +168,97 @@
 			"origin": "Scout: Fruits Parlor! (29 Sept 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/21/%28Greedy_Order%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20160930212334",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Greedy_Order%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161020014407"
+		},
+		{
+			"id": 504,
+			"name": "(Burning Red) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly Increases Trust rate of all members",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Hero Show! (30 June 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Burning_Red%29_Chiaki_Morisawa.jpg/revision/latest/scale-to-width-down/250?cb=20150630103809",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/11/%28Burning_Red%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161024102859"
+		},
+		{
+			"id": 518,
+			"name": "(Shooter of the Sun) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Dogfight! (29 June 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/78/%28Shooter_of_the_Sun%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20160629061842",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/10/%28Shooter_of_the_Sun%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160630161211"
+		},
+		{
+			"id": 44,
+			"name": "(Flying Guts) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Yellow Jewels of all Sizes",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Flying_Guts%29_Tetora_Nagumo.jpg/revision/latest/scale-to-width-down/250?cb=20151027085420",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/3b/%28Flying_Guts%29_Tetora_Nagumo_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20150627032229"
+		},
+		{
+			"id": 581,
+			"name": "(Deep Sea Jellyfish) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly Increases Fever rate",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Deep Sea Mystery! (15 Sept 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/34/%28Deep_Sea_Jellyfish%29_Kanata_Shinkai.jpg/revision/latest/scale-to-width-down/250?cb=20150918131457",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Deep_Sea_Jellyfish%29_Kanata_Shinkai_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150919074632"
+		},
+		{
+			"id": 727,
+			"name": "(Coloration Painter) Midori Takamine",
+			"nick": "midori",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Colorful Autumn! (30 Oct 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/e/ea/%28Coloration_Painter%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20161030063557",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/9/93/%28Coloration_Painter%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161212202149"
+		},
+		{
+			"id": 161,
+			"name": "(Ups and Downs) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of All Red Jewels",
+			"dreamfes": "Increases the card's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/8/80/Ups_and_Downs_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160121221920",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/2/2b/Ups_and_Downs_Shinobu_Sengoku_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20160121222200"
+		},
+		{
+			"id": 171,
+			"name": "(Berry Monster) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all medium jewels",
+			"dreamfes": "Decreases opponent's Vo.",
+			"stat": "Vo",
+			"origin": "Scout: Strawberry Picking! (30 Mar 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Berry_Monster%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160330103425",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Berry_Monster%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160330121246"
 		}
 	]
 }

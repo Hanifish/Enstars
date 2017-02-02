@@ -1,0 +1,56 @@
+{
+	"cards": [
+		{
+			"id": 161,
+			"name": "(Ups and Downs) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of All Red Jewels",
+			"dreamfes": "Increases the card's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/8/80/Ups_and_Downs_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160121221920",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/2/2b/Ups_and_Downs_Shinobu_Sengoku_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20160121222200"
+		},
+		{
+			"id": 166,
+			"name": "(Awkward Heart) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Medium Red Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Special Training! Mismatched Pair Lessons! (16 Oct 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6f/Awkward_Heart_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20151023200356",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/2/2c/Awkward_Heart_Shinobu_Sengoku_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20151026003106"
+		},
+		{
+			"id": 171,
+			"name": "(Berry Monster) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all medium jewels",
+			"dreamfes": "Decreases opponent's Vo.",
+			"stat": "Vo",
+			"origin": "Scout: Strawberry Picking! (30 Mar 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Berry_Monster%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160330103425",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Berry_Monster%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160330121246"
+		},
+		{
+			"id": 722,
+			"name": "(Ninja's Way of Life) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Medium Yellow Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Secret Acts! The Moonlight Scroll of the Elements! (30 Sept 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/7/77/%28Ninja%27s_Way_of_Life%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160930062251",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/3f/%28Ninja%27s_Way_of_Life%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160930062251"
+		}
+	]
+}

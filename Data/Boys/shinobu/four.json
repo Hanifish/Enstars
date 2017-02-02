@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 160,
+			"name": "(Ninja Explosion) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases Performance during Lesson Dream Festival",
+			"dreamfes": "Slightly decreases the opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/4e/Ninja_Explosion_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20150501150220",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b1/Ninja_Explosion_Shinobu_Sengoku_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150515025614"
+		},
+		{
+			"id": 165,
+			"name": "(Ninja of the Sea) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases Vocal during Lesson Dreamfes",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Set Sail! Pirates at Sea Festival! (1 Aug 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Ninja_of_the_Sea%29_Shinobu_Sengoku.jpg/revision/latest/scale-to-width-down/250?cb=20150904063626",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/13/%28Ninja_of_the_Sea%29_Shinobu_Sengoku_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20150904063647"
+		},
+		{
+			"id": 169,
+			"name": "(Youthful Broadcaster) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases rate of trust",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Yumenosaki Youth Radio♪! (14 Feb 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Youthful_Broadcaster%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160214062318",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d0/%28Youthful_Broadcaster%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160214073842"
+		},
+		{
+			"id": 172,
+			"name": "(Amusement Park Thrill) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Increases card's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Nuclear Ignition ☆ A Sparkling Quintuple-Color Supernova! (31 May 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/49/%28Amusement_Park_Thrill%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160605175118",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/d2/%28Amusement_Park_Thrill%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160605175138"
+		},
+		{
+			"id": 646,
+			"name": "(Sand Castle) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Yellow Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Scorching Heat ☆ A Seaside Beach Match! (15 Aug 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/9/94/%28Sand_Castle%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160826071003",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/ae/%28Sand_Castle%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160830141814"
+		}
+	]
+}

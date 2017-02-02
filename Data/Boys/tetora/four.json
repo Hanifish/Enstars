@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 41,
+			"name": "(Live Reporter) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/5/56/Live_Reporter_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20150504073944",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/d4/Live_Reporter_Tetora_Nagumo_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20161212042412"
+		},
+		{
+			"id": 46,
+			"name": "(Black of Diligence) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of all Blue Jewels",
+			"dreamfes": "Increases the card's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Hero Show! (30 June 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/87/%28Black_of_Diligence%29_Tetora_Nagumo.jpg/revision/latest/scale-to-width-down/250?cb=20150630105155",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/40/%28Black_of_Diligence%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160401021022"
+		},
+		{
+			"id": 52,
+			"name": "(Admiring General) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Increases Luck by one level at the start of Lesson",
+			"dreamfes": "Increases card's Dance",
+			"stat": "Da",
+			"origin": "Event: Sword Fight! Opera of Moonlight Romance! (15 Jan 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/5a/%28Admiring_General%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20160116092526",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/41/%28Admiring_General%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160306220920"
+		},
+		{
+			"id": 55,
+			"name": "(Towards his Ideals) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all Jewels (Small)",
+			"dreamfes": "Decreases Opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Nuclear Ignition ☆ A Sparkling Quintuple-Color Supernova! (31 May 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Towards_his_Ideals%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20160611045228",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Towards_his_Ideals%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160912130046"
+		},
+		{
+			"id": 728,
+			"name": "(Friendship Painter) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Colorful Autumn! (30 Oct 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/d8/%28Friendship_Painter%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20161030063551",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Friendship_Painter%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161206021616"
+		}
+	]
+}

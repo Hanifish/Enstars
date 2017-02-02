@@ -1,0 +1,56 @@
+{
+	"cards": [
+		{
+			"id": 44,
+			"name": "(Flying Guts) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Yellow Jewels of all Sizes",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Flying_Guts%29_Tetora_Nagumo.jpg/revision/latest/scale-to-width-down/250?cb=20151027085420",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/3b/%28Flying_Guts%29_Tetora_Nagumo_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20150627032229"
+		},
+		{
+			"id": 49,
+			"name": "(Sports Festival Decision) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly Increases the rate of Trust for all members",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Burning Up! Yumenosaki Academy Sports Festival! (15 Sept 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Sports_Festival_Decision%29_Tetora_Nagumo.jpg/revision/latest/scale-to-width-down/250?cb=20150922191108",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/46/%28Sports_Festival_Decision%29_Tetora_Nagumo_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150925013917"
+		},
+		{
+			"id": 51,
+			"name": "(Black Santa) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases rate of Red Medium Jewel Acquisition",
+			"dreamfes": "Increases card's Dance",
+			"stat": "Da",
+			"origin": "Event: Snowflake❄Street Performance Of The Falling Stars! (15 Dec 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Black_Santa%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20151222203132",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/22/%28Black_Santa%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20151225142012"
+		},
+		{
+			"id": 648,
+			"name": "(Burning Summer's Sandy Beach) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Scorching Heat ☆ A Seaside Beach Match! (15 Aug 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/f0/%28Burning_Summer%27s_Sandy_Beach%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20160822214445",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Burning_Summer%27s_Sandy_Beach%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160828062432"
+		}
+	]
+}

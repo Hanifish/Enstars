@@ -1,0 +1,43 @@
+{
+	"cards": [
+		{
+			"id": 581,
+			"name": "(Deep Sea Jellyfish) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly Increases Fever rate",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Deep Sea Mystery! (15 Sept 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/34/%28Deep_Sea_Jellyfish%29_Kanata_Shinkai.jpg/revision/latest/scale-to-width-down/250?cb=20150918131457",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Deep_Sea_Jellyfish%29_Kanata_Shinkai_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150919074632"
+		},
+		{
+			"id": 583,
+			"name": "(The Song of Winter) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of Medium Jewels",
+			"dreamfes": "Increases the card's Performance",
+			"stat": "Pf",
+			"origin": "Event: Shine! A Sparkling Starry Night Festival! (30 Nov 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e6/%28The_Song_of_Winter%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20151207081225",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/3e/%28The_Song_of_Winter%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20151211010851"
+		},
+		{
+			"id": 587,
+			"name": "(Cherished Back) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Increases own Dance",
+			"dreamfes": "Increases Rate of Fever",
+			"stat": "Da",
+			"origin": "Event: Nuclear Ignition ☆ A Sparkling Quintuple-Color Supernova! (31 May 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/48/%28Cherished_Back%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20160606092017",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Cherished_Back%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160606092005"
+		}
+	]
+}

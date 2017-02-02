@@ -1,0 +1,56 @@
+{
+	"cards": [
+		{
+			"id": 121,
+			"name": "(Midsummer Determination) Midori Takamine",
+			"nick": "midori",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases all attributes during Lesson Dreamfes",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Set Sail! Pirates at Sea Festival! (1 Aug 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/ad/%28Midsummer_Determination%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20150812103949",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Midsummer_Determination%29_Midori_Takamine_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20150904063933"
+		},
+		{
+			"id": 126,
+			"name": "(Green Santa) Midori Takamine",
+			"nick": "midori",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases rate of Yellow Jewel Acquisition (All sizes)",
+			"dreamfes": "Increases card's Performance",
+			"stat": "Pf",
+			"origin": "Event: Snowflake❄Street Performance Of The Falling Stars! (15 Dec 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/2/21/%28Green_Santa%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20151225133220",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Green_Santa%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20151215125255"
+		},
+		{
+			"id": 130,
+			"name": "(Twinkling Stage) Midori Takamine",
+			"nick": "midori",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of All Blue Jewels",
+			"dreamfes": "Decreases Opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Nuclear Ignition ☆ A Sparkling Quintuple-Color Supernova! (31 May 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/81/%28Twinkling_Stage%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20160613232431",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Twinkling_Stage%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160613232352"
+		},
+		{
+			"id": 727,
+			"name": "(Coloration Painter) Midori Takamine",
+			"nick": "midori",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Colorful Autumn! (30 Oct 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/e/ea/%28Coloration_Painter%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20161030063557",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/9/93/%28Coloration_Painter%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161212202149"
+		}
+	]
+}

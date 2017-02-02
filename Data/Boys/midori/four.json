@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 117,
+			"name": "(Embarrassment) Midori Takamine",
+			"nick": "midori",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all Jewels (Blue)",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/2/29/Embarrassment_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20150430063701",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d1/%28Embarrassment%29_Midori_Takamine_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20150508165725"
+		},
+		{
+			"id": 125,
+			"name": "(Upperclassman's Present) Midori Takamine",
+			"nick": "midori",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Yellow Jewels (Medium)",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Midori's Introduction! (26 Nov 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/44/%28Upperclassman%27s_Present%29_Midori_Takamine.jpg/revision/latest/scale-to-width-down/250?cb=20151111235755",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/15/%28Upperclassman%27s_Present%29_Midori_Takamine_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20151126165237"
+		},
+		{
+			"id": 122,
+			"name": "(Firm Resolve) Midori Takamine",
+			"nick": "midori",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Blue Jewels of all sizes",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Burning Up! Yumenosaki Academy Sports Festival! (15 Sept 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/d/d2/%28Firm_Resolve%29_Midori_Takamine.jpg/revision/latest/scale-to-width-down/250?cb=20150925193124",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Firm_Resolve_Midori_Takamine_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151125173854"
+		},
+		{
+			"id": 128,
+			"name": "(Berry Happy Day) Midori Takamine",
+			"nick": "midori",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Yellow Medium Jewels",
+			"dreamfes": "Increases card's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Strawberry Picking! (30 Mar 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/de/%28Berry_Happy_Day%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20160330103436",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/2/20/%28Berry_Happy_Day%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160409074319"
+		},
+		{
+			"id": 773,
+			"name": "(Soothing Party) Midori Takamine",
+			"nick": "midori",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Red Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Radiant☆Hot Holiday Party! (15 Dec 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/ed/%28Soothing_Party%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20161226192419",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/8/86/%28Soothing_Party%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161226192516"
+		}
+	]
+}

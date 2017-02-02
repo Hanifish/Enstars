@@ -1,0 +1,82 @@
+{
+	"cards": [
+		{
+			"id": 577,
+			"name": "(Fun Friends) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases Fever up percentage",
+			"dreamfes": "Slightly increases the card's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/39/Fun_Friends_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20150503012205",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/da/Fun_Friends_Kanata_Shinkai_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20150510205634"
+		},
+		{
+			"id": 579,
+			"name": "(The Sea and Friends) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly Increases Trust rate of all members",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Set Sail! Pirates at Sea Festival! (1 Aug 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/7a/%28The_Sea_and_Friends%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20150818082022",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/c/c5/%28The_Sea_and_Friends%29_Kanata_Shinkai_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20150904063829"
+		},
+		{
+			"id": 585,
+			"name": "(The Place I Belong) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases Trust rate of all members",
+			"dreamfes": "Increases card's Dance",
+			"stat": "Da",
+			"origin": "Event: Flutter! Chick and Emperor's Triumphant Return! (15 Feb 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/9/9c/%28The_Place_I_Belong%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20160308001906",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/d/dc/%28The_Place_I_Belong%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160308001913"
+		},
+		{
+			"id": 586,
+			"name": "(Impatient Everyday) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Palace of the Ocean! (14 April 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Impatient_Everyday%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20160415071619",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/76/%28Impatient_Everyday%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161005100303"
+		},
+		{
+			"id": 706,
+			"name": "(Drifting Ninja) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Yellow Jewels",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Secret Acts! The Moonlight Scroll of the Elements! (30 Sept 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/3e/%28Drifting_Ninja%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20161005095502",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/7/74/%28Drifting_Ninja%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161005095510"
+		},
+		{
+			"id": 784,
+			"name": "(Secret Trick) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "ssr",
+			"star": "4",
+			"lesson": "Greatly increases acquisition of all small jewels",
+			"dreamfes": "Opponent's Vocal Down Greatly",
+			"stat": "Vo",
+			"origin": "Scout: Eccentric! (Dec 30, 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2f/%28Secret_Trick%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20161230063902",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/1/13/%28Secret_Trick%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161230063901"
+		}
+	]
+}

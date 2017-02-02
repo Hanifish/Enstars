@@ -1,0 +1,95 @@
+{
+	"cards": [
+		{
+			"id": 503,
+			"name": "(Inspiring Blaze) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases Fever up rate",
+			"dreamfes": "Slightly decreases the opponent's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/03/Inspiring_Blaze_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20150505000954",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/0/05/%28Inspiring_Blaze%29_Chiaki_Morisawa_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150625230750"
+		},
+		{
+			"id": 505,
+			"name": "(Kitten and Sunset) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Blue Jewels (medium)",
+			"dreamfes": "Decreases opopnent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Chiaki's Introduction!",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/f/fd/%28Kitten_and_Sunset%29_Chiaki_Morisawa.jpg/revision/latest/scale-to-width-down/250?cb=20151112005752",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Kitten_and_Sunset%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160625205335"
+		},
+		{
+			"id": 510,
+			"name": "(Fist of Youth) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of Small Jewels",
+			"dreamfes": "Decreases the Opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Hot-Blooded Tough Guy! (15 Nov 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Fist_of_Youth%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20151122120119",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/46/%28Fist_of_Youth%29_Chiaki_Morisawa_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151122120223"
+		},
+		{
+			"id": 511,
+			"name": "(Red Santa) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases Trust of all members",
+			"dreamfes": "Increases the card's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Snowflake❄Street Performance Of The Falling Stars! (15 Dec 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/de/%28Red_Santa%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20151225134947",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/2/25/%28Red_Santa%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160419061632"
+		},
+		{
+			"id": 512,
+			"name": "(Song of Justice) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of Blue Jewels (Medium)",
+			"dreamfes": "Increases the card's Vocal",
+			"stat": "Vo",
+			"origin": "Special: Unit Album Vol. 5 'RYUSEITAI' (Serial Code)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a3/%28Song_of_Justice%29_Chiaki_Morisawa.png/revision/latest?cb=20151223091232",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Song_of_Justice%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160222043128"
+		},
+		{
+			"id": 515,
+			"name": "(Deep Red Friendship) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "sr6",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Invitation! A Night of Ryuseitai and Hello Kitty! (26 Mar 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Deep_Red_Friendship%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20160326064148",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Deep_Red_Friendship%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160326080539"
+		},
+		{
+			"id": 704,
+			"name": "(Burning Ninja) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "sr7",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Red Jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Secret Acts! The Moonlight Scroll of the Elements! (30 Sept 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/40/%28Burning_Ninja%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20161010143002",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/42/%28Burning_Ninja%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161010143005"
+		}
+	]
+}
