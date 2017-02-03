@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 64,
+			"name": "(Rainbow Prism) Hajime Shino",
+			"nick": "hajime",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases Vocal in Dream Festival lessons",
+			"dreamfes": "Increases card's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/0/05/Rainbow_Prism_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20160423095645",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/ee/Rainbow_Prism_Hajime_Shino_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20160214093941"
+		},
+		{
+			"id": 68,
+			"name": "(Cherubic Eyes) Hajime Shino",
+			"nick": "hajime",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Holiday! (31 Aug 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a4/%28Cherubic_Eyes%29_Hajime_Shino.jpg/revision/latest/scale-to-width-down/250?cb=20150902162629",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/a/ad/%28Cherubic_Eyes%29_Hajime_Shino_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20150902162645"
+		},
+		{
+			"id": 75,
+			"name": "(Flower Blossoming Smile) Hajime Shino",
+			"nick": "hajime",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Yellow Jewels",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Bounce! Hearts and Flowers Bloom--Mall Live! (31 Mar 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Flower_Blossoming_Smile%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20160410032459",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Flower_Blossoming_Smile%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160412134055"
+		},
+		{
+			"id": 669,
+			"name": "(Cheer in the Sun) Hajime Shino",
+			"nick": "hajime",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Red Jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Fight! Yumenosaki Academy Sports Festival 2! (15 Sept 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Cheer_in_the_Sun%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20160925215504",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/01/%28Cheer_in_the_Sun%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160926212159"
+		},
+		{
+			"id": 811,
+			"name": "(Jasmine Tea) Hajime Shino",
+			"nick": "hajime",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Greatly increases all cards' Trust",
+			"dreamfes": "Vocal greatly up",
+			"stat": "Vo",
+			"origin": "Scout: Salon de Thé! (Jan 30, 2017)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/44/%28Jasmine_Tea%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20170130103841",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/df/%28Jasmine_Tea%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170131025356"
+		}
+	]
+}

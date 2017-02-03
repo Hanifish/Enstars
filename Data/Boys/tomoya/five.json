@@ -1,0 +1,43 @@
+{
+	"cards": [
+		{
+			"id": 87,
+			"name": "(True to Himself) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases Trust Rate",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Challenge! Tanabata Festival Wishes! (15 July 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c3/%28True_to_Himself%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20160704205303",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/67/%28True_to_Himself%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160704205341"
+		},
+		{
+			"id": 90,
+			"name": "(Genius and Ordinary) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases rate of Yellow Jewel Acquisition (All sizes)",
+			"dreamfes": "Increases card's Performance",
+			"stat": "Pf",
+			"origin": "Event: Showdown! Magnificent Phantom Thief VS Detective Brigade! (31 Dec 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Genius_and_Ordinary%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20160110140237",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/1a/%28Genius_and_Ordinary%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160115232642"
+		},
+		{
+			"id": 715,
+			"name": "(The Princess and the Knight) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases rate of Blue Jewel Acquisition (Large)",
+			"dreamfes": "Increases card's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Rosicrucian Story! (14 Oct 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/59/%28The_Princess_and_the_Knight%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20161014204559",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/9/90/%28The_Princess_and_the_Knight%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161014205226"
+		}
+	]
+}

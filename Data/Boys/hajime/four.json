@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 61,
+			"name": "(Hospitality) Hajime Shino",
+			"nick": "hajime",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Yellow Jewels of all sizes",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/f/f4/Hospitality_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20150505151254",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/1/19/Hospitality_Hajime_Shino_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150512235151"
+		},
+		{
+			"id": 67,
+			"name": "(Persevering) Hajime Shino",
+			"nick": "hajime",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly Increases acquisition of Blue Jewel Fragments",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Challenge! Tanabata Festival! (15 July 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/d/d3/%28Persevering%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20151117101513",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/ea/%28Persevering%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20151117101445"
+		},
+		{
+			"id": 70,
+			"name": "(Song of Sincerity) Hajime Shino",
+			"nick": "hajime",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of Blue Fragments",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Shine! A Sparkling Starry Night Festival! (15 Nov 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/9/94/%28Song_of_Sincerity%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20151204065509",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0f/%28Song_of_Sincerity%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160410143520"
+		},
+		{
+			"id": 72,
+			"name": "(TanTan) Hajime Shino",
+			"nick": "hajime",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases acquisition rate of All Jewel Fragments",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Line Puzzle Tan Tan Collaboration! (28 Dec 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/db/%28TanTan%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20151228073515",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/c/c2/%28TanTan%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160306220945"
+		},
+		{
+			"id": 78,
+			"name": "(Sky-Colored Bubbles) Hajime Shino",
+			"nick": "hajime",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Best Shot!",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/79/%28Sky-Colored_Bubbles%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20160804033532",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Sky-Colored_Bubbles%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170201045635"
+		}
+	]
+}

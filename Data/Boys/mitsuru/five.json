@@ -1,0 +1,56 @@
+{
+	"cards": [
+		{
+			"id": 197,
+			"name": "(Lighted Path) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Yellow Jewels of all sizes",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Challenge! Tanabata Festival Wishes! (15 July 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d6/%28Lighted_Path%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20151117102715",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/f/f8/%28Lighted_Path%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160704190548"
+		},
+		{
+			"id": 202,
+			"name": "(Sincere Appreciation) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of All Blue Jewels",
+			"dreamfes": "Increases card's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Sincerely! Bitter Chocolate Festival! (31 Jan 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/04/%28Sincere_Appreciation%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20160208172242",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/d/d1/%28Sincere_Appreciation%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160321122043"
+		},
+		{
+			"id": 207,
+			"name": "(Naive Summer's Sky) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Medium Red Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Summer of Clear Skies! Summer Camp! (30 June 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Naive_Summer%27s_Sky%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20160725114758",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/f5/%28Naive_Summer%27s_Sky%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160725114833"
+		},
+		{
+			"id": 738,
+			"name": "(Hopeless Boy) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Yellow Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: BADBOYS! (14 Nov 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Hopeless_Boy%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20161114112317",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Hopeless_Boy%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161114112339"
+		}
+	]
+}

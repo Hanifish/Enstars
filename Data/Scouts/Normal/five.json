@@ -259,6 +259,84 @@
 			"origin": "Scout: Strawberry Picking! (30 Mar 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Berry_Monster%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160330103425",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Berry_Monster%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160330121246"
+		},
+		{
+			"id": 617,
+			"name": "(Color Guard Leader) Nazuna Nito",
+			"nick": "nazuna",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of red fragments",
+			"dreamfes": "Increases the card's Dance",
+			"stat": "Da",
+			"origin": "Scout: Marching Band! (21 May 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b5/Color_Guard_Leader_Nazuna_Nito.png/revision/latest/scale-to-width-down/250?cb=20160130230630",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/69/Color_Guard_Leader_Nazuna_Nito_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20160130230829"
+		},
+		{
+			"id": 631,
+			"name": "(Intricate Marble Ice Cream) Nazuna Nito",
+			"nick": "nazuna",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases fever rate",
+			"dreamfes": "Reduces opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Frozen Ice! (15 July 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Intricate_Marble_Ice_Cream%29_Nazuna_Nito.png/revision/latest/scale-to-width-down/250?cb=20160714145924",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b4/%28Intricate_Marble_Ice_Cream%29_Nazuna_Nito_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160722211855"
+		},
+		{
+			"id": 64,
+			"name": "(Rainbow Prism) Hajime Shino",
+			"nick": "hajime",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases Vocal in Dream Festival lessons",
+			"dreamfes": "Increases card's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/0/05/Rainbow_Prism_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20160423095645",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/ee/Rainbow_Prism_Hajime_Shino_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20160214093941"
+		},
+		{
+			"id": 68,
+			"name": "(Cherubic Eyes) Hajime Shino",
+			"nick": "hajime",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Holiday! (31 Aug 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a4/%28Cherubic_Eyes%29_Hajime_Shino.jpg/revision/latest/scale-to-width-down/250?cb=20150902162629",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/a/ad/%28Cherubic_Eyes%29_Hajime_Shino_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20150902162645"
+		},
+		{
+			"id": 715,
+			"name": "(The Princess and the Knight) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases rate of Blue Jewel Acquisition (Large)",
+			"dreamfes": "Increases card's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Rosicrucian Story! (14 Oct 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/59/%28The_Princess_and_the_Knight%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20161014204559",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/9/90/%28The_Princess_and_the_Knight%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161014205226"
+		},
+		{
+			"id": 738,
+			"name": "(Hopeless Boy) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Yellow Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: BADBOYS! (14 Nov 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Hopeless_Boy%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20161114112317",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Hopeless_Boy%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161114112339"
 		}
 	]
 }

@@ -1,0 +1,56 @@
+{
+	"cards": [
+		{
+			"id": 82,
+			"name": "(Considerate) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Blue Fragments",
+			"dreamfes": "Slightly increases card's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/e6/Considerate_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20150505151212",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/59/Tomoya_considerate_ultimate.png/revision/latest/scale-to-width-down/250?cb=20150507192409"
+		},
+		{
+			"id": 85,
+			"name": "(Spring Forth) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases Vocal during Dream Festival lessons",
+			"dreamfes": "Decreases the opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Marching Band Scout! (21 May 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/34/Spring_Forth_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20150522215050",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Spring_Forth%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160425133603"
+		},
+		{
+			"id": 92,
+			"name": "(Moving Heart's Future) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly Increases acquisition of Yellow Medium Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Reminiscence ＊ End of the Marionette's Strings! (15 Mar 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/2/2e/%28Moving_Heart%27s_Future%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20160325131109",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Moving_Heart%27s_Future%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160325130947"
+		},
+		{
+			"id": 96,
+			"name": "(Summer Training) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly Increases acquisition of Red Medium Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Summer of Clear Skies! Summer Camp! (15 July 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/23/%28Training_of_Summer%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20160726105759",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/9/94/%28Training_of_Summer%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160726112229"
+		}
+	]
+}

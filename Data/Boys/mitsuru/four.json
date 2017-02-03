@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 193,
+			"name": "(Super Star) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases Jewel fragment acquisition (All)",
+			"dreamfes": "Slightly reduces opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/7/71/Super_Star_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20150429184617",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/ee/Super_Star_Mitsuru_Tenma_Ultimate.PNG/revision/latest/scale-to-width-down/250?cb=20150506104200"
+		},
+		{
+			"id": 199,
+			"name": "(Substantial Jump) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases trust rate",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Burning Up! Yumenosaki Academy Sports Festival! (15 Sept 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/8/85/%28Substantial_Jump%29_Mitsuru_Tenma.jpg/revision/latest/scale-to-width-down/250?cb=20150922192025",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/4e/%28Substantial_Jump%29_Mitsuru_Tenma_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20150922192006"
+		},
+		{
+			"id": 201,
+			"name": "(Positive Detective) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Raises Luck by 1 level at the start of Lesson",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Showdown! Magnificent Phantom Thief VS Detective Brigade! (31 Dec 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Positive_Detective%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20161107071350",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Positive_Detective%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161107071454"
+		},
+		{
+			"id": 204,
+			"name": "(Enjoyable Mall) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Increases card's Dance",
+			"stat": "Da",
+			"origin": "Event: Bounce! Hearts and Flowers Bloom--Mall Live! (31 Mar 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/0/09/%28Enjoyable_Mall%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20160405212109",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/24/%28Enjoyable_Mall%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160405212129"
+		},
+		{
+			"id": 698,
+			"name": "(Tiptoeing Order) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Fruits Parlor!",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/41/%28Tiptoeing_Order%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20160930212331",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/0/01/%28Tiptoeing_Order%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160929080431"
+		}
+	]
+}

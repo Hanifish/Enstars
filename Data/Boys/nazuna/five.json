@@ -1,0 +1,56 @@
+{
+	"cards": [
+		{
+			"id": 617,
+			"name": "(Color Guard Leader) Nazuna Nito",
+			"nick": "nazuna",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of red fragments",
+			"dreamfes": "Increases the card's Dance",
+			"stat": "Da",
+			"origin": "Scout: Marching Band! (21 May 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b5/Color_Guard_Leader_Nazuna_Nito.png/revision/latest/scale-to-width-down/250?cb=20160130230630",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/69/Color_Guard_Leader_Nazuna_Nito_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20160130230829"
+		},
+		{
+			"id": 624,
+			"name": "(Promised Hymn) Nazuna Nito",
+			"nick": "nazuna",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of Blue Jewels (Large)",
+			"dreamfes": "Increases the card's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Shine! A Sparkling Starry Night Festival! (30 Nov 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Promised_Hymn%29_Nazuna_Nito.png/revision/latest/scale-to-width-down/250?cb=20151210143724",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/65/%28Promised_Hymn%29_Nazuna_Nito_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20151211010430"
+		},
+		{
+			"id": 628,
+			"name": "(Doll's Singing Voice) Nazuna Nito",
+			"nick": "nazuna",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Blue Large Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Reminiscence ＊ End of the Marionette's Strings! (15 Mar 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Doll%27s_Singing_Voice%29_Nazuna_Nito.png/revision/latest/scale-to-width-down/250?cb=20160704192727",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/f/f0/%28Doll%27s_Singing_Voice%29_Nazuna_Nito_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160704192048"
+		},
+		{
+			"id": 631,
+			"name": "(Intricate Marble Ice Cream) Nazuna Nito",
+			"nick": "nazuna",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases fever rate",
+			"dreamfes": "Reduces opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Frozen Ice! (15 July 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Intricate_Marble_Ice_Cream%29_Nazuna_Nito.png/revision/latest/scale-to-width-down/250?cb=20160714145924",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b4/%28Intricate_Marble_Ice_Cream%29_Nazuna_Nito_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160722211855"
+		}
+	]
+}
