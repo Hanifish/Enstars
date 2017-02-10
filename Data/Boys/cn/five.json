@@ -1,0 +1,43 @@
+{
+	"cards": [
+		{
+			"id": 0,
+			"name": "(Firefly's Return) Ritsu Sakuma",
+			"nick": "cn",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Pf",
+			"origin": "CN Event: Firefly's Night! (9 Oct 2016)",
+			"img": "http://68.media.tumblr.com/40695fa870430eb906d63744821cbc7b/tumblr_oh44wxPhJq1vkph0ko3_r2_1280.png",
+			"imgbloomed": "http://68.media.tumblr.com/42fdc031a1a497e7edbe654fec3ebb01/tumblr_oh44wxPhJq1vkph0ko4_r1_1280.png"
+		},
+		{
+			"id": 0,
+			"name": "(The Last Survivor) Kaoru Hakaze",
+			"nick": "cn",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Da",
+			"origin": "CN Event: In the Dark! (22 Nov 2016)",
+			"img": "http://68.media.tumblr.com/2899c12124f832ae06556cc1fc051a1d/tumblr_oh44u7GWEa1vkph0ko2_r1_1280.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/d732577c510cf91738ef10ba5aff05c6/tumblr_oh44u7GWEa1vkph0ko1_500.jpg"
+		},
+		{
+			"id": 0,
+			"name": "(Mottled Sunlight) Hajime Shino",
+			"nick": "cn",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Vo",
+			"origin": "CN Event: Afternoon Manor! (3 Jan 2017)",
+			"img": "http://68.media.tumblr.com/0b0b56f1d4614dea6ddcb4b167942a65/tumblr_oj20caXNN51vkph0ko1_1280.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/861647e589870ed88817a378b3af1e15/tumblr_oj20caXNN51vkph0ko2_1280.jpg"
+		}
+	]
+}

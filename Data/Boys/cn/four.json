@@ -1,0 +1,82 @@
+{
+	"cards": [
+		{
+			"id": 0,
+			"name": "(At the End of the Journey) Izumi Sena",
+			"nick": "cn",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Da",
+			"origin": "--",
+			"img": "http://68.media.tumblr.com/c45ac31b2244b96cae28971c52783f90/tumblr_oh41pbfkMr1vkph0ko2_1280.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/7732249308acba8b8054a85f61fc754f/tumblr_oh41pbfkMr1vkph0ko1_1280.jpg"
+		},
+		{
+			"id": 0,
+			"name": "(Summer Thoughts) Adonis Otogari",
+			"nick": "cn",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Da",
+			"origin": "CN Event: Firefly's Night! (9 Oct 2016)",
+			"img": "http://68.media.tumblr.com/0cd47301c5153f401cf6b560c7fe34ba/tumblr_ohjqshtQtN1vkph0ko1_540.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/91427b206c31216ad84f354d9390bf65/tumblr_ohjqshtQtN1vkph0ko2_540.jpg"
+		},
+		{
+			"id": 0,
+			"name": "(Solitary Infiltrator) Chiaki Morisawa",
+			"nick": "cn",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Pf",
+			"origin": "CN Event: In the Dark! (22 Nov 2016)",
+			"img": "http://68.media.tumblr.com/7b1280f92727fc7111d0f4495bafdd18/tumblr_oh4d60wC7a1vkph0ko1_r1_1280.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/643d7ad4a3a050af4f00045d2ed815f0/tumblr_oh4d60wC7a1vkph0ko2_r1_1280.jpg"
+		},
+		{
+			"id": 0,
+			"name": "(Wavering Heart) Midori Takamine",
+			"nick": "cn",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Da",
+			"origin": "CN Event: Budding Pop! (2 Dec 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/54/%28Wavering_Heart%29_Midori_Takamine.png",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/bd/%28Wavering_Heart%29_Midori_Takamine_Bloomed.png"
+		},
+		{
+			"id": 0,
+			"name": "(Flowers' Embrace) Tori Himemiya",
+			"nick": "cn",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Pf",
+			"origin": "CN Event: Afternoon Manor! (3 Jan 2017)",
+			"img": "http://68.media.tumblr.com/a2920e51c9598d5bb09a8a72d9e1d426/tumblr_oj0axfbFmv1uzproao3_1280.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/2b7ad82b3a6d7d2340d69a2dd241e226/tumblr_oj0axfbFmv1uzproao2_1280.jpg"
+		},
+		{
+			"id": 0,
+			"name": "(Lunar New Year) Tetora Nagumo",
+			"nick": "cn",
+			"alias": "sr6",
+			"star": "4",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Da",
+			"origin": "CN Event: Congratulate! Lunar New Years Wishes! (20 Jan 2017)",
+			"img": "http://68.media.tumblr.com/79434a8af2431f9a00f0a55a6ba88f84/tumblr_inline_ol1alcRwlT1rzji5z_500.png",
+			"imgbloomed": "http://68.media.tumblr.com/8568e225f66a7ff177d50bf37cacaec3/tumblr_inline_ol1agrBTDY1rzji5z_500.png"
+		}
+	]
+}

@@ -1,0 +1,121 @@
+{
+	"cards": [
+		{
+			"id": 0,
+			"name": "(Welcome to School) Subaru Akehoshi",
+			"nick": "cn",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Vo",
+			"origin": "--",
+			"img": "http://68.media.tumblr.com/1008a75e23ebe3b676ad8b905beea5bd/tumblr_oh40inzBss1vkph0ko1_1280.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/b8716368e5a1abad9bdeb6e3f9967e18/tumblr_oh40inzBss1vkph0ko2_r1_1280.jpg"
+		},
+		{
+			"id": 0,
+			"name": "(Sincere Thanks) Hokuto Hidaka",
+			"nick": "cn",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Pf",
+			"origin": "--",
+			"img": "http://68.media.tumblr.com/27e1395b8cf2808b7b47b83a54b200d8/tumblr_oh41gahoBu1vkph0ko1_1280.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/6d19e4109e45ab762e11f3e2ea042afc/tumblr_oh41gahoBu1vkph0ko2_1280.jpg"
+		},
+		{
+			"id": 0,
+			"name": "(Strategy) Eichi Tenshouin",
+			"nick": "cn",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Vo",
+			"origin": "--",
+			"img": "http://68.media.tumblr.com/02e0721c1ec5040fb08da545a3974bd1/tumblr_oh41mndXYr1vkph0ko2_1280.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/49d66ab610f3d6491712351176e3be58/tumblr_oh41mndXYr1vkph0ko1_1280.jpg"
+		},
+		{
+			"id": 0,
+			"name": "(Jittery Summer Night) Koga Oogami",
+			"nick": "cn",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Da",
+			"origin": "CN Event: Firefly's Night! (9 Oct 2016)",
+			"img": "http://68.media.tumblr.com/ade6e9defe5c9445861663ea12325039/tumblr_oh4f6id2Mq1vkph0ko1_1280.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/70bc64f40f254ef24f22460361683cae/tumblr_oh4f6id2Mq1vkph0ko2_1280.jpg"
+		},
+		{
+			"id": 0,
+			"name": "(Weird Doctor) Rei Sakuma",
+			"nick": "cn",
+			"alias": "r5",
+			"star": "3",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Pf",
+			"origin": "CN Event: In the Dark! (22 Nov 2016)",
+			"img": "http://68.media.tumblr.com/91125ec459d3d70fda5a4e99d8d3ed94/tumblr_oh4f467STc1vkph0ko1_1280.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/2c32e524ef2cdc57dca63c6dc10008da/tumblr_oh4f467STc1vkph0ko2_1280.jpg"
+		},
+		{
+			"id": 0,
+			"name": "(Budding Pop) Yuta Aoi",
+			"nick": "cn",
+			"alias": "r6",
+			"star": "3",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Pf",
+			"origin": "CN Event: Budding Pop! (2 Dec 2016)",
+			"img": "http://68.media.tumblr.com/e4c41328b311fed1c246f9a1f3d5d0e5/tumblr_ohf22wvVlH1vkph0ko1_500.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/1d32c7736e228dfebbc673ce1de50fe7/tumblr_ohghxhHD2W1uzproao4_500.jpg"
+		},
+		{
+			"id": 0,
+			"name": "(Budding Pop) Shinobu Sengoku",
+			"nick": "cn",
+			"alias": "r7",
+			"star": "3",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Vo",
+			"origin": "CN Event: Budding Pop! (2 Dec 2016)",
+			"img": "http://68.media.tumblr.com/9fbebbbf9c5dc272a20d8f520eee3e39/tumblr_ohf22wvVlH1vkph0ko2_500.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/2b33dffd77902a236506aad36c306b43/tumblr_ohghxhHD2W1uzproao6_500.jpg"
+		},
+		{
+			"id": 0,
+			"name": "() Eichi Tenshouin",
+			"nick": "cn",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Da",
+			"origin": "CN Event: Afternoon Manor! (3 Jan 2017)",
+			"img": "http://68.media.tumblr.com/cdf47d41a622a866ac90747d663771cc/tumblr_oiwh0zbI9w1vkph0ko1_1280.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/d5817c813b2f3b2847c74aaf9bc81e29/tumblr_oiwh0zbI9w1vkph0ko2_1280.jpg"
+		},
+		{
+			"id": 0,
+			"name": "() Tsukasa Suou",
+			"nick": "cn",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Vo",
+			"origin": "CN Event: Afternoon Manor! (3 Jan 2017)",
+			"img": "http://68.media.tumblr.com/b00f8d7967fec35802fdbdb818181e43/tumblr_oiwh0zbI9w1vkph0ko3_1280.jpg",
+			"imgbloomed": "http://68.media.tumblr.com/74ded1914542e161b801b20a293e1038/tumblr_oiwh0zbI9w1vkph0ko4_1280.jpg"
+		}
+	]
+}
