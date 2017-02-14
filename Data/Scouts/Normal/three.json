@@ -1508,6 +1508,32 @@
 			"origin": "Scout: Toy Box! (29 April 2016)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/40/%28Dwarf_of_Cooking%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20160504173837",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/1/18/%28Dwarf_of_Cooking%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160504173458"
+		},
+		{
+			"id": 786,
+			"name": "(Skilled Handcrafts) Shu Itsuki",
+			"nick": "shu",
+			"alias": "sr",
+			"star": "3",
+			"lesson": "Increases acquisition of all fragments",
+			"dreamfes": "Opponent's Vocal Down",
+			"stat": "Vo",
+			"origin": "Scout: Eccentric! (30 Dec 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/2/22/%28Skilled_Handcrafts%29_Shu_Itsuki.png/revision/latest/scale-to-width-down/250?cb=20161230063904",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/9/9f/%28Skilled_Handcrafts%29_Shu_Itsuki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161230063904"
+		},
+		{
+			"id": 785,
+			"name": "(Seed of Memories) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "sr",
+			"star": "3",
+			"lesson": "Increases acquisition of small yellow jewels",
+			"dreamfes": "Opponent's Performance down",
+			"stat": "Pf",
+			"origin": "Scout: Eccentric! (30 Dec 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Seeds_of_Memories%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20161230063903",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/9/99/%28Seeds_of_Memories%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161230063903"
 		}
 	]
 }

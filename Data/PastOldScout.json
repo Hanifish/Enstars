@@ -2,73 +2,60 @@
 	"eventThree": [
 		
 		{
-			"id": 786,
-			"name": "(Skilled Handcrafts) Shu Itsuki",
-			"nick": "shu",
-			"alias": "sr",
+			"id": 797,
+			"name": "(New Skater) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r12",
 			"star": "3",
-			"lesson": "Increases acquisition of all fragments",
-			"dreamfes": "Opponent's Vocal Down",
+			"lesson": "Slightly increases all stats during Lesson Battles",
+			"dreamfes": "Slightly increases own Vocal",
 			"stat": "Vo",
-			"origin": "Scout: Eccentric! (Dec 30, 2016)",
-			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/2/22/%28Skilled_Handcrafts%29_Shu_Itsuki.png/revision/latest/scale-to-width-down/250?cb=20161230063904",
-			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/9/9f/%28Skilled_Handcrafts%29_Shu_Itsuki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161230063904"
+			"origin": "Scout: Dance on Ice! (14 Jan 2017)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Young_and_Energetic_Skater%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170117070321",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Young_and_Energetic_Skater%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170117220849"
 		},
 		{
-			"id": 785,
-			"name": "(Seed of Memories) Wataru Hibiki",
-			"nick": "wataru",
-			"alias": "sr",
+			"id": 798,
+			"name": "(Uninhibited Skater) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "r5",
 			"star": "3",
-			"lesson": "Increases acquisition of small yellow jewels",
-			"dreamfes": "Opponent's Performance down",
-			"stat": "Pf",
-			"origin": "Scout: Eccentric! (Dec 30, 2016)",
-			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Seeds_of_Memories%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20161230063903",
-			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/9/99/%28Seeds_of_Memories%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161230063903"
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Vo",
+			"origin": "Scout: Dance on Ice! (14 Jan 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Rampant_Skater%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20170117070336",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/0/09/%28Rampant_Skater%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170117220709"
 		}
 	],
 	"eventFour": [
 		{
-			"id": 783,
-			"name": "(A Stage Only for Old Friends) Rei Sakuma",
-			"nick": "rei",
+			"id": 796,
+			"name": "(Fragrant Skater) Kaoru Hakaze",
+			"nick": "kaoru",
 			"alias": "ssr",
 			"star": "4",
-			"lesson": "Increases luck by one level",
-			"dreamfes": "Opponent's Dance Down Greatly",
-			"stat": "Da",
-			"origin": "Scout: Eccentric! (Dec 30, 2016)",
-			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b8/%28Old_Friend%27s_Unique_Performance%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20161230081338",
-			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/49/%28Old_Friend%27s_Unique_Performance%29_Rei_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161230093008"
-		},
-		{
-			"id": 784,
-			"name": "(Secret Trick) Kanata Shinkai",
-			"nick": "kanata",
-			"alias": "ssr",
-			"star": "4",
-			"lesson": "Greatly increases acquisition of all small jewels",
+			"lesson": "Greatly increases acquisition of all fragments",
 			"dreamfes": "Opponent's Vocal Down Greatly",
 			"stat": "Vo",
-			"origin": "Scout: Eccentric! (Dec 30, 2016)",
-			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2f/%28Secret_Trick%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20161230063902",
-			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/1/13/%28Secret_Trick%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161230063901"
+			"origin": "Scout: Dance on Ice! (14 Jan 2017)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b4/%28Sweet-Smelling_Skater%29_Kaoru_Hakaze.png/revision/latest/scale-to-width-down/250?cb=20170117070213",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Sweet-Smelling_Skater%29_Kaoru_Hakaze_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170117070236"
 		}
 	],
 	"five": [
 		{
-			"id": 782,
-			"name": "(Oddball Show) Natsume Sakasaki",
-			"nick": "natsume",
-			"alias": "ur",
+			"id": 795,
+			"name": "(Brilliant Skater) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur6",
 			"star": "5",
-			"lesson": "Increases acquisition of all medium jewels",
+			"lesson": "Greatly increases Fever",
 			"dreamfes": "Opponent's Performance down greatly",
 			"stat": "Pf",
-			"origin": "Scout: Eccentric! (Dec 30, 2016)",
-			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/1/11/%28The_Show_of_the_Oddballs%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20161230212508",
-			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/f/fb/%28The_Show_of_the_Oddballs%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161231001932"
+			"origin": "Scout: Dance on Ice! (14 Jan 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/51/%28Magnificent_Skater%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20170115085643",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Magnificent_Skater%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170115085700"
 		}
 	]
 }

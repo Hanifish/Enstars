@@ -51,6 +51,19 @@
 			"origin": "Event: Scorching Heat ☆ A Seaside Beach Match! (15 Aug 2016)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/f0/%28Burning_Summer%27s_Sandy_Beach%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20160822214445",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Burning_Summer%27s_Sandy_Beach%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160828062432"
+		},
+		{
+			"id": 0,
+			"name": "(Running White Tiger) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Increases acquisition of all medium jewels",
+			"dreamfes": "Dance Greatly Up",
+			"stat": "Da",
+			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
+			"img": "http://stars.happyelements.co.jp/sp/gachas/64/img/inuldyzg_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/sp/gachas/64/img/inuldyzg_e.png"
 		}
 	]
 }
