@@ -2,61 +2,61 @@
 	"eventThree": [
 		
 		{
-			"id": 0,
-			"name": "(Leaping Suzaku) Hinata Aoi",
+			"id": 825,
+			"name": "(Rising Suzaku) Hinata Aoi",
 			"nick": "hinata",
 			"alias": "r",
 			"star": "3",
-			"lesson": "Increases acquisition of yellow fragments",
-			"dreamfes": "Opponent's Performance down",
+			"lesson": "Slightly increases acquisition of yellow fragments",
+			"dreamfes": "Slightly decreases opponent's Performance",
 			"stat": "Pf",
 			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
-			"img": "http://stars.happyelements.co.jp/sp/gachas/64/img/ldftkojw_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/sp/gachas/64/img/ldftkojw_e.png"
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Rising_Vermilion_Bird%29_Hinata_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170214055908",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Rising_Vermilion_Bird%29_Hinata_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214055908"
 		},
 		{
-			"id": 813,
+			"id": 826,
 			"name": "(Indomitable Genbu) Koga Oogami",
 			"nick": "koga",
 			"alias": "r",
 			"star": "3",
 			"lesson": "Slightly increases all stats during Lesson Battles",
-			"dreamfes": "Opponent's Dance Down",
+			"dreamfes": "Slightly decreases opponent's Dance",
 			"stat": "Da",
 			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
-			"img": "http://stars.happyelements.co.jp/sp/gachas/64/img/enikqjvm_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/sp/gachas/64/img/enikqjvm_e.png"
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5a/%28Fortitude_of_the_Black_Tortoise%29_Koga_Oogami.png/revision/latest/scale-to-width-down/250?cb=20170214072005",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Fortitude_of_the_Black_Tortoise%29_Koga_Oogami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214055907"
 		}
 	],
 	"eventFour": [
 		{
-			"id": 0,
+			"id": 824,
 			"name": "(Waiting Blue Dragon) Kuro Kiryu",
 			"nick": "kuro",
 			"alias": "sr",
 			"star": "4",
-			"lesson": "Increases acquisition of blue medium jewels",
-			"dreamfes": "Vocal Greatly Up",
+			"lesson": "Slightly increases acquisition of blue medium jewels",
+			"dreamfes": "Increases own Vocal",
 			"stat": "Vo",
 			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
-			"img": "http://stars.happyelements.co.jp/sp/gachas/64/img/yrxjvczm_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/sp/gachas/64/img/yrxjvczm_e.png"
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/69/%28Awaiting_Azure_Dragon%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/250?cb=20170214142735",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2d/%28Awaiting_Azure_Dragon%29_Kuro_Kiryu_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214143020"
 		}
 
 	],
 	"five": [
 		{
-			"id": 0,
-			"name": "(Running White Tiger) Tetora Nagumo",
+			"id": 823,
+			"name": "(Leaping White Tiger) Tetora Nagumo",
 			"nick": "tetora",
 			"alias": "ur5",
 			"star": "5",
-			"lesson": "Increases acquisition of all medium jewels",
-			"dreamfes": "Dance Greatly Up",
+			"lesson": "Slightly increases acquisition of all medium jewels",
+			"dreamfes": "Increases own Dance",
 			"stat": "Da",
 			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
-			"img": "http://stars.happyelements.co.jp/sp/gachas/64/img/inuldyzg_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/sp/gachas/64/img/inuldyzg_e.png"
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Leaping_White_Tiger%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20170214060014",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/70/%28Leaping_White_Tiger%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214060115"
 		}
 
 	]
