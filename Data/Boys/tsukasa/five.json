@@ -51,6 +51,19 @@
 			"origin": "Scout: Fruits Parlor! (29 Sept 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/21/%28Greedy_Order%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20160930212334",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Greedy_Order%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161020014407"
+		},
+		{
+			"id": 827,
+			"name": "(Bitter Chocolat) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Blue Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Melty❤Sweetly Unraveling Chocolat Festival! (15 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/39/%28Bitter_Chocolat%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170215064327",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Bitter_Chocolat%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170215064326"
 		}
 	]
 }

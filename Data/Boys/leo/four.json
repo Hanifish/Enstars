@@ -38,6 +38,19 @@
 			"origin": "Scout: Beauties of Nature! (28 Feb 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/8e/%28Chirping_Turaco%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20160228093738",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Chirping_Turaco%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160310144239"
+		},
+		{
+			"id": 830,
+			"name": "(Sweet Chocolat) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Melty❤Sweetly Unraveling Chocolat Festival! (15 Feb 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Sweet_Chocolat%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20170215064331",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/44/%28Sweet_Chocolat%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170215064330"
 		}
 	]
 }

@@ -51,6 +51,19 @@
 			"origin": "Event: Summer of Clear Skies! Summer Camp! (15 July 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/23/%28Training_of_Summer%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20160726105759",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/9/94/%28Training_of_Summer%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160726112229"
+		},
+		{
+			"id": 829,
+			"name": "(Hot Chocolat) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases Trust rate of all members",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Melty❤Sweetly Unraveling Chocolat Festival! (15 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Hot_Chocolat%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20170216025107",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Hot_Chocolat%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170215064329"
 		}
 	]
 }

@@ -168,6 +168,19 @@
 			"origin": "Scout: Souma's Introduction (26 Jan 2017)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Voice_Training_Council%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170128014545",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/11/%28Voice_Training_Council%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170128014755"
+		},
+		{
+			"id": 831,
+			"name": "(Sweet Hospitality) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r14",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Melty❤Sweetly Unraveling Chocolat Festival! (15 Feb 2017)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Sweet_Warm_Welcome%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170215064332",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/3/33/%28Sweet_Warm_Welcome%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170215064332"
 		}
 	]
 }

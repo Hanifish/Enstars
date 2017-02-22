@@ -142,6 +142,19 @@
 			"origin": "Scout: Mika's Introduction! (26 June 2016)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0a/%28Cooking_Practice%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20160626071920",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/cb/%28Cooking_Practice%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161101205804"
+		},
+		{
+			"id": 832,
+			"name": "(Bittersweet) Izumi Sena",
+			"nick": "izumi",
+			"alias": "r12",
+			"star": "3",
+			"lesson": "Slightly increases Performance during Lesson Battles",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Melty❤Sweetly Unraveling Chocolat Festival! (15 Feb 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/af/%28Bittersweet%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20170215064327",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Bittersweet%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170215064327"
 		}
 	]
 }

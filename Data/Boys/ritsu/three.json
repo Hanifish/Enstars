@@ -165,9 +165,22 @@
 			"lesson": "Slightly increases acquisition of Small Red Jewels",
 			"dreamfes": "Slightly decreases opponent's Dance",
 			"stat": "Da",
-			"origin": "Event: Brilliance★Knights' Starlight Festival! (30 Nov 2016",
+			"origin": "Event: Brilliance★Knights' Starlight Festival! (30 Nov 2016)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/53/%28Vampire%27s_Gift_Exchange%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20161212072436",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Vampire%27s_Gift_Exchange%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161212072421"
+		},
+		{
+			"id": 833,
+			"name": "(Sweet Service) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "r14",
+			"star": "3",
+			"lesson": "Slightly increases Vocal during Lesson Battles",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Melty❤Sweetly Unraveling Chocolat Festival! (15 Feb 2017)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b6/%28Sweet_Service%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20170215064331",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/68/%28Sweet_Service%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170215064331"
 		}
 	]
 }

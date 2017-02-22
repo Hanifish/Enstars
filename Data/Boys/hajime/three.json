@@ -181,6 +181,19 @@
 			"origin": "Event: Depart☆Blue Skies Dream Travel! (15 Jan 2017)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/7/76/%28Town_Stroll%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20170118015607",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/0/08/%28Town_Stroll%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170115060633"
+		},
+		{
+			"id": 834,
+			"name": "(Happy Smile) Hajime Shino",
+			"nick": "hajime",
+			"alias": "r15",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Melty❤Sweetly Unraveling Chocolat Festival! (15 Feb 2017)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/89/%28Happy_Smile%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20170215064329",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Happy_Smile%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170215064329"
 		}
 	]
 }
