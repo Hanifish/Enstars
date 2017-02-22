@@ -116,6 +116,19 @@
 			"origin": "CN Event: Afternoon Manor! (3 Jan 2017)",
 			"img": "http://68.media.tumblr.com/b00f8d7967fec35802fdbdb818181e43/tumblr_oiwh0zbI9w1vkph0ko3_1280.jpg",
 			"imgbloomed": "http://68.media.tumblr.com/74ded1914542e161b801b20a293e1038/tumblr_oiwh0zbI9w1vkph0ko4_1280.jpg"
+		},
+		{
+			"id": 0,
+			"name": "(Busy Researcher) Mao Isara",
+			"nick": "cn",
+			"alias": "r9",
+			"star": "3",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Pf",
+			"origin": "CN Event: Close Encounter! (14 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Busy_Researcher%29_Isara_Mao.png/revision/latest?cb=20170216035238",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/79/%28Busy_Researcher%29_Isara_Mao_Bloomed.png/revision/latest?cb=20170216035316"
 		}
 	]
 }

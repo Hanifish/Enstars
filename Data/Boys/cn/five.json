@@ -38,6 +38,19 @@
 			"origin": "CN Event: Afternoon Manor! (3 Jan 2017)",
 			"img": "http://68.media.tumblr.com/0b0b56f1d4614dea6ddcb4b167942a65/tumblr_oj20caXNN51vkph0ko1_1280.jpg",
 			"imgbloomed": "http://68.media.tumblr.com/861647e589870ed88817a378b3af1e15/tumblr_oj20caXNN51vkph0ko2_1280.jpg"
+		},
+		{
+			"id": 0,
+			"name": "(Greetings From Space) Leo Tsukinaga",
+			"nick": "cn",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Da",
+			"origin": "CN Event: Close Encounter! (14 Feb 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Greetings_From_Space%29_Leo_Tsukinaga.png/revision/latest?cb=20170220212223",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/ad/%28Greetings_From_Space%29_Leo_Tsukinaga_Bloomed.png/revision/latest?cb=20170212131256"
 		}
 	]
 }
