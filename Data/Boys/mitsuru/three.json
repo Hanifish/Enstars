@@ -155,6 +155,19 @@
 			"origin": "Scout: Souma's Introduction! (Jan 26, 2017)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/8a/%28Contract%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20170128020643",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/41/%28Contract%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170126090654"
+		},
+		{
+			"id": 837,
+			"name": "(Precious Bouquet) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "r13",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Precious_Bouquet%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20170227060051",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Precious_Bouquet%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227060043"
 		}
 	]
 }

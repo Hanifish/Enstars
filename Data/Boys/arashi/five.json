@@ -64,6 +64,19 @@
 			"origin": "Event: Brilliance★Knights' Starlight Festival! (30 Nov 2016)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Holy_Knight_of_Silver%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20161130060029",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Holy_Knight_of_Silver%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161130060108"
+		},
+		{
+			"id": 835,
+			"name": "(Bouqet of Love) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all medium jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/8/88/%28Bouquet_of_Love%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170227135536",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/24/%28Bouquet_of_Love%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227135718"
 		}
 	]
 }

@@ -18,7 +18,7 @@
 			"id": 809,
 			"name": "(Voice Training Council) Arashi Narukami",
 			"nick": "arashi",
-			"alias": "r",
+			"alias": "r13",
 			"star": "3",
 			"lesson": "Increases acquisition of small red jewels",
 			"dreamfes": "Dance Up",
@@ -1534,6 +1534,32 @@
 			"origin": "Scout: Eccentric! (30 Dec 2016)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Seeds_of_Memories%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20161230063903",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/9/99/%28Seeds_of_Memories%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161230063903"
+		},
+		{
+			"id": 797,
+			"name": "(New Skater) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r12",
+			"star": "3",
+			"lesson": "Slightly increases all stats during Lesson Battles",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Dance on Ice! (14 Jan 2017)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Young_and_Energetic_Skater%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170117070321",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Young_and_Energetic_Skater%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170117220849"
+		},
+		{
+			"id": 798,
+			"name": "(Uninhibited Skater) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "r5",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Vo",
+			"origin": "Scout: Dance on Ice! (14 Jan 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Rampant_Skater%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20170117070336",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/0/09/%28Rampant_Skater%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170117220709"
 		}
 	]
 }

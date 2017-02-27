@@ -25,6 +25,19 @@
 			"origin": "Scout: Tsumugi's Introduction! (26 Oct 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/25/%28Gentle_Sound%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20161026230826",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Gentle_Sound%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161026230825"
+		},
+		{
+			"id": 836,
+			"name": "(Gentle Bouquet) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/67/%28Gentle_Bouquet%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20170227115319",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Gentle_Bouquet%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227115327"
 		}
 	]
 }

@@ -342,7 +342,7 @@
 			"id": 782,
 			"name": "(Oddball Show) Natsume Sakasaki",
 			"nick": "natsume",
-			"alias": "ur",
+			"alias": "ur2",
 			"star": "5",
 			"lesson": "Increases acquisition of all medium jewels",
 			"dreamfes": "Opponent's Performance down greatly",
@@ -350,6 +350,19 @@
 			"origin": "Scout: Eccentric! (30 Dec 2016)",
 			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/1/11/%28The_Show_of_the_Oddballs%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20161230212508",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/f/fb/%28The_Show_of_the_Oddballs%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161231001932"
+		},
+		{
+			"id": 795,
+			"name": "(Brilliant Skater) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Greatly increases Fever",
+			"dreamfes": "Opponent's Performance down greatly",
+			"stat": "Pf",
+			"origin": "Scout: Dance on Ice! (14 Jan 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/51/%28Magnificent_Skater%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20170115085643",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Magnificent_Skater%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170115085700"
 		}
 	]
 }

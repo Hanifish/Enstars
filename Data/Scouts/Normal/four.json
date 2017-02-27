@@ -121,7 +121,7 @@
 			"id": 693,
 			"name": "(Carefree Misfortune) Sora Harukawa",
 			"nick": "sora",
-			"alias": "sr",
+			"alias": "sr1",
 			"star": "4",
 			"lesson": "Increases all stats during Lesson DreamFes",
 			"dreamfes": "Decreases opponent's Performance",
@@ -597,6 +597,19 @@
 			"origin": "Scout: Eccentric! (30 Dec 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2f/%28Secret_Trick%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20161230063902",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/1/13/%28Secret_Trick%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161230063901"
+		},
+		{
+			"id": 796,
+			"name": "(Fragrant Skater) Kaoru Hakaze",
+			"nick": "kaoru",
+			"alias": "ssr",
+			"star": "4",
+			"lesson": "Greatly increases acquisition of all fragments",
+			"dreamfes": "Opponent's Vocal Down Greatly",
+			"stat": "Vo",
+			"origin": "Scout: Dance on Ice! (14 Jan 2017)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b4/%28Sweet-Smelling_Skater%29_Kaoru_Hakaze.png/revision/latest/scale-to-width-down/250?cb=20170117070213",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Sweet-Smelling_Skater%29_Kaoru_Hakaze_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170117070236"
 		}
 	]
 }

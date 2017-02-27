@@ -2,61 +2,61 @@
 	"eventThree": [
 		
 		{
-			"id": 825,
-			"name": "(Rising Suzaku) Hinata Aoi",
-			"nick": "hinata",
+			"id": 838,
+			"name": "(Bouquet of Gratitude) Mika Kagehira",
+			"nick": "mika",
 			"alias": "r",
 			"star": "3",
-			"lesson": "Slightly increases acquisition of yellow fragments",
-			"dreamfes": "Slightly decreases opponent's Performance",
-			"stat": "Pf",
-			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
-			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Rising_Vermilion_Bird%29_Hinata_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170214055908",
-			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Rising_Vermilion_Bird%29_Hinata_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214055908"
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Bouquet_of_Gratitude%29_Mika_Kagehira.png/revision/latest/scale-to-width-down/250?cb=20170227102700",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Bouquet_of_Gratitude%29_Mika_Kagehira_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227102208"
 		},
 		{
-			"id": 826,
-			"name": "(Indomitable Genbu) Koga Oogami",
-			"nick": "koga",
-			"alias": "r",
+			"id": 837,
+			"name": "(Precious Bouquet) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "r13",
 			"star": "3",
-			"lesson": "Slightly increases all stats during Lesson Battles",
-			"dreamfes": "Slightly decreases opponent's Dance",
-			"stat": "Da",
-			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
-			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5a/%28Fortitude_of_the_Black_Tortoise%29_Koga_Oogami.png/revision/latest/scale-to-width-down/250?cb=20170214072005",
-			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Fortitude_of_the_Black_Tortoise%29_Koga_Oogami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214055907"
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Precious_Bouquet%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20170227060051",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Precious_Bouquet%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227060043"
 		}
 	],
 	"eventFour": [
 		{
-			"id": 824,
-			"name": "(Waiting Blue Dragon) Kuro Kiryu",
-			"nick": "kuro",
-			"alias": "sr",
+			"id": 836,
+			"name": "(Gentle Bouquet) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "sr3",
 			"star": "4",
-			"lesson": "Slightly increases acquisition of blue medium jewels",
-			"dreamfes": "Increases own Vocal",
-			"stat": "Vo",
-			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
-			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/69/%28Awaiting_Azure_Dragon%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/250?cb=20170214142735",
-			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2d/%28Awaiting_Azure_Dragon%29_Kuro_Kiryu_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214143020"
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/67/%28Gentle_Bouquet%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20170227115319",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Gentle_Bouquet%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227115327"
 		}
 
 	],
 	"five": [
 		{
-			"id": 823,
-			"name": "(Leaping White Tiger) Tetora Nagumo",
-			"nick": "tetora",
-			"alias": "ur5",
+			"id": 835,
+			"name": "(Bouqet of Love) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "ur6",
 			"star": "5",
 			"lesson": "Slightly increases acquisition of all medium jewels",
-			"dreamfes": "Increases own Dance",
-			"stat": "Da",
-			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
-			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Leaping_White_Tiger%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20170214060014",
-			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/70/%28Leaping_White_Tiger%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214060115"
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/8/88/%28Bouquet_of_Love%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170227135536",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/24/%28Bouquet_of_Love%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227135718"
 		}
 
 	]
