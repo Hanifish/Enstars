@@ -1,0 +1,138 @@
+{
+	"five": [
+		{
+			"id": 161,
+			"name": "(Ups and Downs) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of All Red Jewels",
+			"dreamfes": "Increases the card's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/8/80/Ups_and_Downs_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160121221920",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/2/2b/Ups_and_Downs_Shinobu_Sengoku_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20160121222200"
+		},
+		{
+			"id": 171,
+			"name": "(Berry Monster) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all medium jewels",
+			"dreamfes": "Decreases opponent's Vo.",
+			"stat": "Vo",
+			"origin": "Scout: Strawberry Picking! (30 Mar 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Berry_Monster%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160330103425",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Berry_Monster%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160330121246"
+		}
+	],
+	"four": [
+		{
+			"id": 160,
+			"name": "(Ninja Explosion) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases Performance during Lesson Dream Festival",
+			"dreamfes": "Slightly decreases the opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/4e/Ninja_Explosion_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20150501150220",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b1/Ninja_Explosion_Shinobu_Sengoku_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150515025614"
+		},
+		{
+			"id": 169,
+			"name": "(Youthful Broadcaster) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases rate of trust",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Yumenosaki Youth Radio♪! (14 Feb 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Youthful_Broadcaster%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160214062318",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d0/%28Youthful_Broadcaster%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160214073842"
+		}
+	],
+	"three": [
+		{
+			"id": 157,
+			"name": "(On a Tree) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Yellow Jewels",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/c/c6/On_a_Tree_Shinobu_Sengoku.jpg/revision/latest/scale-to-width-down/250?cb=20150608053547",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/7/78/On_a_Tree_Shinobu_Sengoku_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150604020956"
+		},
+		{
+			"id": 158,
+			"name": "(Lonely) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Red Jewels",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b7/Lonely_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20150501230204",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/5/55/Lonely_Shinobu_Sengoku_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150512034813"
+		},
+		{
+			"id": 159,
+			"name": "(Worried) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Blue Jewels",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/68/Worried_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20150503012432",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/c/c9/Worried_Shinobu_Sengoku_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150518022220"
+		},
+		{
+			"id": 164,
+			"name": "(Yellow of Hope) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "r5",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Blue Jewels",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Hero Show! (30 June 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/9/90/%28Yellow_of_Hope%29_Shinobu_Sengoku.jpg/revision/latest/scale-to-width-down/250?cb=20150630110843",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/31/%28Yellow_of_Hope%29_Shinobu_Sengoku_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20150701230809"
+		},
+		{
+			"id": 163,
+			"name": "(For My Friend) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "r9",
+			"star": "3",
+			"lesson": "Slightly Increases acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Slightly Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Mika's Introduction! (26 June 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/0/0c/%28For_My_Friend%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160626071910",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/f5/%28For_My_Friend%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160630114601"
+		},
+		{
+			"id": 668,
+			"name": "(Indigo Torero) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "r10",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Carmen of Passion! (30 Aug 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/0/0f/%28Indigo_Torero%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160830141854",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/52/%28Indigo_Torero%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160830141930"
+		}
+	]
+}

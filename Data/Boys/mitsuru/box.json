@@ -1,0 +1,151 @@
+{
+	"five": [
+		{
+			"id": 738,
+			"name": "(Hopeless Boy) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Yellow Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: BADBOYS! (14 Nov 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Hopeless_Boy%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20161114112317",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Hopeless_Boy%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161114112339"
+		}
+	],
+	"four": [
+		{
+			"id": 193,
+			"name": "(Super Star) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases Jewel fragment acquisition (All)",
+			"dreamfes": "Slightly reduces opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/7/71/Super_Star_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20150429184617",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/ee/Super_Star_Mitsuru_Tenma_Ultimate.PNG/revision/latest/scale-to-width-down/250?cb=20150506104200"
+		},
+		{
+			"id": 698,
+			"name": "(Tiptoeing Order) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Fruits Parlor!",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/41/%28Tiptoeing_Order%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20160930212331",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/0/01/%28Tiptoeing_Order%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160929080431"
+		}
+	],
+	"three": [
+		{
+			"id": 192,
+			"name": "(Pastries) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases Jewel fragment acquisition (All)",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/3f/Pastries_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20150501154436",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/9/95/Pastries_Mitsuru_Tenma_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150604001134"
+		},
+		{
+			"id": 194,
+			"name": "(Afternoon Nap) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly Increases all stats during Lesson Dreamfes",
+			"dreamfes": "Slightly Decreases opponent's Dance",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b7/Afternoon_Nap_Mitsuru_Tenma.jpg/revision/latest/scale-to-width-down/250?cb=20150511132918",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Afternoon_Nap%29_Mitsuru_Tenma_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150812065351"
+		},
+		{
+			"id": 195,
+			"name": "(Favorite) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases Fever up percentage",
+			"dreamfes": "Slightly reduces the opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/4c/Favorite_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20150502021923",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/0/0d/Favorite_Mitsuru_Tenma_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150624001044"
+		},
+		{
+			"id": 196,
+			"name": "(Drum) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "Slightly increases the acquisition of Yellow fragments",
+			"dreamfes": "Slightly increases the card's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Marching Band! (21 May 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5a/Drum_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20150522165850",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/4c/%28Drum%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160414221626"
+		},
+		{
+			"id": 200,
+			"name": "(Achilles) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "r6",
+			"star": "3",
+			"lesson": "Slightly increases all stats during Dream Festival lessons.",
+			"dreamfes": "Slightly increases the card's Vocal.",
+			"stat": "Vo",
+			"origin": "Scout: Greek Legends! (29 Nov 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b4/%28Achilles%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20151129072147",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Achilles%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160326165644"
+		},
+		{
+			"id": 205,
+			"name": "(Dwarf of Cooking) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all colors of Jewel Fragments",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Toy Box! (29 April 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/40/%28Dwarf_of_Cooking%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20160504173837",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/1/18/%28Dwarf_of_Cooking%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160504173458"
+		},
+		{
+			"id": 810,
+			"name": "(Contract) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "r12",
+			"star": "3",
+			"lesson": "Increases acquisition of all small jewels",
+			"dreamfes": "Vocal Up",
+			"stat": "Vo",
+			"origin": "Scout: Souma's Introduction! (Jan 26, 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/8a/%28Contract%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20170128020643",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/41/%28Contract%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170126090654"
+		},
+		{
+			"id": 837,
+			"name": "(Precious Bouquet) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "r13",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Precious_Bouquet%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20170227060051",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Precious_Bouquet%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227060043"
+		}
+	]
+}

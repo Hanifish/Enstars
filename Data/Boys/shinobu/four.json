@@ -64,6 +64,19 @@
 			"origin": "Event: Scorching Heat ☆ A Seaside Beach Match! (15 Aug 2016)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/9/94/%28Sand_Castle%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160826071003",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/ae/%28Sand_Castle%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160830141814"
+		},
+		{
+			"id": 842,
+			"name": "(Embracing the Hope) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "sr6",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of All Jewel Fragments",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Baton Pass! Repayment Festival of Tears and Bonds! (28 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Embracing_the_Hope%29_Shinobu_Sengoku.png/revision/latest?cb=20170228142440",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Embracing_the_Hope%29_Shinobu_Sengoku_Bloomed.png/revision/latest?cb=20170228142356"
 		}
 	]
 }

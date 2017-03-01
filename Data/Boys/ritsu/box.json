@@ -1,0 +1,138 @@
+{
+	"five": [
+		{
+			"id": 332,
+			"name": "(King of Sweetness) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases Blue fragment acquisition",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Sweets Patisserie! (31 May 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0b/%28King_of_Sweetness%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20150608004629",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/72/%28King_of_Sweetness%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20150615082013"
+		}
+	],
+	"four": [
+		{
+			"id": 329,
+			"name": "(Strategist) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of All Yellow Jewels",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/ad/Strategist_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20150501154919",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/52/%28Strategist%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160505204501"
+		},
+		{
+			"id": 340,
+			"name": "(Cheshire's Early Afternoon) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Blue Medium Jewels",
+			"dreamfes": "Increases card's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Tea Party! (30 Jan 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Cheshire%27s_Early_Afternoon%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20160130163356",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a9/%28Cheshire%27s_Early_Afternoon%29_Ritsu_Sakuma_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20160203014628"
+		},
+		{
+			"id": 778,
+			"name": "(Night Theatre) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases Trust rate of all members",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Ritsu's Introduction! (26 Dec 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Night_Theatre%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20161226095840",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/d/d3/%28Night_Theatre%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161226095915"
+		}
+	],
+	"three": [
+		{
+			"id": 328,
+			"name": "(Sleepy) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases small Jewel acquisition (Red)",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/64/Sleepy_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20150501230204",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/35/%28Sleepy%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20150823102426"
+		},
+		{
+			"id": 330,
+			"name": "(Soda) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly Increases acquisition of Small Blue Jewels",
+			"dreamfes": "Slightly Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/d/dc/Soda_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20150501160131",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c3/Soda_Ritsu_Sakuma_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150509184916"
+		},
+		{
+			"id": 331,
+			"name": "(Cramped Costume) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases Jewel acquisition (Yellow)",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/1/1e/Cramped_Costume_Ritsu_Sakuma.PNG/revision/latest/scale-to-width-down/250?cb=20150503145724",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Cramped_Costume%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161114172759"
+		},
+		{
+			"id": 338,
+			"name": "(Shuten Doji) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "r5",
+			"star": "3",
+			"lesson": "Slightly Increases Performance during Lesson Dream Fes",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Ghost Stories! (1 Aug 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/1/1b/%28Shuten_Doji%29_Ritsu_Sakuma.jpg/revision/latest/scale-to-width-down/250?cb=20150826111357",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/51/%28Shuten_Doji%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20151117103334"
+		},
+		{
+			"id": 341,
+			"name": "(Peregrine Falcon) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly increases card's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Beauties of Nature! (28 Feb 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/2/28/%28Falcon%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20160228093810",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/65/%28Falcon%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160302025632"
+		},
+		{
+			"id": 751,
+			"name": "(Flower Garden Slumber) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "r12",
+			"star": "3",
+			"lesson": "Slightly increases Vocal stat during Lesson Dream Fes",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Natsume's Introduction! (26 Nov 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b8/%28Flower_Garden_Slumber%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20161212054316",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/52/%28Flower_Garden_Slumber%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161212054334"
+		}
+	]
+}

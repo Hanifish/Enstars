@@ -1,0 +1,164 @@
+{
+	"five": [
+		{
+			"id": 64,
+			"name": "(Rainbow Prism) Hajime Shino",
+			"nick": "hajime",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases Vocal in Dream Festival lessons",
+			"dreamfes": "Increases card's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/0/05/Rainbow_Prism_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20160423095645",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/ee/Rainbow_Prism_Hajime_Shino_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20160214093941"
+		},
+		{
+			"id": 68,
+			"name": "(Cherubic Eyes) Hajime Shino",
+			"nick": "hajime",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Holiday! (31 Aug 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a4/%28Cherubic_Eyes%29_Hajime_Shino.jpg/revision/latest/scale-to-width-down/250?cb=20150902162629",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/a/ad/%28Cherubic_Eyes%29_Hajime_Shino_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20150902162645"
+		},
+		{
+			"id": 811,
+			"name": "(Jasmine Tea) Hajime Shino",
+			"nick": "hajime",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Greatly increases all cards' Trust",
+			"dreamfes": "Vocal greatly up",
+			"stat": "Vo",
+			"origin": "Scout: Salon de Thé! (30 Jan 2017)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/44/%28Jasmine_Tea%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20170130103841",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/df/%28Jasmine_Tea%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170131025356"
+		}
+	],
+	"four": [
+		{
+			"id": 61,
+			"name": "(Hospitality) Hajime Shino",
+			"nick": "hajime",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Yellow Jewels of all sizes",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/f/f4/Hospitality_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20150505151254",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/1/19/Hospitality_Hajime_Shino_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150512235151"
+		},
+		{
+			"id": 78,
+			"name": "(Sky-Colored Bubbles) Hajime Shino",
+			"nick": "hajime",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Best Shot!",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/79/%28Sky-Colored_Bubbles%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20160804033532",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Sky-Colored_Bubbles%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170201045635"
+		}
+	],
+	"three": [
+		{
+			"id": 60,
+			"name": "(Devoted) Hajime Shino",
+			"nick": "hajime",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Blue Jewel Fragments",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/53/Devoted_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20150524203635",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/c/c3/Devoted_Hajime_Shino_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150524203716"
+		},
+		{
+			"id": 62,
+			"name": "(Sketch) Hajime Shino",
+			"nick": "hajime",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increase acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/71/Sketch_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20150502021306",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/de/Hajime_shino_sketch_ulti.png/revision/latest/scale-to-width-down/250?cb=20150508042325"
+		},
+		{
+			"id": 63,
+			"name": "(Goal) Hajime Shino",
+			"nick": "hajime",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Red Jewel Fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c9/Goal_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20150503012228",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/2/2d/Goal_Hajime_Shino_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150511010448"
+		},
+		{
+			"id": 65,
+			"name": "(Flute) Hajime Shino",
+			"nick": "hajime",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "Slightly increases Fever up percentage",
+			"dreamfes": "Slightly increases the card's Dance",
+			"stat": "Da",
+			"origin": "Scout: Marching Band! (21 May 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/ce/Flute_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20150522165810",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/b/bd/Flute_Hajime_Shino_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150522165832"
+		},
+		{
+			"id": 73,
+			"name": "(Lost Alice) Hajime Shino",
+			"nick": "hajime",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "Slightly increases Vocal stat during Lesson Dreamfes",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Tea Party! (30 Jan 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Lost_Alice%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20160130164910",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e1/%28Lost_Alice%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160209063128"
+		},
+		{
+			"id": 741,
+			"name": "(Completely Bad) Hajime Shino",
+			"nick": "hajime",
+			"alias": "r12",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: BADBOYS! (14 Nov 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/42/%28Completely_Bad%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20161211052504",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Completely_Bad%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161211052449"
+		},
+		{
+			"id": 769,
+			"name": "(Lamp's Gravekeeper) Hajime Shino",
+			"nick": "hajime",
+			"alias": "r13",
+			"star": "3",
+			"lesson": "Slightly increases all stats during Lesson Battles",
+			"dreamfes": "Opponent's Performance down",
+			"stat": "Pf",
+			"origin": "Scout: Nocturne! (Dec 14, 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Lamp%27s_Gravekeeper%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20161214102849",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Lamp%27s_Gravekeeper%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161214102903"
+		}
+	]
+}

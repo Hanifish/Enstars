@@ -64,6 +64,19 @@
 			"origin": "Event: Radiant☆Hot Holiday Party! (15 Dec 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/de/%28Bright_Red_Excitement%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20161222131335",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/9/9a/%28Bright_Red_Excitement%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161222131529"
+		},
+		{
+			"id": 839,
+			"name": "(Entrusting the Passion) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Baton Pass! Repayment Festival of Tears and Bonds! (28 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Entrusting_the_Passion%29_Chiaki_Morisawa.png/revision/latest?cb=20170228062943",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/35/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Bloomed.png/revision/latest?cb=20170228062943"
 		}
 	]
 }

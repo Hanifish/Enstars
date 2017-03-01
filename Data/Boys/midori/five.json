@@ -51,6 +51,19 @@
 			"origin": "Scout: Colorful Autumn! (30 Oct 2016)",
 			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/e/ea/%28Coloration_Painter%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20161030063557",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/9/93/%28Coloration_Painter%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161212202149"
+		},
+		{
+			"id": 840,
+			"name": "(Believing the Potential) Midori Takamine",
+			"nick": "midori",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Yellow Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Baton Pass! Repayment Festival of Tears and Bonds! (28 Feb 2017)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/1/15/%28Believing_the_Potential%29_Midori_Takamine.png/revision/latest?cb=20170228062944",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/7d/%28Believing_the_Potential%29_Midori_Takamine_Bloomed.png/revision/latest?cb=20170228062944"
 		}
 	]
 }

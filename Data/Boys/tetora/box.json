@@ -1,0 +1,164 @@
+{
+	"five": [
+		{
+			"id": 44,
+			"name": "(Flying Guts) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Yellow Jewels of all Sizes",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Flying_Guts%29_Tetora_Nagumo.jpg/revision/latest/scale-to-width-down/250?cb=20151027085420",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/3b/%28Flying_Guts%29_Tetora_Nagumo_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20150627032229"
+		},
+		{
+			"id": 823,
+			"name": "(Leaping White Tiger) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all medium jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Leaping_White_Tiger%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20170214060014",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/70/%28Leaping_White_Tiger%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214060115"
+		}
+	],
+	"four": [
+		{
+			"id": 41,
+			"name": "(Live Reporter) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/5/56/Live_Reporter_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20150504073944",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/d4/Live_Reporter_Tetora_Nagumo_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20161212042412"
+		},
+		{
+			"id": 46,
+			"name": "(Black of Diligence) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of all Blue Jewels",
+			"dreamfes": "Increases the card's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Hero Show! (30 June 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/87/%28Black_of_Diligence%29_Tetora_Nagumo.jpg/revision/latest/scale-to-width-down/250?cb=20150630105155",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/40/%28Black_of_Diligence%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160401021022"
+		},
+		{
+			"id": 728,
+			"name": "(Friendship Painter) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Colorful Autumn! (30 Oct 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/d8/%28Friendship_Painter%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20161030063551",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Friendship_Painter%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161206021616"
+		}
+	],
+	"three": [
+		{
+			"id": 40,
+			"name": "(Zealous) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Red Jewel Fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Zealous%29_Tetora_Nagumo.PNG/revision/latest/scale-to-width-down/250?cb=20150502173126",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/85/%28Zealous%29_Tetora_Nagumo_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151121234509"
+		},
+		{
+			"id": 42,
+			"name": "(Studying) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Blue Jewel Fragments",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/60/Studying_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20150502025706",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/72/Studying_Tetora_Nagumo_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150624000928"
+		},
+		{
+			"id": 43,
+			"name": "(Fighting Spirit) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increase the acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Slightly increase own Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/73/%28Fighting_Spirit%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20150611183838",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Fighting_Spirit%29_Tetora_Nagumo_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151121234205"
+		},
+		{
+			"id": 45,
+			"name": "(Overcoming Challenges) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "Slightly increases Vocal Stat during Lesson Dreamfes",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Fresh Green Martial Arts! (17 June 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/7/74/%28Overcoming_Challenges%29_Tetora_Nagumo.jpg/revision/latest/scale-to-width-down/250?cb=20150625021228",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/de/%28Overcoming_Challenges%29_Tetora_Nagumo_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20150625021257"
+		},
+		{
+			"id": 48,
+			"name": "(Assistant Cook) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "r6",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Red Jewels (Small)",
+			"dreamfes": "Slightly Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Yumenosaki Restaurant! (17 Aug 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/7/7b/%28Assistant_Cook%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20151105164035",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/e6/%28Assistant_Cook%29_Tetora_Nagumo_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151220032607"
+		},
+		{
+			"id": 50,
+			"name": "(Cheering Flag) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "r7",
+			"star": "3",
+			"lesson": "Slightly increases the acquisition of Yellow Jewels (Small)",
+			"dreamfes": "Slightly decreases the opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Hot-Blooded Tough Guy (15 Nov 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/c/ce/%28Cheering_Flag%29_Tetora_Nagumo.jpg/revision/latest/scale-to-width-down/250?cb=20151122114912",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/44/%28Cheering_Flag%29_Tetora_Nagumo_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151122115203"
+		},
+		{
+			"id": 781,
+			"name": "(Objective's Form) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "r12",
+			"star": "3",
+			"lesson": "Slightly increases Performance during Lesson Battles",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Ritsu's Introduction!",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Objective%27s_Form%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20161227215124",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/81/%28Objective%27s_Form%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161226074730"
+		}
+	]
+}

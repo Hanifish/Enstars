@@ -1,0 +1,86 @@
+{
+	"five": [
+		{
+			"id": 782,
+			"name": "(Oddball Show) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Medium Jewels",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Eccentrics! (30 Dec 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/1/11/%28The_Show_of_the_Oddballs%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20161230212508",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/f/fb/%28The_Show_of_the_Oddballs%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161231001932"
+		}
+	],
+	"four": [
+		{
+			"id": 750,
+			"name": "(Magical Symbol) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases Trust rate of all members",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Natsume's Introduction! (26 Nov 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Magical_Symbol%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20161126060820",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/41/%28Magical_Symbol%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161126060845"
+		}
+	],
+	"three": [
+		{
+			"id": 657,
+			"name": "(Loophole) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases Dance during Lesson Dreamfes",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Switch's Introduction! (26 Aug 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/17/%28Secret_Passage%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20161019110512",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/8d/%28Secret_Passage%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160828155201"
+		},
+		{
+			"id": 658,
+			"name": "(Skipping Class) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Switch's Introduction! (26 Aug 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/be/%28Skipping_Class%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20170109173501",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b8/%28Skipping_Class%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170109173521"
+		},
+		{
+			"id": 718,
+			"name": "(Story-telling Minstrel) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all jewel fragments",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Rosicrucian Story! (14 Oct 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/2/22/%28Story-telling_Minstrel%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20161014210757",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Story-telling_Minstrel%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161014233440"
+		},
+		{
+			"id": 723,
+			"name": "(Visitor) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "Slightly increases Dance during Lesson DreamFes",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Tsumugi's Introduction! (26 Oct 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Visitor%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20161026230827",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Visitor%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161026230827"
+		}
+	]
+}

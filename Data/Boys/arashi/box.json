@@ -1,0 +1,164 @@
+{
+	"five": [
+		{
+			"id": 408,
+			"name": "(Moonlight's Snowy Owl) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Increases card's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Beauties of Nature! (28 Feb 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/37/%28Moonlight%27s_Snowy_Owl%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20160228093606",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Moonlight%27s_Snowy_Owl%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160304004421"
+		},
+		{
+			"id": 835,
+			"name": "(Bouqet of Love) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all medium jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/8/88/%28Bouquet_of_Love%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170227135536",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/24/%28Bouquet_of_Love%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227135718"
+		}
+	],
+	"four": [
+		{
+			"id": 394,
+			"name": "(Fervent Whirlwind) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases Acquisition of All Red Jewels",
+			"dreamfes": "Slighty reduces Opponent's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e6/Fervent_Whirlwind_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20160222221212",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/41/Fervent_Whirlwind_Arashi_Narukami_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20160222221233"
+		},
+		{
+			"id": 397,
+			"name": "(Cooking Leader) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases Red, Blue, Yellow fragment acquisition",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Sweets Patisserie! (31 May 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Cooking_Leader%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20150608004505",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/61/%28Cooking_Leader%29_Arashi_Narukami_ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151018145753"
+		}
+	],
+	"three": [
+		{
+			"id": 393,
+			"name": "(Ally) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all jewel fragments.",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b6/Ally_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20150503191838",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/f/fb/Ally_Arashi_Narukami_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20150507230648"
+		},
+		{
+			"id": 395,
+			"name": "(Owner) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases all stats during Dream Festival Lesson.",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/1/12/Owner_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20150503012248",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/0/08/Owner_Arashi_Narukami_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150518022438"
+		},
+		{
+			"id": 396,
+			"name": "(Well-dressed) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/a0/Well-dressed_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20150501230205",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/38/%28Well-dressed%29_Arashi_Narukami_ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151018145956"
+		},
+		{
+			"id": 402,
+			"name": "(Maiden's Shopping) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r6",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Red Jewel Fragments",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Holiday! (31 Aug 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/c/c8/%28Maiden%27s_Shopping%29_Arashi_Narukami.jpg/revision/latest/scale-to-width-down/250?cb=20150831124845",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Maiden%27s_Shopping%29_Arashi_Narukami_ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151018145926"
+		},
+		{
+			"id": 405,
+			"name": "(Narcissus) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r7",
+			"star": "3",
+			"lesson": "Slightly increases the acquisition of Red Jewel Fragments",
+			"dreamfes": "Slightly decreases the Opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Greek Legends! (29 Nov 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Narcissus%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20151129070121",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/42/%28Narcissus%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160222221320"
+		},
+		{
+			"id": 399,
+			"name": "(Narcissism) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of All Jewel Fragments",
+			"dreamfes": "Slightly increases card's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Izumi's Introduction! (27 Jan 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Narcissism%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20160127073036",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Narcissism%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160130210635"
+		},
+		{
+			"id": 702,
+			"name": "(Recommendation Cake) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r11",
+			"star": "3",
+			"lesson": "Slightly increases Dance during Lesson DreamFes",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Fruits Parlor! (29 Aug 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Recommendation_Cake%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20160930212330",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/8/8e/%28Recommendation_Cake%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160929080430"
+		},
+		{
+			"id": 809,
+			"name": "(Voice Training Council) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r13",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Red Jewels",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Souma's Introduction (26 Jan 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Voice_Training_Council%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170128014545",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/11/%28Voice_Training_Council%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170128014755"
+		}
+	]
+}

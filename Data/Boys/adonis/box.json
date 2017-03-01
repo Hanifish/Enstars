@@ -1,0 +1,151 @@
+{
+	"five": [
+		{
+			"id": 293,
+			"name": "(Thoughtful Friends) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "All stats up",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Thoughtful_of_Friends%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20151109152547",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d5/%28Thoughtful_of_Friends%29_Adonis_Otogari_ultimate.png/revision/latest/scale-to-width-down/250?cb=20151109152536"
+		},
+		{
+			"id": 301,
+			"name": "(War at the Crossroads) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Increases acquisition of large red jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Policeman! (16 Oct 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/03/%28War_at_the_Crossroads%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20160201062430",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/f/fc/%28War_at_the_Crossroads%29_Adonis_Otogari_ultimate.png/revision/latest/scale-to-width-down/250?cb=20160201062719"
+		},
+		{
+			"id": 671,
+			"name": "(Paradise Lion's Dream) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Greatly increases Fever",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Arabian Nights! (14 Sep 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/d1/%28Paradise_Lion%27s_Dream%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20160914151704",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Paradise_Lion%27s_Dream%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160914152043"
+		}
+	],
+	"four": [
+		{
+			"id": 292,
+			"name": "(Silent Beast) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Increases acquisition of all fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/a1/Silent_Beast_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20150503030534",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/12/Silent_Beast_Adonis_Otogari_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150505111155"
+		},
+		{
+			"id": 303,
+			"name": "(Stride of Ares) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Greatly increases all cards' Trust",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Greek Legends! (29 Nov 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/43/%28Stride_of_Ares%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20160315035529",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/39/%28Stride_of_Ares%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160511015324"
+		}
+	],
+	"three": [
+		{
+			"id": 291,
+			"name": "(Meat Diet) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all jewel fragments",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/46/%28Meat_Diet%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20150615052000",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/4c/Meat_Diet_Adonis_Otogari_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150624000624"
+		},
+		{
+			"id": 294,
+			"name": "(Anpan) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Increases luck by one level",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/d/dd/Anpan_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20150429054346",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/2/2b/Anpan_Adonis_Otogari_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20161114171746"
+		},
+		{
+			"id": 295,
+			"name": "(Agony over his clothes) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases all cards' Trust",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/63/%28Agony_over_his_Clothes%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20160217003655",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Agony_Over_his_Clothes%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160217003743"
+		},
+		{
+			"id": 304,
+			"name": "(Show Mascot) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "Increases acquisition of yellow fragments",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Amusement Park Show! (14 Jan 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/80/%28Show_Mascot%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20160114164128",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d4/%28Show_Mascot%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160414221648"
+		},
+		{
+			"id": 307,
+			"name": "(Small Item) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "r11",
+			"star": "3",
+			"lesson": "Increases acquisition of all fragments",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Da",
+			"origin": "Scout: Palace of the Ocean! (14 Apr 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/7/76/%28Small_Item%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20160416025832",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/33/%28Small_Item%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160416185936"
+		},
+		{
+			"id": 779,
+			"name": "(Strong Person) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "r14",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Ritsu's Introduction! (26 Dec 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/df/%28Strong_Person%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20161227215100",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/23/%28Strong_Person%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161226074728"
+		}
+	]
+}

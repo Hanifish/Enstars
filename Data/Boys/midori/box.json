@@ -1,0 +1,151 @@
+{
+	"five": [
+		{
+			"id": 727,
+			"name": "(Coloration Painter) Midori Takamine",
+			"nick": "midori",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Colorful Autumn! (30 Oct 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/e/ea/%28Coloration_Painter%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20161030063557",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/9/93/%28Coloration_Painter%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161212202149"
+		}
+	],
+	"four": [
+		{
+			"id": 117,
+			"name": "(Embarrassment) Midori Takamine",
+			"nick": "midori",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all Jewels (Blue)",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/2/29/Embarrassment_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20150430063701",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d1/%28Embarrassment%29_Midori_Takamine_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20150508165725"
+		},
+		{
+			"id": 125,
+			"name": "(Upperclassman's Present) Midori Takamine",
+			"nick": "midori",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Yellow Jewels (Medium)",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Midori's Introduction! (26 Nov 2015)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/44/%28Upperclassman%27s_Present%29_Midori_Takamine.jpg/revision/latest/scale-to-width-down/250?cb=20151111235755",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/15/%28Upperclassman%27s_Present%29_Midori_Takamine_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20151126165237"
+		},
+		{
+			"id": 128,
+			"name": "(Berry Happy Day) Midori Takamine",
+			"nick": "midori",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Yellow Medium Jewels",
+			"dreamfes": "Increases card's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Strawberry Picking! (30 Mar 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/de/%28Berry_Happy_Day%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20160330103436",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/2/20/%28Berry_Happy_Day%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160409074319"
+		}
+	],
+	"three": [
+		{
+			"id": 116,
+			"name": "(Melancholy) Midori Takamine",
+			"nick": "midori",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/24/Melancholy_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20150503142736",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c9/Melancholy_Midori_Takamine_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150511003111"
+		},
+		{
+			"id": 118,
+			"name": "(Going to School) Midori Takamine",
+			"nick": "midori",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Red Jewel Fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/1b/Going_to_School_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20160330023404",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/7/73/Going_to_School_Midori_Takamine_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150512234556"
+		},
+		{
+			"id": 119,
+			"name": "(Striking Color) Midori Takamine",
+			"nick": "midori",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Blue Jewel Fragments",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/44/Striking_Color_Midori_Takamine.PNG/revision/latest/scale-to-width-down/250?cb=20150504082838",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/54/Striking_Color_Midori_Takamine_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150511005856"
+		},
+		{
+			"id": 120,
+			"name": "(Green of Compassion) Midori Takamine",
+			"nick": "midori",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "Slightly increases Dance during Lesson DreamFes",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Hero Show! (30 June 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c8/%28Green_of_Compassion%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20150630133830",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d6/%28Green_of_Compassion%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20150701070834"
+		},
+		{
+			"id": 124,
+			"name": "(Morning's Cheer) Midori Takamine",
+			"nick": "midori",
+			"alias": "r5",
+			"star": "3",
+			"lesson": "Slightly increases all stats during Dream Festival lessons",
+			"dreamfes": "Slightly decreases the opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Hot-Blooded Tough Guy! (15 Nov 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Morning%27s_Cheer%29_Midori_Takamine.jpg/revision/latest/scale-to-width-down/250?cb=20151122123830",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/ea/%28Morning%27s_Cheer%29_Midori_Takamine_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151122123724"
+		},
+		{
+			"id": 123,
+			"name": "(Basukebon) Midori Takamine",
+			"nick": "midori",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "Slightly Increases acquisition of Red Jewels (Small)",
+			"dreamfes": "Slightly Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Shu's Introduction!",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/61/%28Basukebon%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20161122231830",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/86/%28Basukebon%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161122231847"
+		},
+		{
+			"id": 131,
+			"name": "(Lubrication of the Heart) Midori Takamine",
+			"nick": "midori",
+			"alias": "r9",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Dogfight! (30 June 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/fa/%28Lubrication_of_the_Heart%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20160629061849",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/46/%28Lubrication_of_the_Heart%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160629060140"
+		}
+	]
+}

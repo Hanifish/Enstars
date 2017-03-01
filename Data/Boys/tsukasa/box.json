@@ -1,0 +1,190 @@
+{
+	"five": [
+		{
+			"id": 214,
+			"name": "(Perfect Conduct) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases the acquisition of All Blue Jewels",
+			"dreamfes": "Greatly increases the card's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/53/Perfect_Conduct_Tsukasa_Suou.jpg/revision/latest/scale-to-width-down/250?cb=20150504164850",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e8/Perfect_Conduct_Tsukasa_Suou_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150510204725"
+		},
+		{
+			"id": 297,
+			"name": "(Greedy Order) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases rate of Trust",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Fruits Parlor! (29 Sept 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/21/%28Greedy_Order%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20160930212334",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Greedy_Order%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161020014407"
+		}
+	],
+	"four": [
+		{
+			"id": 211,
+			"name": "(Chess Lesson) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of All Red Jewels",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/3f/Chess_Lesson_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20150430211027",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/48/Chess_Lesson_Tsukasa_Suou_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150507141131"
+		},
+		{
+			"id": 222,
+			"name": "(Humble Hatsumode) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases rate of trust",
+			"dreamfes": "Increases the card's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Winter's New Year Shrine Visit! (30 Dec 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Humble_Hatsumode%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20151230140917",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Humble_Hatsumode%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160103152430"
+		},
+		{
+			"id": 647,
+			"name": "(Master of Equestrian Archery) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Robin Hood! (14 Aug 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/8/86/%28Master_of_Equestrian_Archery%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20160814131945",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/51/%28Master_of_Equestrian_Archery%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160817083023"
+		}
+	],
+	"three": [
+		{
+			"id": 210,
+			"name": "(Play) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases the acquisition of Small Jewels",
+			"dreamfes": "Slightly decreases the opponent's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2c/Play_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20150504195750",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Play%29_Tsukasa_Suou_ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151018143555"
+		},
+		{
+			"id": 212,
+			"name": "(Snacks) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Increases Luck by one level at the beginning of Lessons",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/12/Snacks_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20150503012334",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/49/%28Snacks%29_Tsukasa_Suou_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150516153905"
+		},
+		{
+			"id": 213,
+			"name": "(Antique Books) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases all cards' Trust up percentage",
+			"dreamfes": "Slightly decreases the opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6c/Antique_Books_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20150516005132",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a5/Antique_Books_Tsukasa_Suou_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150518022014"
+		},
+		{
+			"id": 215,
+			"name": "(Sweets Beginner) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "Slightly increases Red, Blue, Yellow fragment acquisition",
+			"dreamfes": "Slightly increases the own Dance",
+			"stat": "Da",
+			"origin": "Scout: Sweets Patisserie! (31 May 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/32/%28Sweets_Beginner%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20150531211325",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/36/%28Sweets_Beginner%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160410004735"
+		},
+		{
+			"id": 218,
+			"name": "(Knight Waiter) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r5",
+			"star": "3",
+			"lesson": "Slightly increases Performance during Dream Festival lessons",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Yumenosaki Restaurant! (17 Aug 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/b/bd/%28Knight_Waiter%29_Suou_Tsukasa.png/revision/latest/scale-to-width-down/250?cb=20150925211341",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/65/%28Knight_Waiter%29_Suou_Tsukasa_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150925211341"
+		},
+		{
+			"id": 220,
+			"name": "(Security Defense) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r6",
+			"star": "3",
+			"lesson": "Slightly increases the acquisition of Blue Jewels (Small)",
+			"dreamfes": "Slightly decreases the opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Police Man! (16 Oct 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/74/%28Security_Defense%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20151030154720",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/74/%28Security_Defense%29_Tsukasa_Suou_ultimate.png/revision/latest/scale-to-width-down/250?cb=20151030154724"
+		},
+		{
+			"id": 224,
+			"name": "(Hurrying Clock Rabbit) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r9",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Blue Small Jewels",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Tea Party! (30 Jan 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Hurrying_Clock_Rabbit%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20160130205133",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/d/dd/%28Hurrying_Clock_Rabbit%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160209063316"
+		},
+		{
+			"id": 216,
+			"name": "(Serving Goal) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r10",
+			"star": "3",
+			"lesson": "Slightly increases own Performance during Lesson Dreamfes",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Shu's Introduction! (26 May 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Serving_Goal%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20160530073929",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5c/%28Serving_Goal%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160526064913"
+		},
+		{
+			"id": 797,
+			"name": "(New Skater) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r12",
+			"star": "3",
+			"lesson": "Slightly increases all stats during Lesson Battles",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Young_and_Energetic_Skater%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170117070321",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Young_and_Energetic_Skater%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170117220849"
+		}
+	]
+}

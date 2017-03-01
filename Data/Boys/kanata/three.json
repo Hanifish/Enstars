@@ -155,6 +155,19 @@
 			"origin": "Event: Radiant☆Hot Holiday Party! (15 Dec 2016)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/0/02/%28Fun_Night%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20161222133712",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/dd/%28Fun_Night%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161215061224"
+		},
+		{
+			"id": 843,
+			"name": "(Until Reunion) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "r13",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of All Small Jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Baton Pass! Repayment Festival of Tears and Bonds! (28 Feb 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Until_Reunion%29_Kanata_Shinkai.png/revision/latest?cb=20170228062946",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/2/27/%28Until_Reunion%29_Kanata_Shinkai_Bloomed.png/revision/latest?cb=20170228062947"
 		}
 	]
 }

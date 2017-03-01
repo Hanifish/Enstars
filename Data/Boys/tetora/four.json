@@ -64,6 +64,19 @@
 			"origin": "Scout: Colorful Autumn! (30 Oct 2016)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/d8/%28Friendship_Painter%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20161030063551",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Friendship_Painter%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161206021616"
+		},
+		{
+			"id": 841,
+			"name": "(Assuming the Spirit) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "sr6",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Yellow Jewels",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Baton Pass! Repayment Festival of Tears and Bonds! (28 Feb 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/82/%28Assuming_the_Spirit%29_Tetora_Nagumo.png/revision/latest?cb=20170228062945",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/df/%28Assuming_the_Spirit%29_Tetora_Nagumo_Bloomed.png/revision/latest?cb=20170228062945"
 		}
 	]
 }

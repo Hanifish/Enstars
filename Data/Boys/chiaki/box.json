@@ -1,0 +1,164 @@
+{
+	"five": [
+		{
+			"id": 504,
+			"name": "(Burning Red) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly Increases Trust rate of all members",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Hero Show! (30 June 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Burning_Red%29_Chiaki_Morisawa.jpg/revision/latest/scale-to-width-down/250?cb=20150630103809",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/11/%28Burning_Red%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161024102859"
+		},
+		{
+			"id": 518,
+			"name": "(Shooter of the Sun) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Dogfight! (29 June 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/78/%28Shooter_of_the_Sun%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20160629061842",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/10/%28Shooter_of_the_Sun%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160630161211"
+		}
+	],
+	"four": [
+		{
+			"id": 503,
+			"name": "(Inspiring Blaze) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases Fever up rate",
+			"dreamfes": "Slightly decreases the opponent's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/03/Inspiring_Blaze_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20150505000954",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/0/05/%28Inspiring_Blaze%29_Chiaki_Morisawa_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150625230750"
+		},
+		{
+			"id": 505,
+			"name": "(Kitten and Sunset) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Blue Jewels (medium)",
+			"dreamfes": "Decreases opopnent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Chiaki's Introduction!",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/f/fd/%28Kitten_and_Sunset%29_Chiaki_Morisawa.jpg/revision/latest/scale-to-width-down/250?cb=20151112005752",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Kitten_and_Sunset%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160625205335"
+		},
+		{
+			"id": 510,
+			"name": "(Fist of Youth) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases the acquisition of Small Jewels",
+			"dreamfes": "Decreases the Opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Hot-Blooded Tough Guy! (15 Nov 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Fist_of_Youth%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20151122120119",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/46/%28Fist_of_Youth%29_Chiaki_Morisawa_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151122120223"
+		}
+	],
+	"three": [
+		{
+			"id": 500,
+			"name": "(Hot-Blooded) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases Jewel acquisition (Yellow)",
+			"dreamfes": "Slightly increases the card's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f5/Hot-Blooded_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20150502214226",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Hot-Blooded%29_Chiaki_Morisawa_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20151118042543"
+		},
+		{
+			"id": 501,
+			"name": "(Dislike) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases the acquisition of small Red jewels",
+			"dreamfes": "Slightly increases the card's Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/5/5f/Dislike_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20150502221636",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/0/01/Dislike_Chiaki_Morisawa_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150511010644"
+		},
+		{
+			"id": 502,
+			"name": "(Passionate Red) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Slightly increases Jewel fragment acquisition (Blue)",
+			"dreamfes": "Slightly increases the card's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/ec/Passionate_Red_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20150501152313",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/7a/Passionate_Red_Chiaki_Morisawa_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20150505071549"
+		},
+		{
+			"id": 509,
+			"name": "(Protector of Peace) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "r5",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Yellow Fragments",
+			"dreamfes": "Slightly Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Police Man! (16 Oct 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/69/%28Protector_of_Peace%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20151030141549",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/7b/%28Protector_of_Peace%29_Chiaki_Morisawa_ultimate.png/revision/latest/scale-to-width-down/250?cb=20151030170313"
+		},
+		{
+			"id": 517,
+			"name": "(Bullet of Justice) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Gunmen of the Wilderness! (14 June 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Bullet_of_Justice%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20160626071703",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/8/89/%28Bullet_of_Justice%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160626071721"
+		},
+		{
+			"id": 508,
+			"name": "(Night Horror) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "r9",
+			"star": "3",
+			"lesson": "Slightly increases Dance during Lesson Dreamfes",
+			"dreamfes": "Increases card's Dance",
+			"stat": "Da",
+			"origin": "Scout: Kuro's Introduction!",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/b/be/%28Night_Horror%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20160727030502",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Night_Horror%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161212052855"
+		},
+		{
+			"id": 813,
+			"name": "(Coffee) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "r11",
+			"star": "3",
+			"lesson": "Increases acquisition of red fragments",
+			"dreamfes": "Dance Up",
+			"stat": "Da",
+			"origin": "Scout: Salon de ThÈ! (30 Jan 2017)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Coffee%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20170130105037",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2c/%28Coffee%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170130060114"
+		}
+	]
+}
