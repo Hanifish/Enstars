@@ -168,6 +168,19 @@
 			"origin": "Event: Baton Pass! Repayment Festival of Tears and Bonds! (28 Feb 2017)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Until_Reunion%29_Kanata_Shinkai.png/revision/latest?cb=20170228062946",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/2/27/%28Until_Reunion%29_Kanata_Shinkai_Bloomed.png/revision/latest?cb=20170228062947"
+		},
+		{
+			"id": 858,
+			"name": "(Guest Participation) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "r14",
+			"star": "3",
+			"lesson": "Slightly increases Vocal during Lesson Battles",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Photoshoot! Warm Athletics! (15 Mar 2017)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/d/d4/%28Guest_Participation%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20170315060444",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Guest_Participation%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170315060436"
 		}
 	]
 }

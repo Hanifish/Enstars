@@ -64,6 +64,19 @@
 			"origin": "Scout: Arabian Nights! (14 Sep 2016)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/d1/%28Paradise_Lion%27s_Dream%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20160914151704",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Paradise_Lion%27s_Dream%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160914152043"
+		},
+		{
+			"id": 851,
+			"name": "(Fun Match) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Photoshoot! Warm Athletics! (15 Mar 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/ed/%28Fun_Match%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20170315055751",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/1/1a/%28Fun_Match%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170315055744"
 		}
 	]
 }
