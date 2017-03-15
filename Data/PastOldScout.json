@@ -2,61 +2,61 @@
 	"eventThree": [
 		
 		{
-			"id": 814,
-			"name": "(Herb Tea) Kaoru Hakaze",
-			"nick": "kaoru",
+			"id": 825,
+			"name": "(Rising Suzaku) Hinata Aoi",
+			"nick": "hinata",
 			"alias": "r",
 			"star": "3",
-			"lesson": "Increases acquisition of all small jewels",
-			"dreamfes": "Opponent's Performance down",
+			"lesson": "Slightly increases acquisition of yellow fragments",
+			"dreamfes": "Slightly decreases opponent's Performance",
 			"stat": "Pf",
-			"origin": "Scout: Salon de Thé! (30 Jan 2017)",
-			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/1e/%28Herb_Tea%29_Kaoru_Hakaze.png/revision/latest/scale-to-width-down/250?cb=20170130055827",
-			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Herb_Tea%29_Kaoru_Hakaze_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170130055842"
+			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Rising_Vermilion_Bird%29_Hinata_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170214055908",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Rising_Vermilion_Bird%29_Hinata_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214055908"
 		},
 		{
-			"id": 813,
-			"name": "(Coffee) Chiaki Morisawa",
-			"nick": "chiaki",
-			"alias": "r11",
+			"id": 826,
+			"name": "(Indomitable Genbu) Koga Oogami",
+			"nick": "koga",
+			"alias": "r",
 			"star": "3",
-			"lesson": "Increases acquisition of red fragments",
-			"dreamfes": "Dance Up",
+			"lesson": "Slightly increases all stats during Lesson Battles",
+			"dreamfes": "Slightly decreases opponent's Dance",
 			"stat": "Da",
-			"origin": "Scout: Salon de Thé! (30 Jan 2017)",
-			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Coffee%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20170130105037",
-			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2c/%28Coffee%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170130060114"
+			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5a/%28Fortitude_of_the_Black_Tortoise%29_Koga_Oogami.png/revision/latest/scale-to-width-down/250?cb=20170214072005",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Fortitude_of_the_Black_Tortoise%29_Koga_Oogami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214055907"
 		}
 	],
 	"eventFour": [
 		{
-			"id": 812,
-			"name": "(Darjeeling Tea) Subaru Akehoshi",
-			"nick": "subaru",
+			"id": 824,
+			"name": "(Waiting Blue Dragon) Kuro Kiryu",
+			"nick": "kuro",
 			"alias": "sr",
 			"star": "4",
-			"lesson": "Increases luck by one level",
-			"dreamfes": "Perfrmance Greatly Up",
-			"stat": "Pf",
-			"origin": "Scout: Salon de Thé! (30 Jan 2017)",
-			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Darjeeling_Tea%29_Subaru_Akehoshi.png/revision/latest/scale-to-width-down/250?cb=20170130104235",
-			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/7/70/%28Darjeeling_Tea%29_Subaru_Akehoshi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170130060116"
+			"lesson": "Slightly increases acquisition of blue medium jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/69/%28Awaiting_Azure_Dragon%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/250?cb=20170214142735",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2d/%28Awaiting_Azure_Dragon%29_Kuro_Kiryu_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214143020"
 		}
 
 	],
 	"five": [
 		{
-			"id": 811,
-			"name": "(Jasmine Tea) Hajime Shino",
-			"nick": "hajime",
+			"id": 823,
+			"name": "(Leaping White Tiger) Tetora Nagumo",
+			"nick": "tetora",
 			"alias": "ur5",
 			"star": "5",
-			"lesson": "Greatly increases all cards' Trust",
-			"dreamfes": "Vocal greatly up",
-			"stat": "Vo",
-			"origin": "Scout: Salon de Thé! (30 Jan 2017)",
-			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/44/%28Jasmine_Tea%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20170130103841",
-			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/df/%28Jasmine_Tea%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170131025356"
+			"lesson": "Slightly increases acquisition of all medium jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Leaping_White_Tiger%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20170214060014",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/70/%28Leaping_White_Tiger%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214060115"
 		}
 
 	]

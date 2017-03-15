@@ -610,6 +610,19 @@
 			"origin": "Scout: Dance on Ice! (14 Jan 2017)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b4/%28Sweet-Smelling_Skater%29_Kaoru_Hakaze.png/revision/latest/scale-to-width-down/250?cb=20170117070213",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Sweet-Smelling_Skater%29_Kaoru_Hakaze_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170117070236"
+		},
+		{
+			"id": 812,
+			"name": "(Darjeeling Tea) Subaru Akehoshi",
+			"nick": "subaru",
+			"alias": "sr",
+			"star": "4",
+			"lesson": "Increases luck by one level",
+			"dreamfes": "Perfrmance Greatly Up",
+			"stat": "Pf",
+			"origin": "Scout: Salon de Thé! (30 Jan 2017)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Darjeeling_Tea%29_Subaru_Akehoshi.png/revision/latest/scale-to-width-down/250?cb=20170130104235",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/7/70/%28Darjeeling_Tea%29_Subaru_Akehoshi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170130060116"
 		}
 	]
 }

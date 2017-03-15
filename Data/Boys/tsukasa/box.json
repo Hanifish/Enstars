@@ -185,6 +185,19 @@
 			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Young_and_Energetic_Skater%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170117070321",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Young_and_Energetic_Skater%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170117220849"
+		},
+		{
+			"id": 850,
+			"name": "(Capricious Master) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r13",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Red Jewel Fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Noble Game! (14 March 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/67/%28Capricious_Master%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170314075858",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/8c/%28Capricious_Master%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170314075908"
 		}
 	]
 }

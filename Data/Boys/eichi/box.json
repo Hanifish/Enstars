@@ -133,6 +133,19 @@
 			"origin": "Scout: Ritsu's Introduction!",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Emperor_and_Can%29_Eichi_Tenshouin_Bloomed.png",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Emperor_and_Can%29_Eichi_Tenshouin.png"
+		},
+		{
+			"id": 849,
+			"name": "(Master of Pleasure) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "r14",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Noble Game! (14 March 2017)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/1/19/%28Master_of_Pleasure%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20170314075836",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c5/%28Master_of_Pleasure%29_Eichi_Tenshouin_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170314075847"
 		}
 	]
 }
