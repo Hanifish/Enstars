@@ -1,4 +1,30 @@
 {
+    "id": 859,
+    "name": "(Lunch Hour) Hinata Aoi",
+    "nick": "hinata",
+    "alias": "sr",
+    "star": "4",
+    "lesson": "Slightly increases rate of Trust",
+    "dreamfes": "Decreases opponent's Dance",
+    "stat": "Da",
+    "origin": "Scout: Hinata's Introduction! (26 Mar 2017)",
+    "img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/5c/%28Lunch_Hour%29_Hinata_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170326061024",
+    "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Lunch_Hour%29_Hinata_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170326061026"
+},
+{
+    "id": 861,
+    "name": "(After Lesson) Subaru Akehoshi",
+    "nick": "subaru",
+    "alias": "r",
+    "star": "3",
+    "lesson": "Slightly increases acquisition of all Jewel Fragments",
+    "dreamfes": "Slightly increases own Performance",
+    "stat": "Pf",
+    "origin": "Scout: Hinata's Introduction! (26 Mar 2017)",
+    "img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/ea/%28After_Lesson%29_Subaru_Akehoshi.png/revision/latest/scale-to-width-down/250?cb=20170326061028",
+    "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b9/%28After_Lesson%29_Subaru_Akehoshi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170326061028"
+},
+{
     "id": 838,
     "name": "(Bouquet of Gratitude) Mika Kagehira",
     "nick": "mika",
