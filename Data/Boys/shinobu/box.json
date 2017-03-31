@@ -53,6 +53,19 @@
 			"origin": "Scout: Yumenosaki Youth Radio♪! (14 Feb 2015)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Youthful_Broadcaster%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160214062318",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d0/%28Youthful_Broadcaster%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160214073842"
+		},
+		{
+			"id": 864,
+			"name": "(Shy First Year) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "sr7",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Small Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Shiny First Years! (30 March 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/2/26/%28Shy_1st_Year%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20170330081808",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Shy_1st_Year%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170330212328"
 		}
 	],
 	"three": [

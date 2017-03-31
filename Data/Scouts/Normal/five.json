@@ -376,6 +376,19 @@
 			"origin": "Scout: Salon de Thé! (30 Jan 2017)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/44/%28Jasmine_Tea%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20170130103841",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/df/%28Jasmine_Tea%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170131025356"
+		},
+		{
+			"id": 823,
+			"name": "(Leaping White Tiger) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all medium jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Leaping_White_Tiger%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20170214060014",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/70/%28Leaping_White_Tiger%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214060115"
 		}
 	]
 }

@@ -142,6 +142,19 @@
 			"origin": "Scout: Salon de ThÈ! (30 Jan 2017)",
 			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Coffee%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20170130105037",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2c/%28Coffee%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170130060114"
+		},
+		{
+			"id": 866,
+			"name": "(Senpai's First Year) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "r12",
+			"star": "3",
+			"lesson": "Slightly increases Performance during Lesson Battles",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Shiny First Years! (30 March 2017)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/6c/%28Senpai%27s_1st_Year%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20170330081830",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/5/56/%28Senpai%27s_1st_Year%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170330060821"
 		}
 	]
 }

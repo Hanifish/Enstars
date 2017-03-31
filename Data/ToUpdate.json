@@ -1,4 +1,16 @@
 {
+    "id": 863,
+    "name": "(Dashing First Year) Yuta Aoi",
+    "nick": "yuta",
+    "alias": "ur",
+    "star": "5",
+    "lesson": "Slightly increases rate of Fever",
+    "dreamfes": "Increases own Performance",
+    "stat": "Pf",
+    "origin": "Scout: Shiny First Years! (30 March 2017)",
+    "img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Dashing_1st_Year%29_Yuta_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170330081756",
+    "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/36/%28Dashing_1st_Year%29_Yuta_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170330060819"
+}, {
     "id": 859,
     "name": "(Lunch Hour) Hinata Aoi",
     "nick": "hinata",
@@ -10,8 +22,7 @@
     "origin": "Scout: Hinata's Introduction! (26 Mar 2017)",
     "img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/5c/%28Lunch_Hour%29_Hinata_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170326061024",
     "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Lunch_Hour%29_Hinata_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170326061026"
-},
-{
+}, {
     "id": 861,
     "name": "(After Lesson) Subaru Akehoshi",
     "nick": "subaru",
@@ -23,8 +34,7 @@
     "origin": "Scout: Hinata's Introduction! (26 Mar 2017)",
     "img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/ea/%28After_Lesson%29_Subaru_Akehoshi.png/revision/latest/scale-to-width-down/250?cb=20170326061028",
     "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b9/%28After_Lesson%29_Subaru_Akehoshi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170326061028"
-},
-{
+}, {
     "id": 838,
     "name": "(Bouquet of Gratitude) Mika Kagehira",
     "nick": "mika",
@@ -36,8 +46,7 @@
     "origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
     "img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Bouquet_of_Gratitude%29_Mika_Kagehira.png/revision/latest/scale-to-width-down/250?cb=20170227102700",
     "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Bouquet_of_Gratitude%29_Mika_Kagehira_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227102208"
-},
-{
+}, {
     "id": 825,
     "name": "(Rising Suzaku) Hinata Aoi",
     "nick": "hinata",
@@ -49,8 +58,7 @@
     "origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
     "img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Rising_Vermilion_Bird%29_Hinata_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170214055908",
     "imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Rising_Vermilion_Bird%29_Hinata_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214055908"
-},
-{
+}, {
     "id": 826,
     "name": "(Indomitable Genbu) Koga Oogami",
     "nick": "koga",
@@ -62,8 +70,7 @@
     "origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
     "img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5a/%28Fortitude_of_the_Black_Tortoise%29_Koga_Oogami.png/revision/latest/scale-to-width-down/250?cb=20170214072005",
     "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Fortitude_of_the_Black_Tortoise%29_Koga_Oogami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214055907"
-},
-{
+}, {
     "id": 824,
     "name": "(Waiting Blue Dragon) Kuro Kiryu",
     "nick": "kuro",
@@ -75,108 +82,100 @@
     "origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
     "img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/69/%28Awaiting_Azure_Dragon%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/250?cb=20170214142735",
     "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2d/%28Awaiting_Azure_Dragon%29_Kuro_Kiryu_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214143020"
-},
-{
-			"id": 814,
-			"name": "(Herb Tea) Kaoru Hakaze",
-			"nick": "kaoru",
-			"alias": "r",
-			"star": "3",
-			"lesson": "Increases acquisition of all small jewels",
-			"dreamfes": "Opponent's Performance down",
-			"stat": "Pf",
-			"origin": "Scout: Salon de Thé! (30 Jan 2017)",
-			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/1e/%28Herb_Tea%29_Kaoru_Hakaze.png/revision/latest/scale-to-width-down/250?cb=20170130055827",
-			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Herb_Tea%29_Kaoru_Hakaze_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170130055842"
-		},
-		{
-			"id": 812,
-			"name": "(Darjeeling Tea) Subaru Akehoshi",
-			"nick": "subaru",
-			"alias": "sr",
-			"star": "4",
-			"lesson": "Increases luck by one level",
-			"dreamfes": "Perfrmance Greatly Up",
-			"stat": "Pf",
-			"origin": "Scout: Salon de Thé! (30 Jan 2017)",
-			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Darjeeling_Tea%29_Subaru_Akehoshi.png/revision/latest/scale-to-width-down/250?cb=20170130104235",
-			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/7/70/%28Darjeeling_Tea%29_Subaru_Akehoshi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170130060116"
-		},
-		{
-			"id": 766,
-			"name": "(Grave Keeper of the White Lily) Shu Itsuki",
-			"nick": "shu",
-			"alias": "ur",
-			"star": "5",
-			"lesson": "Increases acquisition of blue jewels of all sizes",
-			"dreamfes": "Opponent's Vocal Down",
-			"stat": "Vo",
-			"origin": "Scout: Nocturne! (Dec 14, 2016)",
-			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e5/%28Gravekeeper_of_the_White_Lily%29_Shu_Itsuki.png/revision/latest/scale-to-width-down/250?cb=20161214090516",
-			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Gravekeeper_of_the_White_Lily%29_Shu_Itsuki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161214090520"
-		},
-		{
-			"id": 807,
-			"name": "(Sharp Blade's Edge) Souma Kanzaki",
-			"nick": "souma",
-			"alias": "sr",
-			"star": "4",
-			"lesson": "Increases acquisition of medium yellow jewels",
-			"dreamfes": "Performance Greatly Up",
-			"stat": "Pf",
-			"origin": "Scout: Souma's Introduction! (Jan 26, 2017)",
-			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/8e/%28Sharp_Blade%27s_Edge%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/250?cb=20170128013544",
-			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/4c/%28Sharp_Blade%27s_Edge%29_Souma_Kanzaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170130025155"
-		},
-		{
-			"id": 767,
-			"name": "(Lantern Gravekeeper) Kuro Kiyru",
-			"nick": "kuro",
-			"alias": "sr",
-			"star": "4",
-			"lesson": "Increases luck by one level",
-			"dreamfes": "Opponent's Dance Down Greatly",
-			"stat": "Da",
-			"origin": "Scout: Nocturne! (Dec 14, 2016)",
-			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Lantern_Gravekeeper%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/250?cb=20161214102917",
-			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/54/%28Lantern_Gravekeeper%29_Kuro_Kiryu_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161214102930"
-		},
-		{
-			"id": 808,
-			"name": "(Card Game) Koga Ogami",
-			"nick": "koga",
-			"alias": "r",
-			"star": "3",
-			"lesson": "Increases acquisition of all small jewels",
-			"dreamfes": "Opponents Performance Down",
-			"stat": "Pf",
-			"origin": "Scout: Souma's Introduction! (Jan 26, 2017)",
-			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/2/2c/%28Card_Game%29_Koga_Oogami.png/revision/latest/scale-to-width-down/250?cb=20170126090652",
-			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/70/%28Card_Game%29_Koga_Oogami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170126090652"
-		},
-		{
-			"id": 848,
-			"name": "(Master of the Sunrise Mansion) Tori Himemiya",
-			"nick": "tori",
-			"alias": "sr",
-			"star": "4",
-			"lesson": "Slightly increases acquisition of all Small Jewels",
-			"dreamfes": "Decreases opponent's Performance",
-			"stat": "Pf",
-			"origin": "Scout: Noble Game! (14 March 2017)",
-			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Master_of_the_Sunrise_Mansion%29_Tori_Himemiya.png/revision/latest/scale-to-width-down/250?cb=20170314075814",
-			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/22/%28Master_of_the_Sunrise_Mansion%29_Tori_Himemiya_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170314075824"
-		},
-		{
-			"id": 847,
-			"name": "(Master of the Twilight Mansion) Yuzuru Fushimi",
-			"nick": "yuzuru",
-			"alias": "ur",
-			"star": "5",
-			"lesson": "Slightly increases rate of Fever",
-			"dreamfes": "Increases own Dance",
-			"stat": "Da",
-			"origin": "Scout: Noble Game! (14 March 2017)",
-			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Master_of_the_Twilight_Mansion%29_Yuzuru_Fushimi.png/revision/latest/scale-to-width-down/250?cb=20170314075751",
-			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/d/df/%28Master_of_the_Twilight_Mansion%29_Yuzuru_Fushimi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170314075802"
-		}
+}, {
+    "id": 814,
+    "name": "(Herb Tea) Kaoru Hakaze",
+    "nick": "kaoru",
+    "alias": "r",
+    "star": "3",
+    "lesson": "Increases acquisition of all small jewels",
+    "dreamfes": "Opponent's Performance down",
+    "stat": "Pf",
+    "origin": "Scout: Salon de Thé! (30 Jan 2017)",
+    "img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/1e/%28Herb_Tea%29_Kaoru_Hakaze.png/revision/latest/scale-to-width-down/250?cb=20170130055827",
+    "imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Herb_Tea%29_Kaoru_Hakaze_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170130055842"
+}, {
+    "id": 812,
+    "name": "(Darjeeling Tea) Subaru Akehoshi",
+    "nick": "subaru",
+    "alias": "sr",
+    "star": "4",
+    "lesson": "Increases luck by one level",
+    "dreamfes": "Perfrmance Greatly Up",
+    "stat": "Pf",
+    "origin": "Scout: Salon de Thé! (30 Jan 2017)",
+    "img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Darjeeling_Tea%29_Subaru_Akehoshi.png/revision/latest/scale-to-width-down/250?cb=20170130104235",
+    "imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/7/70/%28Darjeeling_Tea%29_Subaru_Akehoshi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170130060116"
+}, {
+    "id": 766,
+    "name": "(Grave Keeper of the White Lily) Shu Itsuki",
+    "nick": "shu",
+    "alias": "ur",
+    "star": "5",
+    "lesson": "Increases acquisition of blue jewels of all sizes",
+    "dreamfes": "Opponent's Vocal Down",
+    "stat": "Vo",
+    "origin": "Scout: Nocturne! (Dec 14, 2016)",
+    "img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e5/%28Gravekeeper_of_the_White_Lily%29_Shu_Itsuki.png/revision/latest/scale-to-width-down/250?cb=20161214090516",
+    "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Gravekeeper_of_the_White_Lily%29_Shu_Itsuki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161214090520"
+}, {
+    "id": 807,
+    "name": "(Sharp Blade's Edge) Souma Kanzaki",
+    "nick": "souma",
+    "alias": "sr",
+    "star": "4",
+    "lesson": "Increases acquisition of medium yellow jewels",
+    "dreamfes": "Performance Greatly Up",
+    "stat": "Pf",
+    "origin": "Scout: Souma's Introduction! (Jan 26, 2017)",
+    "img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/8e/%28Sharp_Blade%27s_Edge%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/250?cb=20170128013544",
+    "imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/4c/%28Sharp_Blade%27s_Edge%29_Souma_Kanzaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170130025155"
+}, {
+    "id": 767,
+    "name": "(Lantern Gravekeeper) Kuro Kiyru",
+    "nick": "kuro",
+    "alias": "sr",
+    "star": "4",
+    "lesson": "Increases luck by one level",
+    "dreamfes": "Opponent's Dance Down Greatly",
+    "stat": "Da",
+    "origin": "Scout: Nocturne! (Dec 14, 2016)",
+    "img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Lantern_Gravekeeper%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/250?cb=20161214102917",
+    "imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/54/%28Lantern_Gravekeeper%29_Kuro_Kiryu_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161214102930"
+}, {
+    "id": 808,
+    "name": "(Card Game) Koga Ogami",
+    "nick": "koga",
+    "alias": "r",
+    "star": "3",
+    "lesson": "Increases acquisition of all small jewels",
+    "dreamfes": "Opponents Performance Down",
+    "stat": "Pf",
+    "origin": "Scout: Souma's Introduction! (Jan 26, 2017)",
+    "img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/2/2c/%28Card_Game%29_Koga_Oogami.png/revision/latest/scale-to-width-down/250?cb=20170126090652",
+    "imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/70/%28Card_Game%29_Koga_Oogami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170126090652"
+}, {
+    "id": 848,
+    "name": "(Master of the Sunrise Mansion) Tori Himemiya",
+    "nick": "tori",
+    "alias": "sr",
+    "star": "4",
+    "lesson": "Slightly increases acquisition of all Small Jewels",
+    "dreamfes": "Decreases opponent's Performance",
+    "stat": "Pf",
+    "origin": "Scout: Noble Game! (14 March 2017)",
+    "img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Master_of_the_Sunrise_Mansion%29_Tori_Himemiya.png/revision/latest/scale-to-width-down/250?cb=20170314075814",
+    "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/22/%28Master_of_the_Sunrise_Mansion%29_Tori_Himemiya_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170314075824"
+}, {
+    "id": 847,
+    "name": "(Master of the Twilight Mansion) Yuzuru Fushimi",
+    "nick": "yuzuru",
+    "alias": "ur",
+    "star": "5",
+    "lesson": "Slightly increases rate of Fever",
+    "dreamfes": "Increases own Dance",
+    "stat": "Da",
+    "origin": "Scout: Noble Game! (14 March 2017)",
+    "img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Master_of_the_Twilight_Mansion%29_Yuzuru_Fushimi.png/revision/latest/scale-to-width-down/250?cb=20170314075751",
+    "imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/d/df/%28Master_of_the_Twilight_Mansion%29_Yuzuru_Fushimi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170314075802"
+}

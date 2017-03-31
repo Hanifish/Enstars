@@ -1501,6 +1501,30 @@
             "origin": "Scout: Hinata's Introduction! (26 Mar 2017)",
             "img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/c/c4/%28Insecure_Heart%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20170326061029",
             "imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/d8/%28Insecure_Heart%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170326061029"
+        }, {
+            "id": 825,
+            "name": "(Rising Suzaku) Hinata Aoi",
+            "nick": "hinata",
+            "alias": "r",
+            "star": "3",
+            "lesson": "Slightly increases acquisition of yellow fragments",
+            "dreamfes": "Slightly decreases opponent's Performance",
+            "stat": "Pf",
+            "origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
+            "img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Rising_Vermilion_Bird%29_Hinata_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170214055908",
+            "imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Rising_Vermilion_Bird%29_Hinata_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214055908"
+        }, {
+            "id": 826,
+            "name": "(Indomitable Genbu) Koga Oogami",
+            "nick": "koga",
+            "alias": "r",
+            "star": "3",
+            "lesson": "Slightly increases all stats during Lesson Battles",
+            "dreamfes": "Slightly decreases opponent's Dance",
+            "stat": "Da",
+            "origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
+            "img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5a/%28Fortitude_of_the_Black_Tortoise%29_Koga_Oogami.png/revision/latest/scale-to-width-down/250?cb=20170214072005",
+            "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Fortitude_of_the_Black_Tortoise%29_Koga_Oogami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214055907"
         }
     ]
 }
