@@ -77,6 +77,19 @@
 			"origin": "Event: Brilliance★Knights' Starlight Festival! (30 Nov 2016)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Aligned_Stage%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20161206001225",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/41/%28Aligned_Stage%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161206001037"
+		},
+		{
+			"id": 877,
+			"name": "(Corner Duelist) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "sr7",
+			"star": "4",
+			"lesson": "Increases Luck by one level at the start of Lesson",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Card Battler! (14 April 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Corner_Duelist%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170414063941",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/4/42/%28Corner_Duelist%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170414055922"
 		}
 	]
 }

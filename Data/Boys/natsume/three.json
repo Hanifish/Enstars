@@ -64,6 +64,19 @@
 			"origin": "Event: Good Fortune ＊ The Oni and Brother's Setsubun Festival! (31 Jan 2017)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Beans_and_Tactics%29_Natsume_Sakasaki.png/revision/latest?cb=20170131060339",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/67/%28Beans_and_Tactics%29_Natsume_Sakasaki_Bloomed.png/revision/latest?cb=20170131060328"
+		},
+		{
+			"id": 871,
+			"name": "(Depths of the Heart) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "r6",
+			"star": "3",
+			"lesson": "Slightly increases all stats during Lesson Battles",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Reminiscence＊Spring Cherry Blossoms and a Night's Encounter! (31 March 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Depths_of_the_Heart%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20170331060600",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/3b/%28Depths_of_the_Heart%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170331060600"
 		}
 	]
 }

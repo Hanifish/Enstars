@@ -2,61 +2,61 @@
 	"eventThree": [
 		
 		{
-			"id": 849,
-			"name": "(Master of Pleasure) Eichi Tenshouin",
-			"nick": "eichi",
-			"alias": "r14",
+			"id": 865,
+			"name": "(Depressed First Year) Midori Takamine",
+			"nick": "midori",
+			"alias": "r12",
 			"star": "3",
 			"lesson": "Slightly increases acquisition of all Jewel Fragments",
-			"dreamfes": "Slightly increases own Vocal",
-			"stat": "Vo",
-			"origin": "Scout: Noble Game! (14 March 2017)",
-			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/1/19/%28Master_of_Pleasure%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20170314075836",
-			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c5/%28Master_of_Pleasure%29_Eichi_Tenshouin_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170314075847"
+			"dreamfes": "Slightly decreases Opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Shiny First Years! (30 March 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c3/%28Depressed_1st_Year%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20170330081819",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/9/97/%28Depressed_1st_Year%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170330060821"
 		},
 		{
-			"id": 850,
-			"name": "(Capricious Master) Tsukasa Suou",
-			"nick": "tsukasa",
-			"alias": "r13",
+			"id": 866,
+			"name": "(Senpai's First Year) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "r12",
 			"star": "3",
-			"lesson": "Slightly increases acquisition of Red Jewel Fragments",
-			"dreamfes": "Slightly increases own Dance",
-			"stat": "Da",
-			"origin": "Scout: Noble Game! (14 March 2017)",
-			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/67/%28Capricious_Master%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170314075858",
-			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/8c/%28Capricious_Master%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170314075908"
+			"lesson": "Slightly increases Performance during Lesson Battles",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Shiny First Years! (30 March 2017)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/6c/%28Senpai%27s_1st_Year%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20170330081830",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/5/56/%28Senpai%27s_1st_Year%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170330060821"
 		}
 	],
 	"eventFour": [
 		{
-			"id": 848,
-			"name": "(Master of the Sunrise Mansion) Tori Himemiya",
-			"nick": "tori",
-			"alias": "sr",
+			"id": 864,
+			"name": "(Shy First Year) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "sr7",
 			"star": "4",
-			"lesson": "Slightly increases acquisition of all Small Jewels",
-			"dreamfes": "Decreases opponent's Performance",
-			"stat": "Pf",
-			"origin": "Scout: Noble Game! (14 March 2017)",
-			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Master_of_the_Sunrise_Mansion%29_Tori_Himemiya.png/revision/latest/scale-to-width-down/250?cb=20170314075814",
-			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/22/%28Master_of_the_Sunrise_Mansion%29_Tori_Himemiya_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170314075824"
+			"lesson": "Slightly increases acquisition of Small Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Shiny First Years! (30 March 2017)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/2/26/%28Shy_1st_Year%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20170330081808",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Shy_1st_Year%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170330212328"
 		}
 
 	],
 	"five": [
 		{
-			"id": 847,
-			"name": "(Master of the Twilight Mansion) Yuzuru Fushimi",
-			"nick": "yuzuru",
+			"id": 863,
+			"name": "(Dashing First Year) Yuta Aoi",
+			"nick": "yuta",
 			"alias": "ur",
 			"star": "5",
 			"lesson": "Slightly increases rate of Fever",
-			"dreamfes": "Increases own Dance",
-			"stat": "Da",
-			"origin": "Scout: Noble Game! (14 March 2017)",
-			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Master_of_the_Twilight_Mansion%29_Yuzuru_Fushimi.png/revision/latest/scale-to-width-down/250?cb=20170314075751",
-			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/d/df/%28Master_of_the_Twilight_Mansion%29_Yuzuru_Fushimi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170314075802"
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Shiny First Years! (30 March 2017)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Dashing_1st_Year%29_Yuta_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170330081756",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/36/%28Dashing_1st_Year%29_Yuta_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170330060819"
 		}
 
 	]

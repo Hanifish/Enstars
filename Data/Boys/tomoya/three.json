@@ -155,6 +155,19 @@
 			"origin": "Scout: BADBOYS! (14 Nov 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/1/17/%28Bad_Image%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20161114060405",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/2/24/%28Bad_Image%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161114060404"
+		},
+		{
+			"id": 879,
+			"name": "(Standard Combatant) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "r13",
+			"star": "3",
+			"lesson": "Slightly increases Performance during Lesson Battles",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Card Battler! (14 April 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/7/76/%28Standard_Combatant%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20170414063954",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/9/9f/%28Standard_Combatant%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170414055923"
 		}
 	]
 }

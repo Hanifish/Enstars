@@ -159,6 +159,19 @@
 			"origin": "Scout: Ritsu's Introduction!",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Objective%27s_Form%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20161227215124",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/81/%28Objective%27s_Form%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161226074730"
+		},
+		{
+			"id": 878,
+			"name": "(Straight Champion) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "r13",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Card Battler! (14 April 2017)",
+			"img": "hhttps://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Straight_Champion%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20170414064009",
+			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Straight_Champion%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170414055922"
 		}
 	]
 }

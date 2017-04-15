@@ -1525,6 +1525,32 @@
             "origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
             "img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5a/%28Fortitude_of_the_Black_Tortoise%29_Koga_Oogami.png/revision/latest/scale-to-width-down/250?cb=20170214072005",
             "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Fortitude_of_the_Black_Tortoise%29_Koga_Oogami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214055907"
-        }
+        },
+        {
+                  "id": 838,
+                  "name": "(Bouquet of Gratitude) Mika Kagehira",
+                  "nick": "mika",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Jewel Fragments",
+                  "dreamfes": "Slightly increases own Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
+                  "img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Bouquet_of_Gratitude%29_Mika_Kagehira.png/revision/latest/scale-to-width-down/250?cb=20170227102700",
+                  "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Bouquet_of_Gratitude%29_Mika_Kagehira_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227102208"
+            },
+            {
+                  "id": 837,
+                  "name": "(Precious Bouquet) Mitsuru Tenma",
+                  "nick": "mitsuru",
+                  "alias": "r13",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Small Jewels",
+                  "dreamfes": "Slightly increases own Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
+                  "img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Precious_Bouquet%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20170227060051",
+                  "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Precious_Bouquet%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227060043"
+            }
     ]
 }
