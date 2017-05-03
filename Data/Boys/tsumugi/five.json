@@ -1,17 +1,17 @@
 {
 	"cards": [
 		{
-			"id": 661,
-			"name": "Tsumugi has no 5★",
+			"id": 880,
+			"name": "(White Easter) Tsumugi Aoba",
 			"nick": "tsumugi",
 			"alias": "ur1",
 			"star": "5",
-			"lesson": "Where is he",
-			"dreamfes": "Will he ever come back from the war",
+			"lesson": "Slightly increases acquisition of Medium Yellow Jewels",
+			"dreamfes": "Increases own Performance",
 			"stat": "Come home",
-			"origin": "Soon, maybe",
-			"img": "http://i.imgur.com/sDXQUIU.png",
-			"imgbloomed": "http://i.imgur.com/sDXQUIU.png"
+			"origin": "Event: Revival Festival☆Easter Night! (15 April 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/e/e0/%28White_Easter%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20170426173928",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/4/4a/%28White_Easter%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170426174002"
 		}
 	]
 }

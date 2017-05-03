@@ -181,6 +181,19 @@
 			"origin": "Event: Melty❤Sweetly Unraveling Chocolat Festival! (15 Feb 2017)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Sweet_Warm_Welcome%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170215064332",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/3/33/%28Sweet_Warm_Welcome%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170215064332"
+		},
+		{
+			"id": 905,
+			"name": "(Elegant Performance) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r15",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Falling Cherry Blossoms＊Wisteria Purple of May! (30 April 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Elegant_Performance%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170430060153",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Elegant_Performance%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170430060212"
 		}
 	]
 }

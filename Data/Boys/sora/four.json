@@ -12,6 +12,19 @@
 			"origin": "Scout: Sora's Introduction! (26 Sept 2016)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/04/%28Carefree_Misfortune%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20160926132049",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/6b/%28Carefree_Misfortune%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160926104200"
+		},
+		{
+			"id": 882,
+			"name": "(Easter Night) Sora Harukawa",
+			"nick": "sora",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Revival Festival☆Easter Night! (15 April 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/1/1a/%28Easter_Night%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20170415221023",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/3/38/%28Easter_Night%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170415221102"
 		}
 	]
 }

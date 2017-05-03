@@ -155,6 +155,19 @@
 			"origin": "Event: Depart☆Blue Skies Dream Travel! (15 Jen 2017)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e1/%28Take_Off%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20170127104941",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/5/50/%28Take_Off%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170115060445"
+		},
+		{
+			"id": 903,
+			"name": "(Celebrating Soldier) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "r13",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Falling Cherry Blossoms＊Wisteria Purple of May! (30 April 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/3/30/%28Celebrating_Soldier%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20170430060349",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/c/c6/%28Celebrating_Soldier%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170430060359"
 		}
 	]
 }

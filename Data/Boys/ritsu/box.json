@@ -12,6 +12,19 @@
 			"origin": "Scout: Sweets Patisserie! (31 May 2015)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0b/%28King_of_Sweetness%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20150608004629",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/72/%28King_of_Sweetness%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20150615082013"
+		},
+		{
+			"id": 894,
+			"name": "(Dreaming Hours) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Pajama! (29 April 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Dreaming_Hours%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20170429221730",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Dreaming_Hours%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170429202743"
 		}
 	],
 	"four": [

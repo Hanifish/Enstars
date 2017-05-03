@@ -1,0 +1,69 @@
+{
+	"cards": [
+		{
+			"id": 555,
+			"name": "(Unleashed Powers) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly Increases acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/0/0f/Unleashed_Powers_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20150516002517",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/2/21/Unleashed_Powers_Wataru_Hibiki_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150516054244"
+		},
+		{
+			"id": 561,
+			"name": "(Magic Recipe) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout! Yumenosaki Restaurant! (17 Aug 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Magic_Recipe%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20160428204728",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Magic_Recipe%29_Wataru_Hibiki_ultimate.png/revision/latest/scale-to-width-down/250?cb=20151105163457"
+		},
+		{
+			"id": 566,
+			"name": "(Underneath the Mask) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Blue Medium Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Showdown! Magnificent Phantom Thief VS Detective Brigade! (31 Dec 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/7/73/%28Underneath_the_Mask%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20160103152916",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Underneath_the_Mask%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160104182306"
+		},
+		{
+			"id": 570,
+			"name": "(Glittering Daydream) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Red Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout! Dream Colored Prince! (14 May 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/3e/%28Glittering_Daydream%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20160514073530",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Glittering_Daydream%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160516001731"
+		},
+		{
+			"id": 678,
+			"name": "(Stage Clown) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Medium Yellow Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Reminiscence! Gathering of the Three Magicians!  (31 August 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/54/%28Stage_Clown%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20160911042626",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Stage_Clown%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160911042657"
+		}
+	]
+}

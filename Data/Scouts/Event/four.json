@@ -299,6 +299,19 @@
         "origin": "Scout: Hinata's Introduction! (26 Mar 2017)",
         "img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/5c/%28Lunch_Hour%29_Hinata_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170326061024",
         "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Lunch_Hour%29_Hinata_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170326061026"
-    }
+    },
+    {
+            "id": 890,
+            "name": "(Before the Festival) Madara Mikejima",
+            "nick": "madara",
+            "alias": "sr1",
+            "star": "4",
+            "lesson": "Slightly increases the acquisition of all Small Jewels",
+            "dreamfes": "Decreases the opponent's Performance",
+            "stat": "Pf",
+            "origin": "Scout: Madara's Introduction! (26 April 2017)",
+            "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/3/36/%28Before_the_Festival%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170427073740",
+            "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/c/c8/%28Before_the_Festival%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170426224911"
+        }
 ]
 }

@@ -1,0 +1,151 @@
+{
+	"five": [
+		{
+			"id": 555,
+			"name": "(Unleashed Powers) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly Increases acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/0/0f/Unleashed_Powers_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20150516002517",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/2/21/Unleashed_Powers_Wataru_Hibiki_Ultimate.png/revision/latest/scale-to-width-down/250?cb=20150516054244"
+		},
+		{
+			"id": 561,
+			"name": "(Magic Recipe) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases Fever rate",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout! Yumenosaki Restaurant! (17 Aug 2015)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Magic_Recipe%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20160428204728",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Magic_Recipe%29_Wataru_Hibiki_ultimate.png/revision/latest/scale-to-width-down/250?cb=20151105163457"
+		},
+		{
+			"id": 570,
+			"name": "(Glittering Daydream) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Red Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout! Dream Colored Prince! (14 May 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/3e/%28Glittering_Daydream%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20160514073530",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Glittering_Daydream%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160516001731"
+		}
+	],
+	"four": [
+		{
+			"id": 554,
+			"name": "(Masked Freak) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases Trust rate of all members",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/e/e4/Masked_Freak_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20150503032650",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/55/Masked_Freak_Wataru_Hibiki_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20150511130502"
+		},
+		{
+			"id": 716,
+			"name": "(Masked Noble) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "sr7",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all jewel fragments",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout! Rosicrucian Story! (14 Oct 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Masked_Noble%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20161014210343",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/50/%28Masked_Noble%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161014233410"
+		}
+	],
+	"three": [
+		{
+			"id": 553,
+			"name": "(Love and Surprise) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "SLightly increases trust rates of all members",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a6/Love_and_Surprise_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20150502171218",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2b/%28Love_and_Surprise%29_Wataru_Hibiki_Bloomed.jpg/revision/latest/scale-to-width-down/250?cb=20151121235857"
+		},
+		{
+			"id": 556,
+			"name": "(Rainbow Jelly) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all jewel fragments",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/9/9f/Rainbow_Jelly_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20160410004712",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/7/73/%28Rainbow_Jelly%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20150511005238"
+		},
+		{
+			"id": 557,
+			"name": "(Invitation) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "r3",
+			"star": "3",
+			"lesson": "Increases Luck by 1 Stage at the start of the Lesson",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/3/3f/Invitation_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20150503191838",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/1/14/%28Invitation%29_Wataru_Hibiki_ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151019143737"
+		},
+		{
+			"id": 559,
+			"name": "(Candid Performance) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "Slightly Increases own Vocal during Lesson Dreamfes",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Shu's Introduction! (26 May 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/23/%28Candid_Performance%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20160526064911",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/4/41/%28Candid_Performance%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160526064911"
+		},
+		{
+			"id": 756,
+			"name": "(Clever Performer) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "r11",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Blue Jewels",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Philosopher's Guidance! (29 Nov 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6b/%28Clever_Performer%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20161129062355",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Clever_Performer%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161129061045"
+		},
+		{
+			"id": 785,
+			"name": "(Seeds of Memories) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "r12",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Yellow Jewels",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Eccentric! (30 Dec 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Seeds_of_Memories%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20161230063903",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/9/99/%28Seeds_of_Memories%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161230063903"
+		}
+	]
+}

@@ -1551,6 +1551,71 @@
                   "origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
                   "img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Precious_Bouquet%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20170227060051",
                   "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Precious_Bouquet%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227060043"
+            },
+            {
+                  "id": 849,
+                  "name": "(Master of Pleasure) Eichi Tenshouin",
+                  "nick": "eichi",
+                  "alias": "r14",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Jewel Fragments",
+                  "dreamfes": "Slightly increases own Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Noble Game! (14 March 2017)",
+                  "img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/1/19/%28Master_of_Pleasure%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20170314075836",
+                  "imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c5/%28Master_of_Pleasure%29_Eichi_Tenshouin_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170314075847"
+            },
+            {
+                  "id": 850,
+                  "name": "(Capricious Master) Tsukasa Suou",
+                  "nick": "tsukasa",
+                  "alias": "r13",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of Red Jewel Fragments",
+                  "dreamfes": "Slightly increases own Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Noble Game! (14 March 2017)",
+                  "img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/67/%28Capricious_Master%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170314075858",
+                  "imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/8/8c/%28Capricious_Master%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170314075908"
+            },
+            {
+                  "id": 891,
+                  "name": "(Sudden Encounter) Madara Mikejima",
+                  "nick": "madara",
+                  "alias": "r1",
+                  "star": "3",
+                  "lesson": "Slightly increases the acquisition of Yellow Jewel Fragments",
+                  "dreamfes": "Slightly decreases the opponent's Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Madara's Introduction! (26 April 2017)",
+                  "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/2/26/%28Sudden_Encounter%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170426224911",
+                  "imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/d/d1/%28Sudden_Encounter%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170426224912"
+            },
+            {
+                  "id": 892,
+                  "name": "(Mama Captain) Madara Mikejima",
+                  "nick": "madara",
+                  "alias": "r2",
+                  "star": "3",
+                  "lesson": "Slightly increases the acquisition of all Jewel Fragments",
+                  "dreamfes": "Slightly increases own Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Madara's Introduction! (26 April 2017)",
+                  "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Mama_Captain%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170427081210",
+                  "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/c/cf/%28Mama_Captain%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170426224912"
+            },
+            {
+                  "id": 893,
+                  "name": "(Return and Departure) Madara Mikejima",
+                  "nick": "madara",
+                  "alias": "r3",
+                  "star": "3",
+                  "lesson": "Slightly increases the acquisition of Red Jewel Fragments",
+                  "dreamfes": "Slightly decreases the opponent's Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Madara's Introduction! (26 April 2017)",
+                  "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Return_and_Departure%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170426224913",
+                  "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/f/fa/%28Return_and_Departure%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170426224914"
             }
     ]
 }

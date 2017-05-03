@@ -1,4 +1,40 @@
 {
+    "id": 896,
+    "name": "(Sleep Companion) Koga Oogami",
+    "nick": "koga",
+    "alias": "r",
+    "star": "3",
+    "lesson": "Slightly increases acquisition of Small Blue Jewels",
+    "dreamfes": "Slightly increases own Vocal",
+    "stat": "Vo",
+    "origin": "Scout: Pajama! (29 April 2017)",
+    "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0a/%28Sleep_Companion%29_Koga_Oogami.png/revision/latest/scale-to-width-down/250?cb=20170429221806",
+    "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/d/d3/%28Sleep_Companion%29_Koga_Oogami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170429202745"
+}, {
+    "id": 897,
+    "name": "(Pillow Patrol) Mika Kagehira",
+    "nick": "mika",
+    "alias": "r",
+    "star": "3",
+    "lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+    "dreamfes": "Slightly increases own Performance",
+    "stat": "Pf",
+    "origin": "Scout: Pajama! (29 April 2017)",
+    "img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/3/35/%28Pillow_Patrol%29_Mika_Kagehira.png/revision/latest/scale-to-width-down/250?cb=20170429221756",
+    "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Pillow_Patrol%29_Mika_Kagehira_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170429202746"
+}, {
+    "id": 895,
+    "name": "(Preparation Time) Mao Isara",
+    "nick": "mao",
+    "alias": "sr",
+    "star": "4",
+    "lesson": "Slightly increases acquisition of all Jewel Fragments",
+    "dreamfes": "Increases own Dance",
+    "stat": "Da",
+    "origin": "Scout: Pajama! (29 April 2017)",
+    "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/3/3f/%28Preparation_Time%29_Mao_Isara.png/revision/latest/scale-to-width-down/250?cb=20170429221743",
+    "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/0/02/%28Preparation_Time%29_Mao_Isara_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170429202744"
+}, {
     "id": 876,
     "name": "(Field Gambler) Koga Oogami",
     "nick": "koga",

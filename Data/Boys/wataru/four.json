@@ -1,0 +1,108 @@
+{
+	"cards": [
+		{
+			"id": 554,
+			"name": "(Masked Freak) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases Trust rate of all members",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Original Card",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/e/e4/Masked_Freak_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20150503032650",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/55/Masked_Freak_Wataru_Hibiki_Ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20150511130502"
+		},
+		{
+			"id": 558,
+			"name": "(Illusionist's Surprise) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all jewel fragments",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Lift the Curtains! Yumenosaki Circus! (3 Jun 2015)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Illusionist%27s_Surprise%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20150613011117",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/7/73/%28Illusionist%27s_Surprise%29_Wataru_Hibiki_ultimate.jpg/revision/latest/scale-to-width-down/250?cb=20151019143628"
+		},
+		{
+			"id": 563,
+			"name": "(Carefree Attitude) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Red Medium Jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Special Training! Mismatched Pair Lessons! (16 Oct 2015)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/79/%28Carefree_Attitude%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20160426212844",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Carefree_Attitude%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160426212907"
+		},
+		{
+			"id": 568,
+			"name": "(Clowning Support) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Small Yellow Jewels",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Flutter! Chick and Emperor's Triumphant Return! (15 Feb 2016)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Clowning_Support%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20160216094534",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/be/%28Clowning_Support%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160221042131"
+		},
+		{
+			"id": 569,
+			"name": "(Brilliant Performer) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Red Medium Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: The Flag's Honor! Crowned Flower Festival! (15 Apr 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Brilliant_Performer%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20160425151054",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Brilliant_Performer%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160427142338"
+		},
+		{
+			"id": 565,
+			"name": "(Revolutionary Victory Song) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "sr6",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Special: Revolutionary Victory Song Novel (Serial Code)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e4/%28Revolutionary_Victory_Song%29_Wataru_Hibiki.jpg/revision/latest?cb=20151118003603",
+			"imgbloomed": "http://enstars.info/images/cards/29_15b.png"
+		},
+		{
+			"id": 716,
+			"name": "(Masked Noble) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "sr7",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all jewel fragments",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout! Rosicrucian Story! (14 Oct 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Masked_Noble%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20161014210343",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/50/%28Masked_Noble%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161014233410"
+		},
+		{
+			"id": 801,
+			"name": "(Happy Airline) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "sr8",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all jewel fragments",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Depart! Blue Skies Dream Travel! (15 Jan 2017)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Happy_Airline%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20170118013355",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Happy_Airline%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170118013407"
+		}
+	]
+}

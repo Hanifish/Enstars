@@ -2,61 +2,61 @@
 	"eventThree": [
 		
 		{
-			"id": 878,
-			"name": "(Straight Champion) Tetora Nagumo",
-			"nick": "tetora",
-			"alias": "r13",
+			"id": 896,
+			"name": "(Sleep Companion) Koga Oogami",
+			"nick": "koga",
+			"alias": "r",
 			"star": "3",
-			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"lesson": "Slightly increases acquisition of Small Blue Jewels",
 			"dreamfes": "Slightly increases own Vocal",
 			"stat": "Vo",
-			"origin": "Scout: Card Battler! (14 April 2017)",
-			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Straight_Champion%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20170414064009",
-			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Straight_Champion%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170414055922"
+			"origin": "Scout: Pajama! (29 April 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0a/%28Sleep_Companion%29_Koga_Oogami.png/revision/latest/scale-to-width-down/250?cb=20170429221806",
+			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/d/d3/%28Sleep_Companion%29_Koga_Oogami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170429202745"
 		},
 		{
-			"id": 879,
-			"name": "(Standard Combatant) Tomoya Mashiro",
-			"nick": "tomoya",
-			"alias": "r13",
+			"id": 897,
+			"name": "(Pillow Patrol) Mika Kagehira",
+			"nick": "mika",
+			"alias": "r",
 			"star": "3",
-			"lesson": "Slightly increases Performance during Lesson Battles",
-			"dreamfes": "Slightly increases own Dance",
-			"stat": "Da",
-			"origin": "Scout: Card Battler! (14 April 2017)",
-			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/7/76/%28Standard_Combatant%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20170414063954",
-			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/9/9f/%28Standard_Combatant%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170414055923"
+			"lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Pajama! (29 April 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/3/35/%28Pillow_Patrol%29_Mika_Kagehira.png/revision/latest/scale-to-width-down/250?cb=20170429221756",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Pillow_Patrol%29_Mika_Kagehira_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170429202746"
 		}
 	],
 	"eventFour": [
 		{
-			"id": 877,
-			"name": "(Corner Duelist) Tsukasa Suou",
-			"nick": "tsukasa",
-			"alias": "sr7",
+			"id": 895,
+			"name": "(Preparation Time) Mao Isara",
+			"nick": "mao",
+			"alias": "sr",
 			"star": "4",
-			"lesson": "Increases Luck by one level at the start of Lesson",
-			"dreamfes": "Decreases opponent's Performance",
-			"stat": "Pf",
-			"origin": "Scout: Card Battler! (14 April 2017)",
-			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Corner_Duelist%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170414063941",
-			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/4/42/%28Corner_Duelist%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170414055922"
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Pajama! (29 April 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/3/3f/%28Preparation_Time%29_Mao_Isara.png/revision/latest/scale-to-width-down/250?cb=20170429221743",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/0/02/%28Preparation_Time%29_Mao_Isara_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170429202744"
 		}
 
 	],
 	"five": [
 		{
-			"id": 876,
-			"name": "(Field Gambler) Koga Oogami",
-			"nick": "koga",
-			"alias": "ur",
+			"id": 894,
+			"name": "(Dreaming Hours) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "ur5",
 			"star": "5",
 			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
-			"dreamfes": "Increases own Vocal",
+			"dreamfes": "Decreases opponent's Vocal",
 			"stat": "Vo",
-			"origin": "Scout: Card Battler! (14 April 2017)",
-			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Field_Gambler%29_Koga_Oogami.png/revision/latest/scale-to-width-down/250?cb=20170414063926",
-			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/fb/%28Field_Gambler%29_Koga_Oogami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170414055921"
+			"origin": "Scout: Pajama! (29 April 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Dreaming_Hours%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20170429221730",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Dreaming_Hours%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170429202743"
 		}
 
 	]

@@ -155,6 +155,19 @@
 			"origin": "Scout: Shiny First Years! (30 March 2017)",
 			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/6c/%28Senpai%27s_1st_Year%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20170330081830",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/5/56/%28Senpai%27s_1st_Year%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170330060821"
+		},
+		{
+			"id": 902,
+			"name": "(Senpai's Festival) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "r13",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Falling Cherry Blossoms＊Wisteria Purple of May! (30 April 2017)",
+			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Senpai%27s_Festival%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20170430060304",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/7/71/%28Senpai%27s_Festival%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170430060314"
 		}
 	]
 }

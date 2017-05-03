@@ -402,6 +402,19 @@
 			"origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/8/88/%28Bouquet_of_Love%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170227135536",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/24/%28Bouquet_of_Love%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227135718"
+		},
+		{
+			"id": 847,
+			"name": "(Master of the Twilight Mansion) Yuzuru Fushimi",
+			"nick": "yuzuru",
+			"alias": "ur",
+			"star": "5",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Noble Game! (14 March 2017)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Master_of_the_Twilight_Mansion%29_Yuzuru_Fushimi.png/revision/latest/scale-to-width-down/250?cb=20170314075751",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/d/df/%28Master_of_the_Twilight_Mansion%29_Yuzuru_Fushimi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170314075802"
 		}
 	]
 }

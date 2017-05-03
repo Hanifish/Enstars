@@ -38,6 +38,19 @@
 			"origin": "Event: Nuclear Ignition ☆ A Sparkling Quintuple-Color Supernova! (31 May 2016)",
 			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/48/%28Cherished_Back%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20160606092017",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Cherished_Back%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160606092005"
+		},
+		{
+			"id": 899,
+			"name": "(Silent Lilac) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Falling Cherry Blossoms＊Wisteria Purple of May! (30 April 2017)",
+			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/6/6b/%28Silent_Lilac%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20170430060014",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Silent_Lilac%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170430060025"
 		}
 	]
 }

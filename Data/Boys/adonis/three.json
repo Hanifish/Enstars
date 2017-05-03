@@ -181,6 +181,19 @@
 			"origin": "Scout: Ritsu's Introduction! (26 Dec 2016)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/df/%28Strong_Person%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20161227215100",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/23/%28Strong_Person%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161226074728"
+		},
+		{
+			"id": 904,
+			"name": "(Japanese Propriety) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "r15",
+			"star": "3",
+			"lesson": "Slightly decreases opponent's Vocal",
+			"dreamfes": "Slightly increases Vocal during Lesson Battles",
+			"stat": "Vo",
+			"origin": "Event: Falling Cherry Blossoms＊Wisteria Purple of May! (30 April 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Japanese_Propriety%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20170430060434",
+			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/2/2d/%28Japanese_Propriety%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170430060424"
 		}
 	]
 }

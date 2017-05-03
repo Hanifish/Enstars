@@ -51,6 +51,19 @@
 			"origin": "Event: Fight! Yumenosaki Academy Sports Festival 2! (15 Sept 2016)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/62/%28Cheer_in_the_Shade%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20160919233245",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Cheer_in_the_Shade%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160922150452"
+		},
+		{
+			"id": 894,
+			"name": "(Dreaming Hours) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Pajama! (29 April 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Dreaming_Hours%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20170429221730",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Dreaming_Hours%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170429202743"
 		}
 	]
 }
