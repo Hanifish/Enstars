@@ -38,6 +38,19 @@
 			"origin": "Scout: Rosicrucian Story! (14 Oct 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/59/%28The_Princess_and_the_Knight%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20161014204559",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/9/90/%28The_Princess_and_the_Knight%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161014205226"
+		},
+		{
+			"id": 905,
+			"name": "(Cinderella) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "ur4",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Red Jewels",
+			"dreamfes": "Increases card's Dance",
+			"stat": "Da",
+			"origin": "Event: Become It! The Cinder-Covered Great Stage! (15 May 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Cinderella%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20170515074408",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/1/1a/%28Cinderella%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170515074409"
 		}
 	]
 }

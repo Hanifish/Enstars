@@ -1616,6 +1616,32 @@
                   "origin": "Scout: Madara's Introduction! (26 April 2017)",
                   "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Return_and_Departure%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170426224913",
                   "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/f/fa/%28Return_and_Departure%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170426224914"
+            },
+            {
+                  "id": 865,
+                  "name": "(Depressed First Year) Midori Takamine",
+                  "nick": "midori",
+                  "alias": "r12",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Jewel Fragments",
+                  "dreamfes": "Slightly decreases Opponent's Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Shiny First Years! (30 March 2017)",
+                  "img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c3/%28Depressed_1st_Year%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20170330081819",
+                  "imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/9/97/%28Depressed_1st_Year%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170330060821"
+            },
+            {
+                  "id": 866,
+                  "name": "(Senpai's First Year) Chiaki Morisawa",
+                  "nick": "chiaki",
+                  "alias": "r12",
+                  "star": "3",
+                  "lesson": "Slightly increases Performance during Lesson Battles",
+                  "dreamfes": "Slightly increases own Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Shiny First Years! (30 March 2017)",
+                  "img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/6c/%28Senpai%27s_1st_Year%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20170330081830",
+                  "imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/5/56/%28Senpai%27s_1st_Year%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170330060821"
             }
     ]
 }

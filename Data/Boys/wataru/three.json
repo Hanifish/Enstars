@@ -181,6 +181,19 @@
 			"origin": "Event: Revival Festival! Easter Night! (15 Apr 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/6/61/%28Elation%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20170415085930",
 			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Elation%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170415085931"
+		},
+		{
+			"id": 911,
+			"name": "(Stepmother) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "r15",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Become It! The Cinder-Covered Great Stage! (15 May 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/8/84/%28Stepmother%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20170515074411",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/3/32/%28Stepmother%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170515074412"
 		}
 	]
 }

@@ -38,6 +38,19 @@
 			"origin": "Scout: Madara's Introduction! (26 April 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Return_and_Departure%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170426224913",
 			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/f/fa/%28Return_and_Departure%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170426224914"
+		},
+		{
+			"id": 000,
+			"name": "(Adventurous Model) Madara Mikejima",
+			"nick": "madara",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "Slightly increases all stats during Lesson Battles",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Runway! (14 May 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/1/11/%28Adventurous_Model%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170514154348",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/5/56/%28Adventurous_Model%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170514131105"
 		}
 	]
 }

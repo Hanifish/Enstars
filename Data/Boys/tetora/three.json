@@ -168,6 +168,19 @@
 			"origin": "Scout: Card Battler! (14 April 2017)",
 			"img": "hhttps://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Straight_Champion%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20170414064009",
 			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Straight_Champion%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170414055922"
+		},
+		{
+			"id": 999,
+			"name": "(Planner) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "r14",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Blue Jewels",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Become It! The Cinder-Covered Great Stage! (15 May 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Planner%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20170515090513",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Planner%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170515090513"
 		}
 	]
 }

@@ -194,6 +194,19 @@
 			"origin": "Event: Falling Cherry Blossoms＊Wisteria Purple of May! (30 April 2017)",
 			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Elegant_Performance%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170430060153",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Elegant_Performance%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170430060212"
+		},
+		{
+			"id": 000,
+			"name": "(Active Model) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r16",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Runway! (14 May 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/4/46/%28Active_Model%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170514153853",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Active_Model%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170515112528"
 		}
 	]
 }

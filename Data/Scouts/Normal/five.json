@@ -415,6 +415,19 @@
 			"origin": "Scout: Noble Game! (14 March 2017)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Master_of_the_Twilight_Mansion%29_Yuzuru_Fushimi.png/revision/latest/scale-to-width-down/250?cb=20170314075751",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/d/df/%28Master_of_the_Twilight_Mansion%29_Yuzuru_Fushimi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170314075802"
+		},
+		{
+			"id": 863,
+			"name": "(Dashing First Year) Yuta Aoi",
+			"nick": "yuta",
+			"alias": "ur",
+			"star": "5",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Shiny First Years! (30 March 2017)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Dashing_1st_Year%29_Yuta_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170330081756",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/36/%28Dashing_1st_Year%29_Yuta_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170330060819"
 		}
 	]
 }

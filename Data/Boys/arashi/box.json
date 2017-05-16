@@ -159,6 +159,19 @@
 			"origin": "Scout: Souma's Introduction (26 Jan 2017)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Voice_Training_Council%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170128014545",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/11/%28Voice_Training_Council%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170128014755"
+		},
+		{
+			"id": 000,
+			"name": "(Active Model) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r16",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Runway! (14 May 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/4/46/%28Active_Model%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170514153853",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Active_Model%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170515112528"
 		}
 	]
 }
