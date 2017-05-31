@@ -428,6 +428,19 @@
 			"origin": "Scout: Shiny First Years! (30 March 2017)",
 			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Dashing_1st_Year%29_Yuta_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170330081756",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/36/%28Dashing_1st_Year%29_Yuta_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170330060819"
+		},
+		{
+			"id": 876,
+			"name": "(Field Gambler) Koga Oogami",
+			"nick": "koga",
+			"alias": "ur",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Card Battler! (14 April 2017)",
+			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Field_Gambler%29_Koga_Oogami.png/revision/latest/scale-to-width-down/250?cb=20170414063926",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/fb/%28Field_Gambler%29_Koga_Oogami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170414055921"
 		}
 	]
 }

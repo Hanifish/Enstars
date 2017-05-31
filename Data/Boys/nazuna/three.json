@@ -168,6 +168,19 @@
 			"origin": "Event: Brilliance★Knights' Starlight Festival! (30 Nov 2016)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/63/%28Nostalgic_Wings%29_Nazuna_Nito.png/revision/latest/scale-to-width-down/250?cb=20161201004026",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/d/de/%28Nostalgic_Wings%29_Nazuna_Nito_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161201004112"
+		},
+		{
+			"id": 921,
+			"name": "(Hand in Hand) Nazuna Nito",
+			"nick": "nazuna",
+			"alias": "r14",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Blue Jewels",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Adonis's Introduction! (26 May 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Hand_in_Hand%29_Nazuna_Nito.png/revision/latest/scale-to-width-down/250?cb=20170527082249",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Hand_in_Hand%29_Nazuna_Nito_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170527011151"
 		}
 	]
 }

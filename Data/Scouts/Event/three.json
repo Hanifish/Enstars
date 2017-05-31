@@ -950,6 +950,45 @@
             "origin": "Scout: Madara's Introduction! (26 April 2017)",
             "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Return_and_Departure%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170426224913",
             "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/f/fa/%28Return_and_Departure%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170426224914"
+        },
+        {
+            "id": 921,
+            "name": "(Hand in Hand) Nazuna Nito",
+            "nick": "nazuna",
+            "alias": "r14",
+            "star": "3",
+            "lesson": "Slightly increases acquisition of Small Blue Jewels",
+            "dreamfes": "Slightly increases own Vocal",
+            "stat": "Vo",
+            "origin": "Scout: Adonis's Introduction! (26 May 2017)",
+            "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Hand_in_Hand%29_Nazuna_Nito.png/revision/latest/scale-to-width-down/250?cb=20170527082249",
+            "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Hand_in_Hand%29_Nazuna_Nito_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170527011151"
+        },
+        {
+            "id": 919,
+            "name": "(Shooting Council) Yuzuru Fushimi",
+            "nick": "yuzuru",
+            "alias": "r",
+            "star": "3",
+            "dreamfes": "Slightly increases own Dance",
+            "lesson": "Slightly increases all stats during Lesson Battles",
+            "stat": "Da",
+            "origin": "Scout: Adonis's Introduction! (26 May 2017)",
+            "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Shooting_Council%29_Yuzuru_Fushimi.png/revision/latest/scale-to-width-down/250?cb=20170527082018",
+            "imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a9/%28Shooting_Council%29_Yuzuru_Fushimi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170527011258"
+        },
+        {
+            "id": 920,
+            "name": "(Opponent) Yuta Aoi",
+            "nick": "yuta",
+            "alias": "r",
+            "star": "3",
+            "lesson": "Slightly increases acquisition of all Jewel Fragments",
+            "dreamfes": "Slightly increases own Performance",
+            "stat": "Pf",
+            "origin": "Scout: Adonis's Introduction! (26 May 2017)",
+            "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Opponent%29_Yuta_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170527082027",
+            "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f0/%28Opponent%29_Yuta_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170527011214"
         }
 ]
 }

@@ -66,13 +66,13 @@
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c4/%28Blessed_Smile%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161212070933"
 		},
 		{
-			"id": 000,
+			"id": 915,
 			"name": "(Model's Pride) Izumi Sena",
 			"nick": "izumi",
 			"alias": "sr6",
 			"star": "4",
-			"lesson": "Decreases opponent's Performance",
-			"dreamfes": "Slightly increases rate of Fever",
+			"dreamfes": "Decreases opponent's Performance",
+			"lesson": "Slightly increases rate of Fever",
 			"stat": "Pf",
 			"origin": "Scout: Runway! (14 May 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Model%27s_Pride%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20170514153037",

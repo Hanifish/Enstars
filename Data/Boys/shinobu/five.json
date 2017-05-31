@@ -51,6 +51,19 @@
 			"origin": "Event: Secret Acts! The Moonlight Scroll of the Elements! (30 Sept 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/7/77/%28Ninja%27s_Way_of_Life%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160930062251",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/3f/%28Ninja%27s_Way_of_Life%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160930062251"
+		},
+		{
+			"id": 000,
+			"name": "(Shy Ninja) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Medium Yellow Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Ukiyo Air Ride! (30 May 2017)",
+			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/8/89/%28Shy_Ninja%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20170530064204",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/c/cc/%28Shy_Ninja%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170530064207"
 		}
 	]
 }

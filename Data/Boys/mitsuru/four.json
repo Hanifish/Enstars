@@ -77,6 +77,19 @@
 			"origin": "Event: Falling Cherry Blossoms＊Wisteria Purple of May! (30 April 2017)",
 			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/a/ae/%28Forthright_Yoichi%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20170430060234",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/4/41/%28Forthright_Yoichi%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170430060250"
+		},
+		{
+			"id": 000,
+			"name": "(Straightforward Ninja) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "sr7",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Red Jewels",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Ukiyo Air Ride! (30 May 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/74/images/cd_fkncbpix_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/74/images/cd_fkncbpix_e.png"
 		}
 	]
 }

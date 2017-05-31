@@ -51,6 +51,19 @@
 			"origin": "Event: Evening Banquet! Band Ensemble! (30 Apr 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/20/%28Harmonica%27s_Companion%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20160504171121",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/d/d2/%28Harmonica%27s_Companion%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160511020448"
+		},
+		{
+			"id": 918,
+			"name": "(Special Parfait) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "sr5",
+			"star": "4",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Adonis's Introduction (26 May 2016)",
+			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Special_Parfait%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20170527081950",
+			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/3/35/%28Special_Parfait%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170527122524"
 		}
 	]
 }

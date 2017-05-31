@@ -1,5 +1,43 @@
 {
-    "id": 000,
+            "id": 000,
+            "name": "(Twin Ninja) Hinata Aoi",
+            "nick": "hinata",
+            "alias": "r",
+            "star": "3",
+            "lesson": "Slightly increases Performance during Lesson Battles",
+            "dreamfes": "Slightly decreases opponent's Performance",
+            "stat": "Pf",
+            "origin": "Scout: Ukiyo Air Ride! (30 May 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/gachas/74/images/cd_ucwfsgkm_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/74/images/cd_ucwfsgkm_e.png"
+        },
+{
+    "id": 919,
+    "name": "(Shooting Council) Yuzuru Fushimi",
+    "nick": "yuzuru",
+    "alias": "r",
+    "star": "3",
+    "dreamfes": "Slightly increases own Dance",
+    "lesson": "Slightly increases all stats during Lesson Battles",
+    "stat": "Da",
+    "origin": "Scout: Adonis's Introduction! (26 May 2017)",
+    "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Shooting_Council%29_Yuzuru_Fushimi.png/revision/latest/scale-to-width-down/250?cb=20170527082018",
+    "imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a9/%28Shooting_Council%29_Yuzuru_Fushimi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170527011258"
+}, {
+    "id": 920,
+    "name": "(Opponent) Yuta Aoi",
+    "nick": "yuta",
+    "alias": "r",
+    "star": "3",
+    "lesson": "Slightly increases acquisition of all Jewel Fragments",
+    "dreamfes": "Slightly increases own Performance",
+    "stat": "Pf",
+    "origin": "Scout: Adonis's Introduction! (26 May 2017)",
+    "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Opponent%29_Yuta_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170527082027",
+    "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f0/%28Opponent%29_Yuta_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170527011214"
+}, {
+
+    "id": 914,
     "name": "(Modeling Bonds) Makoto Yuuki",
     "nick": "makoto",
     "alias": "ur",

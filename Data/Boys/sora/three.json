@@ -64,6 +64,19 @@
 			"origin": "Event: Good Fortune ＊ The Oni and Brother's Setsubun Festival! (31 Jan 2017)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Bean_Repellent%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20170201040841",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/0/07/%28Bean_Repellent%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170131060300"
+		},
+		{
+			"id": 000,
+			"name": "(Color Ninja) Sora Harukawa",
+			"nick": "sora",
+			"alias": "r6",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Ukiyo Air Ride! (30 May 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Color_Ninja%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20170530065334",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Color_Ninja%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170530065337"
 		}
 	]
 }
