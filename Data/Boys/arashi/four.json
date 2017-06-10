@@ -64,6 +64,19 @@
 			"origin": "Event: Remember! A Midsummer Night's Dream! (31 July 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Self-Love_and_Love%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20160808185950",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/83/%28Self-Love_and_Love%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160808190009"
+		},
+		{
+			"id": 928,
+			"name": "(Glass Admiration) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "sr6",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Small Red Jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Reminiscence＊Monochrome Checkmate! (31 May 2017)",
+			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/0/01/%28Glass_Admiration%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170531064752",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/3/3e/%28Glass_Admiration%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170531064753"
 		}
 	]
 }

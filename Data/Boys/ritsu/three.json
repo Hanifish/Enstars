@@ -194,6 +194,19 @@
 			"origin": "Event: Reminiscence＊Spring Cherry Blossoms and a Night's Encounter! (31 March 2017)",
 			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a4/%28Senior_Classmate%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20170331060601",
 			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Senior_Classmate%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170331060602"
+		},
+		{
+			"id": 930,
+			"name": "(Gathered Knight) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "r16",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Reminiscence＊Monochrome Checkmate! (31 May 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/4/45/%28Gathered_Knight%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20170531064752",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/4/49/%28Gathered_Knight%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170531064752"
 		}
 	]
 }

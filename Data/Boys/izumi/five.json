@@ -77,6 +77,19 @@
 			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/5/51/%28Magnificent_Skater%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20170115085643",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Magnificent_Skater%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170115085700"
+		},
+		{
+			"id": 927,
+			"name": "(Comrade's Song) Izumi Sena",
+			"nick": "izumi",
+			"alias": "ur7",
+			"star": "5",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Reminiscence＊Monochrome Checkmate! (31 May 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/5/52/%28Comrade%27s_Song%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20170604044518",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/9/97/%28Comrade%27s_Song%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170604044540"
 		}
 	]
 }

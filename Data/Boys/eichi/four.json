@@ -103,6 +103,19 @@
 			"origin": "Event: Reminiscence! Gathering of the Three Magicians! (31 Aug 2016)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/fd/%28Precious_Thing%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20160910204834",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/d/d8/%28Precious_Thing%29_Eichi_Tenshouin_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160910204835"
+		},
+		{
+			"id": 929,
+			"name": "(Palm's Piece) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr9",
+			"star": "4",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Reminiscence＊Monochrome Checkmate! (31 May 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Palm%27s_Piece%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20170531064753",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Palm%27s_Piece%29_Eichi_Tenshouin_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170531064754"
 		}
 	]
 }

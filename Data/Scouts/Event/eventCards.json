@@ -2,7 +2,7 @@
 	"eventThree": [
 		
 		{
-			"id": 000,
+			"id": 925,
 			"name": "(Twin Ninja) Hinata Aoi",
 			"nick": "hinata",
 			"alias": "r",
@@ -15,7 +15,7 @@
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/74/images/cd_ucwfsgkm_e.png"
 		},
 		{
-			"id": 000,
+			"id": 924,
 			"name": "(Color Ninja) Sora Harukawa",
 			"nick": "sora",
 			"alias": "r6",
@@ -30,7 +30,7 @@
 	],
 	"eventFour": [
 		{
-			"id": 000,
+			"id": 923,
 			"name": "(Straightforward Ninja) Mitsuru Tenma",
 			"nick": "mitsuru",
 			"alias": "sr7",
@@ -46,7 +46,7 @@
 	],
 	"five": [
 		{
-			"id": 000,
+			"id": 922,
 			"name": "(Shy Ninja) Shinobu Sengoku",
 			"nick": "shinobu",
 			"alias": "ur5",

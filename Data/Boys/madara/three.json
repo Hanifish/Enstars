@@ -51,6 +51,19 @@
 			"origin": "Scout: Runway! (14 May 2017)",
 			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/1/11/%28Adventurous_Model%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170514154348",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/5/56/%28Adventurous_Model%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170514131105"
+		},
+		{
+			"id": 931,
+			"name": "(Ferry Knight) Madara Mikejima",
+			"nick": "madara",
+			"alias": "r5",
+			"star": "3",
+			"lesson": "Slightly increases Vocal during Lesson Battles",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Reminiscence＊Monochrome Checkmate! (31 May 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Ferry_Knight%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170531064751",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/c/ce/%28Ferry_Knight%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170531064751"
 		}
 	]
 }

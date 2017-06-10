@@ -51,6 +51,19 @@
 			"origin": "Event: Brilliance ★ Knights' Starlight Festival! (30 Nov 2016)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/44/%28Holy_Knight_of_the_Golden_Lion%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20161202055149",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Holy_Knight_of_the_Golden_Lion%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161202055203"
+		},
+		{
+			"id": 926,
+			"name": "(Komadori on a Branch) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Yellow Jewels",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Reminiscence＊Monochrome Checkmate! (31 May 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/d/df/%28Komadori_on_a_Branch%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20170607063740",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/a/ad/%28Komadori_on_a_Branch%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170531064755"
 		}
 	]
 }

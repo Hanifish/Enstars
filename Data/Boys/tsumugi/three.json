@@ -64,6 +64,19 @@
 			"origin": "Scout: Nocturne! (14 Dec 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/61/%28Gravekeeper_of_the_Books%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20161214102824",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Gravekeeper_of_the_Books%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161214102836"
+		},
+		{
+			"id": 932,
+			"name": "(Blue Knight) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "r6",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Reminiscence＊Monochrome Checkmate! (31 May 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Blue_Knight%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20170531064750",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Blue_Knight%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170531064750"
 		}
 	]
 }
