@@ -1,4 +1,17 @@
 {
+            "id": 935,
+            "name": "(Librarian) Keito Hasumi",
+            "nick": "keito",
+            "alias": "sr",
+            "star": "4",
+            "lesson": "Slightly increases acquisition of Medium Blue Jewels",
+            "dreamfes": "Decreases opponent's Vocal",
+            "stat": "Vo",
+            "origin": "Scout: Biblio! (14 June 2017)",
+            "img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Librarian%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/250?cb=20170614075436",
+            "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/1/11/%28Librarian%29_Keito_Hasumi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170615021203"
+        },
+        {
             "id": 925,
             "name": "(Twin Ninja) Hinata Aoi",
             "nick": "hinata",
@@ -8,8 +21,8 @@
             "dreamfes": "Slightly decreases opponent's Performance",
             "stat": "Pf",
             "origin": "Scout: Ukiyo Air Ride! (30 May 2017)",
-            "img": "http://stars.happyelements.co.jp/app_help/gachas/74/images/cd_ucwfsgkm_n.png",
-            "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/74/images/cd_ucwfsgkm_e.png"
+            "img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/9/98/%28Twin_Ninja%29_Hinata_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170531065548",
+            "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Twin_Ninja%29_Hinata_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170531065600"
         },
 {
     "id": 919,

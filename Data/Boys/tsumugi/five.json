@@ -8,10 +8,23 @@
 			"star": "5",
 			"lesson": "Slightly increases acquisition of Medium Yellow Jewels",
 			"dreamfes": "Increases own Performance",
-			"stat": "Come home",
+			"stat": "Pf",
 			"origin": "Event: Revival Festival☆Easter Night! (15 April 2017)",
 			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/e/e0/%28White_Easter%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20170426173928",
 			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/4/4a/%28White_Easter%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170426174002"
+		},
+		{
+			"id": 934,
+			"name": "(Bibliophilia) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Red Jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Biblio! (14 June 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/9/99/%28Bibliophilia%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20170614075419",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/9/93/%28Bibliophilia%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170614073420"
 		}
 	]
 }

@@ -25,6 +25,19 @@
 			"origin": "Scout: Strawberry Picking! (30 Mar 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Berry_Monster%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160330103425",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Berry_Monster%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160330121246"
+		},
+		{
+			"id": 922,
+			"name": "(Shy Ninja) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Medium Yellow Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Ukiyo Air Ride! (30 May 2017)",
+			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/8/89/%28Shy_Ninja%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20170530064204",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/c/cc/%28Shy_Ninja%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170530064207"
 		}
 	],
 	"four": [

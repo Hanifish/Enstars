@@ -679,6 +679,19 @@
                   "origin": "Scout: Card Battler! (14 April 2017)",
                   "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Corner_Duelist%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170414063941",
                   "imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/4/42/%28Corner_Duelist%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170414055922"
+            },
+            {
+                  "id": 895,
+                  "name": "(Preparation Time) Mao Isara",
+                  "nick": "mao",
+                  "alias": "sr",
+                  "star": "4",
+                  "lesson": "Slightly increases acquisition of all Jewel Fragments",
+                  "dreamfes": "Increases own Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Pajama! (29 April 2017)",
+                  "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/3/3f/%28Preparation_Time%29_Mao_Isara.png/revision/latest/scale-to-width-down/250?cb=20170429221743",
+                  "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/0/02/%28Preparation_Time%29_Mao_Isara_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170429202744"
             }
 
     ]

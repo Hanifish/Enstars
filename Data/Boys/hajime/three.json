@@ -191,5 +191,19 @@
         "origin": "Scout: Hinata's Introduction! (26 Mar 2017)",
         "img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/15/%28Admired_Person%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20170326061026",
         "imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Admired_Person%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=201703260610276"
-    }]
+    },
+    {
+            "id": 936,
+            "name": "(Book and Bookmark) Hajime Shino",
+            "nick": "hajime",
+            "alias": "r17",
+            "star": "3",
+            "lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+            "dreamfes": "Slightly increases own Performance",
+            "stat": "Pf",
+            "origin": "Scout: Biblio! (14 June 2017)",
+            "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Book_and_Bookmark%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20170614185654",
+            "imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/0/0c/%28Book_and_Bookmark%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170614171032"
+        }
+    ]
 }

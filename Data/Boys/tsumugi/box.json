@@ -1,0 +1,99 @@
+{
+	"five": [
+		{
+			"id": 934,
+			"name": "(Bibliophilia) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Red Jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Biblio! (14 June 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/9/99/%28Bibliophilia%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20170614075419",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/9/93/%28Bibliophilia%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170614073420"
+		}
+	],
+	"four": [
+		{
+			"id": 724,
+			"name": "(Gentle Sound) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "sr2",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Tsumugi's Introduction! (26 Oct 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/25/%28Gentle_Sound%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20161026230826",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Gentle_Sound%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161026230825"
+		},
+		{
+			"id": 836,
+			"name": "(Gentle Bouquet) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
+			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/67/%28Gentle_Bouquet%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20170227115319",
+			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Gentle_Bouquet%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227115327"
+		}
+	],
+	"three": [
+		{
+			"id": 661,
+			"name": "(Book's Whereabouts) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases all Stats during Lesson Dreamfes",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Switch's Introduction!",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Book%27s_Whereabout%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20160917045147",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c8/%28Book%27s_Whereabout%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160917045147"
+		},
+		{
+			"id": 662,
+			"name": "(Handmade) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of small yellow jewels",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Switch's Introduction!",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Handmade%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20161211052637",
+			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Handmade%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161211052625"
+		},
+		{
+			"id": 753,
+			"name": "(Black Swan and Compassion) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "Slightly increases the acquisition of Small Red Jewels",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Natsume's Introduction! (26 Nov 2016)",
+			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/8/80/%28Black_Swan_and_Compassion%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20161126061036",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/8/82/%28Black_Swan_and_Compassion%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161126061050"
+		},
+		{
+			"id": 768,
+			"name": "(Gravekeeper of the Books) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "r5",
+			"star": "3",
+			"lesson": "Increases acquisition of small blue jewels",
+			"dreamfes": "Opponent's Vocal Down",
+			"stat": "Vo",
+			"origin": "Scout: Nocturne! (14 Dec 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/61/%28Gravekeeper_of_the_Books%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20161214102824",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Gravekeeper_of_the_Books%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161214102836"
+		}
+	]
+}
