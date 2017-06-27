@@ -77,6 +77,19 @@
 			"origin": "Event: Reminiscence＊Monochrome Checkmate! (31 May 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Blue_Knight%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20170531064750",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Blue_Knight%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170531064750"
+		},
+		{
+			"id": 943,
+			"name": "(Early Summer Festa) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "r7",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Seven-Colored＊Sunshower Festa! (15 June 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/1/16/%28Early_Summer_Fiesta%29_Tsumugi_Aoba.PNG/revision/latest/scale-to-width-down/250?cb=20170618013232",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Early_Summer_Fiesta%29_Tsumugi_Aoba_Bloomed.PNG/revision/latest/scale-to-width-down/250?cb=20170618013440"
 		}
 	]
 }

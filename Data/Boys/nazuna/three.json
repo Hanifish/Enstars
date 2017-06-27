@@ -181,6 +181,19 @@
 			"origin": "Scout: Adonis's Introduction! (26 May 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Hand_in_Hand%29_Nazuna_Nito.png/revision/latest/scale-to-width-down/250?cb=20170527082249",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Hand_in_Hand%29_Nazuna_Nito_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170527011151"
+		},
+		{
+			"id": 944,
+			"name": "(Festa Tour) Nazuna Nito",
+			"nick": "nazuna",
+			"alias": "r15",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Yellow Jewels",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Seven-Colored＊Sunshower Festa! (15 June 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/1/16/%28Festa_Tour%29_Nazuna_Nito.png/revision/latest/scale-to-width-down/250?cb=20170615172822",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6c/%28Festa_Tour%29_Nazuna_Nito_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170615172821"
 		}
 	]
 }

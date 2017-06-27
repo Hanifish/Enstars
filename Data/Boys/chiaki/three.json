@@ -168,6 +168,19 @@
 			"origin": "Event: Falling Cherry Blossoms＊Wisteria Purple of May! (30 April 2017)",
 			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Senpai%27s_Festival%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20170430060304",
 			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/7/71/%28Senpai%27s_Festival%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170430060314"
+		},
+		{
+			"id": 942,
+			"name": "(Enjoyable Festa) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "r14",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Blue Small Jewels",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Seven-Colored＊Sunshower Festa! (15 June 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Enjoyable_Festa%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20170620201810",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e5/%28Enjoyable_Festa%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170620201825"
 		}
 	]
 }

@@ -25,6 +25,19 @@
 			"origin": "Scout: Natsume's Introduction! (26 Nov 2016)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Magical_Symbol%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20161126060820",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/41/%28Magical_Symbol%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161126060845"
+		},
+		{
+			"id": 941,
+			"name": "(Trick Sun Shower) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Seven-Colored＊Sunshower Festa! (15 June 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Trick_Sunshower%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20170615172820",
+			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/2/21/%28Trick_Sunshower%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170615172819"
 		}
 	]
 }

@@ -12,6 +12,19 @@
 			"origin": "Event: React! Magical Halloween! (31 Oct 2016)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/a/a3/%28Halloween_Witch%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20161102222841",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/6b/%28Halloween_Witch%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161103105512"
+		},
+		{
+			"id": 939,
+			"name": "(Bright Sun Shower) Sora Harukawa",
+			"nick": "sora",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Red Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Seven-Colored＊Sunshower Festa! (15 June 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Bright_Sunshower%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20170615172814",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Bright_Sunshower%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170615172812"
 		}
 	]
 }
