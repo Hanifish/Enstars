@@ -168,6 +168,19 @@
 			"origin": "Scout: Card Battler! (14 April 2017)",
 			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/7/76/%28Standard_Combatant%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20170414063954",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/9/9f/%28Standard_Combatant%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170414055923"
-		}
+		},
+		{
+                  "id": 949,
+                  "name": "(Roadside Pigeon) Tomoya Mashiro",
+                  "nick": "tomoya",
+                  "alias": "r14",
+                  "star": "3",
+                  "lesson": "Slightly increases Vocal during Lesson Battles",
+                  "dreamfes": "Slightly increases own Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Yuzuru's Introduction! (26 June 2017)",
+                  "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Roadside_Pigeon%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20170630224340",
+                  "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/4/40/%28Roadside_Pigeon%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170627035902"
+            }
 	]
 }

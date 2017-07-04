@@ -692,6 +692,19 @@
                   "origin": "Scout: Pajama! (29 April 2017)",
                   "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/3/3f/%28Preparation_Time%29_Mao_Isara.png/revision/latest/scale-to-width-down/250?cb=20170429221743",
                   "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/0/02/%28Preparation_Time%29_Mao_Isara_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170429202744"
+            },
+            {
+                  "id": 946,
+                  "name": "(Steadfast) Yuzuru Fushimi",
+                  "nick": "yuzuru",
+                  "alias": "sr",
+                  "star": "4",
+                  "lesson": "Slightly increases rate of Fever",
+                  "dreamfes": "Increases own Vocal",
+                  "stat": "Pf",
+                  "origin": "Scout: Yuzuru's Introduction! (26 June 2017)",
+                  "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/2/22/%28Steadfast%29_Yuzuru_Fushimi.png/revision/latest/scale-to-width-down/250?cb=20170630224246",
+                  "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/d/d8/%28Steadfast%29_Yuzuru_Fushimi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170627035904"
             }
 
     ]

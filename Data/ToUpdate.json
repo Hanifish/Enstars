@@ -1,4 +1,43 @@
 {
+                  "id": 947,
+                  "name": "(Way of the Katana) Souma Kanzaki",
+                  "nick": "souma",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of Small Red Jewels",
+                  "dreamfes": "Slightly decreases opponent's Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Yuzuru's Introduction! (26 June 2017)",
+                  "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/6/60/%28Way_of_the_Katana%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/250?cb=20170630224205",
+                  "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/9/9b/%28Way_of_the_Katana%29_Souma_Kanzaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170627035906"
+            },
+            {
+                  "id": 948,
+                  "name": "(String Phone) Rei Sakuma",
+                  "nick": "rei",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of Small Yellow Jewels",
+                  "dreamfes": "Slightly decreases opponent's Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Yuzuru's Introduction! (26 June 2017)",
+                  "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/6/69/%28String_Telephone%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20170630224224",
+                  "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/f/f8/%28String_Telephone%29_Rei_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170627101001"
+            },
+{
+                  "id": 946,
+                  "name": "(Steadfast) Yuzuru Fushimi",
+                  "nick": "yuzuru",
+                  "alias": "sr",
+                  "star": "4",
+                  "lesson": "Slightly increases rate of Fever",
+                  "dreamfes": "Increases own Vocal",
+                  "stat": "Pf",
+                  "origin": "Scout: Yuzuru's Introduction! (26 June 2017)",
+                  "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/2/22/%28Steadfast%29_Yuzuru_Fushimi.png/revision/latest/scale-to-width-down/250?cb=20170630224246",
+                  "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/d/d8/%28Steadfast%29_Yuzuru_Fushimi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170627035904"
+            },
+{
             "id": 935,
             "name": "(Librarian) Keito Hasumi",
             "nick": "keito",

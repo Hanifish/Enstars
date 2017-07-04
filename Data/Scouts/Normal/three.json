@@ -1733,6 +1733,45 @@
                   "origin": "Scout: Pajama! (29 April 2017)",
                   "img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/3/35/%28Pillow_Patrol%29_Mika_Kagehira.png/revision/latest/scale-to-width-down/250?cb=20170429221756",
                   "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Pillow_Patrol%29_Mika_Kagehira_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170429202746"
+            },
+            {
+                  "id": 947,
+                  "name": "(Way of the Katana) Souma Kanzaki",
+                  "nick": "souma",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of Small Red Jewels",
+                  "dreamfes": "Slightly decreases opponent's Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Yuzuru's Introduction! (26 June 2017)",
+                  "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/6/60/%28Way_of_the_Katana%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/250?cb=20170630224205",
+                  "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/9/9b/%28Way_of_the_Katana%29_Souma_Kanzaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170627035906"
+            },
+            {
+                  "id": 948,
+                  "name": "(String Phone) Rei Sakuma",
+                  "nick": "rei",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of Small Yellow Jewels",
+                  "dreamfes": "Slightly decreases opponent's Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Yuzuru's Introduction! (26 June 2017)",
+                  "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/6/69/%28String_Telephone%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20170630224224",
+                  "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/f/f8/%28String_Telephone%29_Rei_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170627101001"
+            },
+            {
+                  "id": 949,
+                  "name": "(Roadside Pigeon) Tomoya Mashiro",
+                  "nick": "tomoya",
+                  "alias": "r14",
+                  "star": "3",
+                  "lesson": "Slightly increases Vocal during Lesson Battles",
+                  "dreamfes": "Slightly increases own Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Yuzuru's Introduction! (26 June 2017)",
+                  "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Roadside_Pigeon%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20170630224340",
+                  "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/4/40/%28Roadside_Pigeon%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170627035902"
             }
     ]
 }
