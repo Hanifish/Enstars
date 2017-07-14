@@ -168,6 +168,19 @@
 			"origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Precious_Bouquet%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20170227060051",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Precious_Bouquet%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227060043"
+		},
+		{
+			"id": 952,
+			"name": "(King of Dash) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "r14",
+			"star": "3",
+			"lesson": "Slightly increases all stats during Lesson Battles",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Little Kings! (29 June 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d2/%28King_of_Dash%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20170630224540",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2c/%28King_of_Dash%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170629063822"
 		}
 	]
 }

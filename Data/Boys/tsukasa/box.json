@@ -25,6 +25,19 @@
 			"origin": "Scout: Fruits Parlor! (29 Sept 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/21/%28Greedy_Order%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20160930212334",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Greedy_Order%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161020014407"
+		},
+		{
+			"id": 950,
+			"name": "(King of Sweets) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Yellow Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Little Kings! (29 June 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e7/%28King_of_Sweets%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170629070805",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/f/f9/%28King_of_Sweets%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170702170100"
 		}
 	],
 	"four": [

@@ -64,6 +64,19 @@
 			"origin": "Event: Melty❤Sweetly Unraveling Chocolat Festival! (15 Feb 2017)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/39/%28Bitter_Chocolat%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170215064327",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Bitter_Chocolat%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170215064326"
+		},
+		{
+			"id": 950,
+			"name": "(King of Sweets) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Yellow Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Little Kings! (29 June 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e7/%28King_of_Sweets%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170629070805",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/f/f9/%28King_of_Sweets%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170702170100"
 		}
 	]
 }

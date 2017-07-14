@@ -1,4 +1,17 @@
 {
+            "id": 953,
+            "name": "(King of Toys) Tori Himemiya",
+            "nick": "tori",
+            "alias": "r",
+            "star": "3",
+            "lesson": "Slightly increases acquisition of all Jewel Fragments",
+            "dreamfes": "Slightly decreases opponent's Performance",
+            "stat": "Pf",
+            "origin": "Scout: Little Kings! (29 June 2017)",
+            "img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/a/ad/%28King_of_Toys%29_Tori_Himemiya.png/revision/latest/scale-to-width-down/250?cb=20170630224519",
+            "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/2/21/%28King_of_Toys%29_Tori_Himemiya_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170629063823"
+        },
+        {
                   "id": 947,
                   "name": "(Way of the Katana) Souma Kanzaki",
                   "nick": "souma",

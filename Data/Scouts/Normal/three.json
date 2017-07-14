@@ -1772,6 +1772,32 @@
                   "origin": "Scout: Yuzuru's Introduction! (26 June 2017)",
                   "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Roadside_Pigeon%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20170630224340",
                   "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/4/40/%28Roadside_Pigeon%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170627035902"
+            },
+            {
+                  "id": 916,
+                  "name": "(Active Model) Arashi Narukami",
+                  "nick": "arashi",
+                  "alias": "r16",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Jewel Fragments",
+                  "dreamfes": "Slightly increases own Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Runway! (14 May 2017)",
+                  "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/4/46/%28Active_Model%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170514153853",
+                  "imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Active_Model%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170515112528"
+            },
+            {
+                  "id": 917,
+                  "name": "(Adventurous Model) Madara Mikejima",
+                  "nick": "madara",
+                  "alias": "r4",
+                  "star": "3",
+                  "lesson": "Slightly increases all stats during Lesson Battles",
+                  "dreamfes": "Slightly decreases opponent's Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Runway! (14 May 2017)",
+                  "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/1/11/%28Adventurous_Model%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170514154348",
+                  "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/5/56/%28Adventurous_Model%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170514131105"
             }
     ]
 }

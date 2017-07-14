@@ -705,6 +705,19 @@
                   "origin": "Scout: Yuzuru's Introduction! (26 June 2017)",
                   "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/2/22/%28Steadfast%29_Yuzuru_Fushimi.png/revision/latest/scale-to-width-down/250?cb=20170630224246",
                   "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/d/d8/%28Steadfast%29_Yuzuru_Fushimi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170627035904"
+            },
+            {
+                  "id": 915,
+                  "name": "(Model's Pride) Izumi Sena",
+                  "nick": "izumi",
+                  "alias": "sr6",
+                  "star": "4",
+                  "lesson": "Decreases opponent's Performance",
+                  "dreamfes": "Slightly increases rate of Fever",
+                  "stat": "Pf",
+                  "origin": "Scout: Runway! (14 May 2017)",
+                  "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Model%27s_Pride%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20170514153037",
+                  "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Model%27s_Pride%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170514131103"
             }
 
     ]

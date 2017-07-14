@@ -53,6 +53,19 @@
 			"origin": "Scout: Strawberry Picking! (30 Mar 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/de/%28Berry_Happy_Day%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20160330103436",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/2/20/%28Berry_Happy_Day%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160409074319"
+		},
+		{
+			"id": 951,
+			"name": "(King of Vegetables) Midori Takamine",
+			"nick": "midori",
+			"alias": "sr6",
+			"star": "4",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Little Kings! (29 June 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5f/%28King_of_Vegetables%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20170630224425",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/1/15/%28King_of_Vegetables%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170629063821"
 		}
 	],
 	"three": [
