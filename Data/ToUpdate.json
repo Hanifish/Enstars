@@ -1,4 +1,17 @@
 {
+            "id": 965,
+            "name": "(Trombone) Keito Hasumi",
+            "nick": "keito",
+            "alias": "r",
+            "star": "3",
+            "lesson": "Slightly increases acquisition of all Jewel Fragments",
+            "dreamfes": "Slightly decreases opponent's Vocal",
+            "stat": "Vo",
+            "origin": "Scout: Concerto! (14 July 2017)",
+            "img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c3/%28Trombone%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/250?cb=20170714070249",
+            "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0a/%28Trombone%29_Keito_Hasumi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170714071618"
+        },
+        {
             "id": 953,
             "name": "(King of Toys) Tori Himemiya",
             "nick": "tori",

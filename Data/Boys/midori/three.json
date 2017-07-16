@@ -158,6 +158,19 @@
             "origin": "Scout: Biblio! (14 June 2017)",
             "img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/8/88/%28Book%27s_Continuation%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20170614185641",
             "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/1/16/%28Book%27s_Continuation%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170614171034"
+        },
+        {
+            "id": 960,
+            "name": "(Motivation and Fireworks) Midori Takamine",
+            "nick": "midori",
+            "alias": "r14",
+            "star": "3",
+            "lesson": "Slightly increases all stats during Lesson Battles",
+            "dreamfes": "Slightly increases own Dance",
+            "stat": "Da",
+            "origin": "Event: Launch! The Night Sky of the Shooting Star Festival! (30 June 2017)",
+            "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/3/31/%28Motivation_and_Fireworks%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20170630065806",
+            "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/b/be/%28Motivation_and_Fireworks%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170630065806"
         }
     ]
 }

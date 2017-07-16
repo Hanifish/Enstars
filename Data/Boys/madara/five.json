@@ -12,6 +12,19 @@
 			"origin": "Scout: Falling Cherry Blossoms＊Wisteria Purple of May! (30 April 2017)",
 			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/4/44/%28Rampant_Benkei%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170430055947",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f8/%28Rampant_Benkei%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170430055959"
+		},
+		{
+			"id": 962,
+			"name": "(Violin of the Setting Sun) Madara Mikejima",
+			"nick": "madara",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Concerto! (14 July 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/1/17/%28Violin_of_the_Setting_Sun%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170714070217",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Violin_of_the_Setting_Sun%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170714063335"
 		}
 	]
 }

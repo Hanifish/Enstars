@@ -1,0 +1,17 @@
+{
+	"cards": [
+		{
+			"id": 000,
+			"name": "(Summer Time) Hiyori Tomoe",
+			"nick": "hiyori",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Medium Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Kiseki☆The Preliminary Match of the Summer Live! (15 July 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/3/33/%28Summer_Time%29_Hiyori_Tomoe.png/revision/latest/scale-to-width-down/250?cb=20170715061225",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/f/fd/%28Summer_Time%29_Hiyori_Tomoe_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170715061226"
+		}
+	]
+}

@@ -90,6 +90,19 @@
 			"origin": "Event: Secret Acts! The Moonlight Scroll of the Elements! (30 Sept 2016)",
 			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/40/%28Burning_Ninja%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20161010143002",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/42/%28Burning_Ninja%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161010143005"
-		}
+		},
+		{
+            "id": 956,
+            "name": "(Smiles and Fireworks) Chiaki Morisawa",
+            "nick": "chiaki",
+            "alias": "sr8",
+            "star": "4",
+            "lesson": "Slightly increases Trust rate of all members",
+            "dreamfes": "Decreases opponent's Dance",
+            "stat": "Da",
+            "origin": "Event: Launch! The Night Sky of the Shooting Star Festival! (30 June 2017)",
+            "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Smiles_and_Fireworks%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20170630065801",
+            "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170630065802"
+        }
 	]
 }

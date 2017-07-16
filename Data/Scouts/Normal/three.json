@@ -1798,6 +1798,32 @@
                   "origin": "Scout: Runway! (14 May 2017)",
                   "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/1/11/%28Adventurous_Model%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170514154348",
                   "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/5/56/%28Adventurous_Model%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170514131105"
+            },
+            {
+                  "id": 925,
+                  "name": "(Twin Ninja) Hinata Aoi",
+                  "nick": "hinata",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases Performance during Lesson Battles",
+                  "dreamfes": "Slightly decreases opponent's Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Ukiyo Air Ride! (30 May 2017)",
+                  "img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/9/98/%28Twin_Ninja%29_Hinata_Aoi.png/revision/latest/scale-to-width-down/250?cb=20170531065548",
+                  "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Twin_Ninja%29_Hinata_Aoi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170531065600"
+            },
+            {
+                  "id": 924,
+                  "name": "(Color Ninja) Sora Harukawa",
+                  "nick": "sora",
+                  "alias": "r6",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Jewel Fragments",
+                  "dreamfes": "Slightly decreases opponent's Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Ukiyo Air Ride! (30 May 2017)",
+                  "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Color_Ninja%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20170530065334",
+                  "imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Color_Ninja%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170530065337"
             }
     ]
 }

@@ -64,6 +64,19 @@
 			"origin": "Scout: The Four Beasts of Fistfighting! (14 Feb 2017)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Leaping_White_Tiger%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20170214060014",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/70/%28Leaping_White_Tiger%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170214060115"
+		},
+		{
+			"id": 954,
+			"name": "(Meteor Fireworks) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Launch! The Night Sky of the Shooting Star Festival! (30 June 2017)",
+			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/0/09/%28Meteor_Fireworks%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20170630065759",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/7/72/%28Meteor_Fireworks%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170630065800"
 		}
 	]
 }

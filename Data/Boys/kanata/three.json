@@ -181,6 +181,19 @@
 			"origin": "Event: Photoshoot! Warm Athletics! (15 Mar 2017)",
 			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/d/d4/%28Guest_Participation%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20170315060444",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Guest_Participation%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170315060436"
-		}
+		},
+		{
+            "id": 958,
+            "name": "(Goldfish and Fireworks) Kanata Shinkai",
+            "nick": "kanata",
+            "alias": "r15",
+            "star": "3",
+            "lesson": "Slightly increases all stats during Lesson Battles",
+            "dreamfes": "Slightly increases own Vocal",
+            "stat": "Vo",
+            "origin": "Event: Launch! The Night Sky of the Shooting Star Festival! (30 June 2017)",
+            "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/d/df/%28Goldfish_and_Fireworks%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20170630065805",
+            "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/2/26/%28Goldfish_and_Fireworks%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170630065805"
+        }
 	]
 }
