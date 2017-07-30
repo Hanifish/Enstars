@@ -480,6 +480,19 @@
 			"origin": "Scout: Ukiyo Air Ride! (30 May 2017)",
 			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/8/89/%28Shy_Ninja%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20170530064204",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/c/cc/%28Shy_Ninja%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170530064207"
+		},
+		{
+			"id": 934,
+			"name": "(Bibliophilia) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "ur2",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Red Jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Biblio! (14 June 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/9/99/%28Bibliophilia%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20170614075419",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/9/93/%28Bibliophilia%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170614073420"
 		}
 	]
 }

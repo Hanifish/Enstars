@@ -64,6 +64,19 @@
 			"origin": "Event: Melty❤Sweetly Unraveling Chocolat Festival! (15 Feb 2017)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Hot_Chocolat%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20170216025107",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Hot_Chocolat%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170215064329"
+		},
+		{
+			"id": 999,
+			"name": "(Nekomata on the Eaves) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "sr6",
+			"star": "4",
+			"lesson": "Slightly Increases Trust rate of all members",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Monster Transformation! (30 July 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_zngvajsb_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_zngvajsb_e.png"
 		}
 	]
 }

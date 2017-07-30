@@ -1,4 +1,43 @@
 {
+      "id": 999,
+      "name": "(Twilight Tengu) Hinata Aoi",
+      "nick": "hinata",
+      "alias": "ur",
+      "star": "5",
+      "lesson": "Slightly increases rate of Fever",
+      "dreamfes": "Decreases opponent's Dance",
+      "stat": "Da",
+      "origin": "Scout: Monster Transformation! (30 July 2017)",
+      "img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_xmqflbzh_n.png",
+      "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_xmqflbzh_e.png"
+    },
+    {
+                  "id": 999,
+                  "name": "(Soumen-Nagashi) Mao Isara",
+                  "nick": "mao",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of Small Yellow Jewels",
+                  "dreamfes": "Slightly decreases opponent's Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Nazuna's Introduction! (26 July 2017)",
+                  "img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/c/c5/%28Soumen-Nagashi%29_Mao_Isara.png/revision/latest?cb=20170726062701",
+                  "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/0/07/%28Soumen-Nagashi%29_Mao_Isara_Bloomed.png/revision/latest?cb=20170726062702"
+            },
+            {
+                  "id": 999,
+                  "name": "(Programming) Makoto Yuuki",
+                  "nick": "makoto",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of Blue Jewel Fragments",
+                  "dreamfes": "Slightly decreases opponent's Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Nazuna's Introduction! (26 July 2017)",
+                  "img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/1/11/%28Programming%29_Makoto_Yuuki.png/revision/latest?cb=20170726062701",
+                  "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/3/3e/%28Programming%29_Makoto_Yuuki_Bloomed.png/revision/latest?cb=20170726062701"
+            },
+            {
             "id": 965,
             "name": "(Trombone) Keito Hasumi",
             "nick": "keito",

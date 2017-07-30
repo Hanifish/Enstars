@@ -1028,6 +1028,45 @@
                   "origin": "Scout: Yuzuru's Introduction! (26 June 2017)",
                   "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Roadside_Pigeon%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20170630224340",
                   "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/4/40/%28Roadside_Pigeon%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170627035902"
+            },
+            {
+                  "id": 999,
+                  "name": "(Everyday Activities) Ritsu Sakuma",
+                  "nick": "ritsu",
+                  "alias": "r17",
+                  "star": "3",
+                  "lesson": "Slightly increases all stats during Lesson Battles",
+                  "dreamfes": "Slightly increases own Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Nazuna's Introduction! (26 July 2017)",
+                  "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/4/40/%28Everyday_Activities%29_Ritsu_Sakuma.png/revision/latest?cb=20170726062702",
+                  "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Everyday_Activities%29_Ritsu_Sakuma_Bloomed.png/revision/latest?cb=20170726062703"
+            },
+            {
+                  "id": 999,
+                  "name": "(Soumen-Nagashi) Mao Isara",
+                  "nick": "mao",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of Small Yellow Jewels",
+                  "dreamfes": "Slightly decreases opponent's Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Nazuna's Introduction! (26 July 2017)",
+                  "img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/c/c5/%28Soumen-Nagashi%29_Mao_Isara.png/revision/latest?cb=20170726062701",
+                  "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/0/07/%28Soumen-Nagashi%29_Mao_Isara_Bloomed.png/revision/latest?cb=20170726062702"
+            },
+            {
+                  "id": 999,
+                  "name": "(Programming) Makoto Yuuki",
+                  "nick": "makoto",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of Blue Jewel Fragments",
+                  "dreamfes": "Slightly decreases opponent's Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Nazuna's Introduction! (26 July 2017)",
+                  "img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/1/11/%28Programming%29_Makoto_Yuuki.png/revision/latest?cb=20170726062701",
+                  "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/3/3e/%28Programming%29_Makoto_Yuuki_Bloomed.png/revision/latest?cb=20170726062701"
             }
 ]
 }

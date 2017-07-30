@@ -77,6 +77,19 @@
 			"origin": "Scout: Ukiyo Air Ride! (30 May 2017)",
 			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Color_Ninja%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20170530065334",
 			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Color_Ninja%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170530065337"
+		},
+		{
+			"id": 999,
+			"name": "(Kamaitachi) Sora Harukawa",
+			"nick": "sora",
+			"alias": "r7",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Monster Transformation! (30 July 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_aguwqbof_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_aguwqbof_e.png"
 		}
 	]
 }

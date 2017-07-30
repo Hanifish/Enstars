@@ -181,6 +181,19 @@
 			"origin": "Event: Become It! The Cinder-Covered Great Stage! (15 May 2017)",
 			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Planner%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20170515090513",
 			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Planner%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170515090513"
+		},
+		{
+			"id": 999,
+			"name": "(Yamainu) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "r15",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Monster Transformation! (30 July 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_gxopclyu_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_gxopclyu_e.png"
 		}
 	]
 }

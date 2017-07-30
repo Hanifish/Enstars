@@ -90,6 +90,19 @@
 			"origin": "Scout: BADBOYS (14 Nov 2016)",
 			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/43/%28Bad_Role_Model%29_Nazuna_Nito.png/revision/latest/scale-to-width-down/250?cb=20161115020134",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/f/f8/%28Bad_Role_Model%29_Nazuna_Nito_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161115020201"
+		},
+		{
+			"id": 999,
+			"name": "(Rabbit's Feelings) Nazuna Nito",
+			"nick": "nazuna",
+			"alias": "sr8",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Nazuna's Introduction! (26 July 2017)",
+			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Rabbit%27s_Feelings%29_Nazuna_Nito.png/revision/latest?cb=20170726062700",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/d/d5/%28Rabbit%27s_Feelings%29_Nazuna_Nito_Bloomed.png/revision/latest?cb=20170726062700"
 		}
 	]
 }

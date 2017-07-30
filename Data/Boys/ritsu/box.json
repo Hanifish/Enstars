@@ -146,6 +146,19 @@
 			"origin": "Scout: Natsume's Introduction! (26 Nov 2016)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b8/%28Flower_Garden_Slumber%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20161212054316",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/52/%28Flower_Garden_Slumber%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161212054334"
+		},
+		{
+			"id": 999,
+			"name": "(Everyday Activities) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "r17",
+			"star": "3",
+			"lesson": "Slightly increases all stats during Lesson Battles",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Nazuna's Introduction! (26 July 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/4/40/%28Everyday_Activities%29_Ritsu_Sakuma.png/revision/latest?cb=20170726062702",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Everyday_Activities%29_Ritsu_Sakuma_Bloomed.png/revision/latest?cb=20170726062703"
 		}
 	]
 }

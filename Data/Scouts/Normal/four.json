@@ -731,6 +731,32 @@
                   "origin": "Scout: Ukiyo Air Ride! (30 May 2017)",
                   "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Straightforward_Ninja%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20170531032745",
                   "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Straightforward_Ninja%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170531221054"
+            },
+            {
+                  "id": 999,
+                  "name": "(Rabbit's Feelings) Nazuna Nito",
+                  "nick": "nazuna",
+                  "alias": "sr8",
+                  "star": "4",
+                  "lesson": "Slightly increases acquisition of all Jewel Fragments",
+                  "dreamfes": "Decreases opponent's Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Nazuna's Introduction! (26 July 2017)",
+                  "img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Rabbit%27s_Feelings%29_Nazuna_Nito.png/revision/latest?cb=20170726062700",
+                  "imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/d/d5/%28Rabbit%27s_Feelings%29_Nazuna_Nito_Bloomed.png/revision/latest?cb=20170726062700"
+            },
+            {
+                  "id": 935,
+                  "name": "(Librarian) Keito Hasumi",
+                  "nick": "keito",
+                  "alias": "sr",
+                  "star": "4",
+                  "lesson": "Slightly increases acquisition of Medium Blue Jewels",
+                  "dreamfes": "Decreases opponent's Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Biblio! (14 June 2017)",
+                  "img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Librarian%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/250?cb=20170614075436",
+                  "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/1/11/%28Librarian%29_Keito_Hasumi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170615021203"
             }
 
     ]
