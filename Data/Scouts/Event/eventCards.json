@@ -3,60 +3,60 @@
 		
 		{
 			"id": 999,
-			"name": "(Yamainu) Tetora Nagumo",
-			"nick": "tetora",
-			"alias": "r15",
+			"name": "(Hip Hop) Tori Himemiya",
+			"nick": "tori",
+			"alias": "r",
 			"star": "3",
-			"lesson": "Slightly increases acquisition of all Small Jewels",
-			"dreamfes": "Slightly decreases opponent's Dance",
-			"stat": "Da",
-			"origin": "Scout: Monster Transformation! (30 July 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_gxopclyu_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_gxopclyu_e.png"
+			"lesson": "Slightly increases Vocal during Lesson Battles",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Dance Floor! (14 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_dvbmiquo_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_dvbmiquo_e.png"
 		},
 		{
 			"id": 999,
-			"name": "(Kamaitachi) Sora Harukawa",
-			"nick": "sora",
-			"alias": "r7",
+			"name": "(Street) Yuzuru Fushimi",
+			"nick": "yuzuru",
+			"alias": "r",
 			"star": "3",
-			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"lesson": "Slightly increases Performance during Lesson Battles",
 			"dreamfes": "Slightly decreases opponent's Performance",
 			"stat": "Pf",
-			"origin": "Scout: Monster Transformation! (30 July 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_aguwqbof_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_aguwqbof_e.png"
+			"origin": "Scout: Dance Floor! (14 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_zjrknlob_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_zjrknlob_e.png"
 		}
 	],
 	"eventFour": [
 		{
 			"id": 999,
-			"name": "(Nekomata on the Eaves) Tomoya Mashiro",
-			"nick": "tomoya",
-			"alias": "sr6",
+			"name": "(Dance Time) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr10",
 			"star": "4",
-			"lesson": "Slightly Increases Trust rate of all members",
-			"dreamfes": "Slightly decreases opponent's Vocal",
-			"stat": "Vo",
-			"origin": "Scout: Monster Transformation! (30 July 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_zngvajsb_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_zngvajsb_e.png"
+			"lesson": "Increases Fever rate",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Dance Floor! (14 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_pdkitqfb_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_pdkitqfb_e.png"
 		}
 
 	],
 	"five": [
 		{
 			"id": 999,
-			"name": "(Twilight Tengu) Hinata Aoi",
-			"nick": "hinata",
-			"alias": "ur",
+			"name": "(Dance Floor) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "ur6",
 			"star": "5",
-			"lesson": "Slightly increases rate of Fever",
-			"dreamfes": "Decreases opponent's Dance",
-			"stat": "Da",
-			"origin": "Scout: Monster Transformation! (30 July 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_xmqflbzh_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_xmqflbzh_e.png"
+			"lesson": "Increases Trust rate of all members",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Dance Floor! (14 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_vpsdnjce_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_vpsdnjce_e.png"
 		}
 
 	]

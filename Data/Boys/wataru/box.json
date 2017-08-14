@@ -38,6 +38,19 @@
 			"origin": "Scout! Dream Colored Prince! (14 May 2016)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/3/3e/%28Glittering_Daydream%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20160514073530",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Glittering_Daydream%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160516001731"
+		},
+		{
+			"id": 999,
+			"name": "(Dance Floor) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Increases Trust rate of all members",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Dance Floor! (14 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_vpsdnjce_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_vpsdnjce_e.png"
 		}
 	],
 	"four": [

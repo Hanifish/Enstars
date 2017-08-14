@@ -188,12 +188,25 @@
 			"nick": "adonis",
 			"alias": "r15",
 			"star": "3",
-			"lesson": "Slightly decreases opponent's Vocal",
-			"dreamfes": "Slightly increases Vocal during Lesson Battles",
+			"lesson": "Slightly increases Vocal during Lesson Battles",
+			"dreamfes": "Slightly decreases opponent's Vocal",
 			"stat": "Vo",
 			"origin": "Event: Falling Cherry Blossoms＊Wisteria Purple of May! (30 April 2017)",
 			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Japanese_Propriety%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20170430060434",
 			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/2/2d/%28Japanese_Propriety%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170430060424"
+		},
+		{
+			"id": 987,
+			"name": "(Lost Child) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "r16",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Red Jewel Fragments",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Reminiscence＊The Crossroads of Each One! (31 July 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/8/85/%28Lost_Child%29_Adonis_Otogari.png/revision/latest?cb=20170731161204",
+			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/d/d2/%28Lost_Child%29_Adonis_Otogari_Bloomed.png/revision/latest?cb=20170731161215"
 		}
 	]
 }

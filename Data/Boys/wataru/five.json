@@ -64,6 +64,19 @@
 			"origin": "Event: Reminiscence! Gathering of the Three Magicians!  (31 August 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/54/%28Stage_Clown%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20160911042626",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Stage_Clown%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160911042657"
+		},
+		{
+			"id": 999,
+			"name": "(Dance Floor) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Increases Trust rate of all members",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Dance Floor! (14 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_vpsdnjce_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_vpsdnjce_e.png"
 		}
 	]
 }

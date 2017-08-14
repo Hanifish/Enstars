@@ -116,6 +116,19 @@
 			"origin": "Event: Reminiscence＊Monochrome Checkmate! (31 May 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Palm%27s_Piece%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20170531064753",
 			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Palm%27s_Piece%29_Eichi_Tenshouin_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170531064754"
+		},
+		{
+			"id": 999,
+			"name": "(Dance Time) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr10",
+			"star": "4",
+			"lesson": "Increases Fever rate",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Dance Floor! (14 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_pdkitqfb_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_pdkitqfb_e.png"
 		}
 	]
 }

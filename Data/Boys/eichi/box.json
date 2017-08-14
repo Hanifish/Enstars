@@ -66,6 +66,19 @@
 			"origin": "Scout: Gunmen of the Wilderness! (14 Jun 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/58/%28Gunman_of_Dusk%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20160626071517",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Gunman_of_Dusk%29_Eichi_Tenshouin_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160626071523"
+		},
+		{
+			"id": 999,
+			"name": "(Dance Time) Eichi Tenshouin",
+			"nick": "eichi",
+			"alias": "sr10",
+			"star": "4",
+			"lesson": "Increases Fever rate",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Dance Floor! (14 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_pdkitqfb_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_pdkitqfb_e.png"
 		}
 	],
 	"three": [
