@@ -49,79 +49,92 @@
 			"dreamfes": "--",
 			"stat": "Da",
 			"origin": "CN Event: Firefly's Night! (9 Oct 2016)",
-			"img": "http://68.media.tumblr.com/ade6e9defe5c9445861663ea12325039/tumblr_oh4f6id2Mq1vkph0ko1_1280.jpg",
-			"imgbloomed": "http://68.media.tumblr.com/70bc64f40f254ef24f22460361683cae/tumblr_oh4f6id2Mq1vkph0ko2_1280.jpg"
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/2/22/%28Agitating_Summer_Night%29_Koga_Oogami.png/revision/latest?cb=20170121225552",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Agitating_Summer_Night%29_Koga_Oogami_Bloomed.png/revision/latest?cb=20170121225608"
 		},
 		{
 			"id": 0,
-			"name": "(Weird Doctor) Rei Sakuma",
+			"name": "() Kanata Shinkai",
 			"nick": "cn",
 			"alias": "r5",
 			"star": "3",
 			"lesson": "--",
 			"dreamfes": "--",
-			"stat": "Pf",
+			"stat": "Vo",
 			"origin": "CN Event: In the Dark! (22 Nov 2016)",
-			"img": "http://68.media.tumblr.com/91125ec459d3d70fda5a4e99d8d3ed94/tumblr_oh4f467STc1vkph0ko1_1280.jpg",
-			"imgbloomed": "http://68.media.tumblr.com/2c32e524ef2cdc57dca63c6dc10008da/tumblr_oh4f467STc1vkph0ko2_1280.jpg"
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/0/03/In_the_Dark_Kanata.png/revision/latest?cb=20170325144710",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/d/dd/In_the_Dark_Kanata_Bloomed.png/revision/latest?cb=20170325032832"
 		},
 		{
 			"id": 0,
-			"name": "(Budding Pop) Yuta Aoi",
+			"name": "(Weird Doctor) Rei Sakuma",
 			"nick": "cn",
 			"alias": "r6",
 			"star": "3",
 			"lesson": "--",
 			"dreamfes": "--",
 			"stat": "Pf",
-			"origin": "CN Event: Budding Pop! (2 Dec 2016)",
-			"img": "http://68.media.tumblr.com/e4c41328b311fed1c246f9a1f3d5d0e5/tumblr_ohf22wvVlH1vkph0ko1_500.jpg",
-			"imgbloomed": "http://68.media.tumblr.com/1d32c7736e228dfebbc673ce1de50fe7/tumblr_ohghxhHD2W1uzproao4_500.jpg"
+			"origin": "CN Event: In the Dark! (22 Nov 2016)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e1/In_the_Dark_Rei.png/revision/latest?cb=20170325144636",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/c/ca/In_the_Dark_Rei_Bloomed.png/revision/latest?cb=20170325144655"
 		},
 		{
 			"id": 0,
-			"name": "(Budding Pop) Shinobu Sengoku",
+			"name": "(Budding Pop) Yuta Aoi",
 			"nick": "cn",
 			"alias": "r7",
 			"star": "3",
 			"lesson": "--",
 			"dreamfes": "--",
+			"stat": "Pf",
+			"origin": "CN Event: Budding Pop! (2 Dec 2016)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/e/e8/Budding_Pop_Yuta.png/revision/latest?cb=20170325020432",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/f/fc/Budding_Pop_Yuta_Bloomed.png/revision/latest?cb=20170325020440"
+		},
+		{
+			"id": 0,
+			"name": "(Budding Pop) Shinobu Sengoku",
+			"nick": "cn",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "--",
+			"dreamfes": "--",
 			"stat": "Vo",
 			"origin": "CN Event: Budding Pop! (2 Dec 2016)",
-			"img": "http://68.media.tumblr.com/9fbebbbf9c5dc272a20d8f520eee3e39/tumblr_ohf22wvVlH1vkph0ko2_500.jpg",
-			"imgbloomed": "http://68.media.tumblr.com/2b33dffd77902a236506aad36c306b43/tumblr_ohghxhHD2W1uzproao6_500.jpg"
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/6/65/Budding_Pop_Shinobu.png/revision/latest?cb=20170325020449",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/e/ea/Budding_Pop_Shinobu_Bloomed.png/revision/latest?cb=20170325020456"
 		},
 		{
 			"id": 0,
 			"name": "() Eichi Tenshouin",
 			"nick": "cn",
-			"alias": "r8",
+			"alias": "r9",
 			"star": "3",
 			"lesson": "--",
 			"dreamfes": "--",
 			"stat": "Da",
 			"origin": "CN Event: Afternoon Manor! (3 Jan 2017)",
-			"img": "http://68.media.tumblr.com/cdf47d41a622a866ac90747d663771cc/tumblr_oiwh0zbI9w1vkph0ko1_1280.jpg",
-			"imgbloomed": "http://68.media.tumblr.com/d5817c813b2f3b2847c74aaf9bc81e29/tumblr_oiwh0zbI9w1vkph0ko2_1280.jpg"
+			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/2/21/Afternoon_Manor_Eichi.png/revision/latest?cb=20170325014552",
+			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/b/b6/Afternoon_Manor_Eichi_Bloomed.png/revision/latest?cb=20170325014601"
 		},
 		{
 			"id": 0,
 			"name": "() Tsukasa Suou",
 			"nick": "cn",
-			"alias": "r8",
+			"alias": "r10",
 			"star": "3",
 			"lesson": "--",
 			"dreamfes": "--",
 			"stat": "Vo",
 			"origin": "CN Event: Afternoon Manor! (3 Jan 2017)",
-			"img": "http://68.media.tumblr.com/b00f8d7967fec35802fdbdb818181e43/tumblr_oiwh0zbI9w1vkph0ko3_1280.jpg",
-			"imgbloomed": "http://68.media.tumblr.com/74ded1914542e161b801b20a293e1038/tumblr_oiwh0zbI9w1vkph0ko4_1280.jpg"
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/d/dd/Afternoon_Manor_Tsukasa.png/revision/latest?cb=20170325014610",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/5/51/Afternoon_Manor_Tsukasa_Bloomed.png/revision/latest?cb=20170325014618"
 		},
 		{
 			"id": 0,
 			"name": "(Busy Researcher) Mao Isara",
 			"nick": "cn",
-			"alias": "r9",
+			"alias": "r11",
 			"star": "3",
 			"lesson": "--",
 			"dreamfes": "--",
@@ -129,6 +142,45 @@
 			"origin": "CN Event: Close Encounter! (14 Feb 2017)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Busy_Researcher%29_Isara_Mao.png/revision/latest?cb=20170216035238",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/7/79/%28Busy_Researcher%29_Isara_Mao_Bloomed.png/revision/latest?cb=20170216035316"
+		},
+		{
+			"id": 0,
+			"name": "() Keito Hasumi",
+			"nick": "cn",
+			"alias": "r12",
+			"star": "3",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Vo",
+			"origin": "CN Event: Close Encounter! (14 Feb 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/d/df/Close_Encounter_Keito_Hasumi.png/revision/latest?cb=20170325144546",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/d/db/Close_Encounter_Keito_Hasumi_Bloomed.png/revision/latest?cb=20170325144612"
+		},
+		{
+			"id": 0,
+			"name": "(Successor of the Legend) Tomoya Mashiro",
+			"nick": "cn",
+			"alias": "r13",
+			"star": "3",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Da",
+			"origin": "CN Event: Lost Legend! (16 April 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/8/89/%28Successor_of_the_Legend%29_Tomoya_Mashiro.png/revision/latest?cb=20170325013526",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/7/70/%28Successor_of_the_Legend%29_Tomoya_Mashiro_Bloomed.png/revision/latest?cb=20170325013814"
+		},
+		{
+			"id": 0,
+			"name": "(Protector of the Legend) Kuro Kiryu",
+			"nick": "cn",
+			"alias": "r14",
+			"star": "3",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Pf",
+			"origin": "CN Event: Lost Legend! (16 April 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Protector_of_the_Legend%29_Kuro_Kiryu.png/revision/latest?cb=20170325013825",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Protector_of_the_Legend%29_Kuro_Kiryu_Bloomed.png/revision/latest?cb=20170325013835"
 		}
 	]
 }

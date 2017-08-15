@@ -36,8 +36,8 @@
 			"dreamfes": "--",
 			"stat": "Pf",
 			"origin": "CN Event: In the Dark! (22 Nov 2016)",
-			"img": "http://68.media.tumblr.com/7b1280f92727fc7111d0f4495bafdd18/tumblr_oh4d60wC7a1vkph0ko1_r1_1280.jpg",
-			"imgbloomed": "http://68.media.tumblr.com/643d7ad4a3a050af4f00045d2ed815f0/tumblr_oh4d60wC7a1vkph0ko2_r1_1280.jpg"
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e5/In_the_Dark_Chiaki.png/revision/latest?cb=20170325144728",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/5/51/In_the_Dark_Chiaki_Bloomed.png/revision/latest?cb=20170325144749"
 		},
 		{
 			"id": 0,
@@ -62,8 +62,8 @@
 			"dreamfes": "--",
 			"stat": "Pf",
 			"origin": "CN Event: Afternoon Manor! (3 Jan 2017)",
-			"img": "http://68.media.tumblr.com/a2920e51c9598d5bb09a8a72d9e1d426/tumblr_oj0axfbFmv1uzproao3_1280.jpg",
-			"imgbloomed": "http://68.media.tumblr.com/2b7ad82b3a6d7d2340d69a2dd241e226/tumblr_oj0axfbFmv1uzproao2_1280.jpg"
+			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/8/81/%28Flowers%27_Embrace%29_Tori_Himemiya.png/revision/latest?cb=20170114055219",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/9/97/%28Flowers%27_Embrace%29_Tori_Himemiya_Bloomed.png/revision/latest?cb=20170114055237"
 		},
 		{
 			"id": 0,
@@ -88,8 +88,21 @@
 			"dreamfes": "--",
 			"stat": "Pf",
 			"origin": "CN Event: Close Encounter! (14 Feb 2017)",
-			"img": "http://68.media.tumblr.com/50d3fb92b61bc89c3ba12eea4498d338/tumblr_oldzy4Hvbs1vkph0ko1_1280.png",
-			"imgbloomed": "http://68.media.tumblr.com/c26baa71e2983a6f17132315a21f8473/tumblr_oldzy4Hvbs1vkph0ko2_1280.png"
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/0/03/%28Moonlit_Chase%29_Izumi_Sena.png/revision/latest?cb=20170216034529",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/0/03/%28Moonlit_Chase%29_Izumi_Sena_Bloomed.png/revision/latest?cb=20170216034655"
+		},
+		{
+			"id": 0,
+			"name": "(Investigator of the Legend) Nazuna Nito",
+			"nick": "cn",
+			"alias": "sr8",
+			"star": "4",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Vo",
+			"origin": "CN Event: Lost Legend! (16 April 2017)",
+			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/7/7b/%28Investigator_of_the_Legend%29_Nazuna_Nito.png/revision/latest?cb=20170412122414",
+			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/3/3d/%28Investigator_of_the_Legend%29_Nazuna_Nito_Bloomed.png/revision/latest?cb=20170412122450"
 		}
 	]
 }

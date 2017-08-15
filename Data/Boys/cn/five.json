@@ -10,8 +10,8 @@
 			"dreamfes": "--",
 			"stat": "Pf",
 			"origin": "CN Event: Firefly's Night! (9 Oct 2016)",
-			"img": "http://68.media.tumblr.com/40695fa870430eb906d63744821cbc7b/tumblr_oh44wxPhJq1vkph0ko3_r2_1280.png",
-			"imgbloomed": "http://68.media.tumblr.com/42fdc031a1a497e7edbe654fec3ebb01/tumblr_oh44wxPhJq1vkph0ko4_r1_1280.png"
+			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/3/3f/%28Firefly%27s_Return%29_Ritsu_Sakuma.png/revision/latest?cb=20170121225528",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a3/%28Firefly%27s_Return%29_Ritsu_Sakuma_Bloomed.png/revision/latest?cb=20170121225541"
 		},
 		{
 			"id": 0,
@@ -23,8 +23,8 @@
 			"dreamfes": "--",
 			"stat": "Da",
 			"origin": "CN Event: In the Dark! (22 Nov 2016)",
-			"img": "http://68.media.tumblr.com/2899c12124f832ae06556cc1fc051a1d/tumblr_oh44u7GWEa1vkph0ko2_r1_1280.jpg",
-			"imgbloomed": "http://68.media.tumblr.com/d732577c510cf91738ef10ba5aff05c6/tumblr_oh44u7GWEa1vkph0ko1_500.jpg"
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/5/54/In_the_Dark_Kaoru.png/revision/latest?cb=20170325144814",
+			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a0/In_the_Dark_Kaoru_Bloomed.png/revision/latest?cb=20170325144842"
 		},
 		{
 			"id": 0,
@@ -36,8 +36,8 @@
 			"dreamfes": "--",
 			"stat": "Vo",
 			"origin": "CN Event: Afternoon Manor! (3 Jan 2017)",
-			"img": "http://68.media.tumblr.com/0b0b56f1d4614dea6ddcb4b167942a65/tumblr_oj20caXNN51vkph0ko1_1280.jpg",
-			"imgbloomed": "http://68.media.tumblr.com/861647e589870ed88817a378b3af1e15/tumblr_oj20caXNN51vkph0ko2_1280.jpg"
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/f/fd/%28Mottled_Sunlight%29_Hajime_Shino.png/revision/latest?cb=20170114055102",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Mottled_Sunlight%29_Hajime_Shino_Bloomed.png/revision/latest?cb=20170114055126"
 		},
 		{
 			"id": 0,
@@ -51,6 +51,19 @@
 			"origin": "CN Event: Close Encounter! (14 Feb 2017)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Greetings_From_Space%29_Leo_Tsukinaga.png/revision/latest?cb=20170220212223",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/ad/%28Greetings_From_Space%29_Leo_Tsukinaga_Bloomed.png/revision/latest?cb=20170212131256"
+		},
+		{
+			"id": 0,
+			"name": "(Founder of the Legend) Wataru Hibiki",
+			"nick": "cn",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "--",
+			"dreamfes": "--",
+			"stat": "Pf",
+			"origin": "CN Event: Lost Legend! (16 April 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/6/62/%28Founder_of_the_Legend%29_Wataru_Hibiki.png/revision/latest?cb=20170412121934",
+			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Founder_of_the_Legend%29_Wataru_Hibiki_Bloomed.png/revision/latest?cb=20170412122149"
 		}
 	]
 }
