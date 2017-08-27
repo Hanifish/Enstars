@@ -25,6 +25,19 @@
 			"origin": "Scout: Eccentrics! (30 Dec 2016)",
 			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/1/11/%28The_Show_of_the_Oddballs%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20161230212508",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/f/fb/%28The_Show_of_the_Oddballs%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161231001932"
+		},
+		{
+			"id": 994,
+			"name": "(Star Lost in the Sky) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Medium Jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Planets * Wavering Light, Night of the Pleiades! (15 Aug 2017)",
+			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/2/21/%28Planets_in_the_Sky%29_Natsume_Sakasaki.png/revision/latest?cb=20170815220754",
+			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/e/e0/%28Planets_in_the_Sky%29_Natsume_Sakasaki_Bloomed.png/revision/latest?cb=20170815220755"
 		}
 	]
 }

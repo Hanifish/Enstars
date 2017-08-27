@@ -194,6 +194,19 @@
             "origin": "Event: Launch! The Night Sky of the Shooting Star Festival! (30 June 2017)",
             "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/d/df/%28Goldfish_and_Fireworks%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20170630065805",
             "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/2/26/%28Goldfish_and_Fireworks%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170630065805"
+        },
+        {
+            "id": 9999,
+            "name": "(Hospitalisation) Kanata Shinkai",
+            "nick": "kanata",
+            "alias": "r16",
+            "star": "3",
+            "lesson": "Slightly increases acquisition of all Small Jewels",
+            "dreamfes": "Slightly decreases opponent's Dance",
+            "stat": "Da",
+			"origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_aqobfniy_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_aqobfniy_e.png"
         }
 	]
 }

@@ -1826,7 +1826,7 @@
                   "imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Color_Ninja%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170530065337"
             },
             {
-                  "id": 999,
+                  "id": 977,
                   "name": "(Everyday Activities) Ritsu Sakuma",
                   "nick": "ritsu",
                   "alias": "r17",
@@ -1839,7 +1839,7 @@
                   "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Everyday_Activities%29_Ritsu_Sakuma_Bloomed.png/revision/latest?cb=20170726062703"
             },
             {
-                  "id": 999,
+                  "id": 976,
                   "name": "(Soumen-Nagashi) Mao Isara",
                   "nick": "mao",
                   "alias": "r",
@@ -1852,7 +1852,7 @@
                   "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/0/07/%28Soumen-Nagashi%29_Mao_Isara_Bloomed.png/revision/latest?cb=20170726062702"
             },
             {
-                  "id": 999,
+                  "id": 975,
                   "name": "(Programming) Makoto Yuuki",
                   "nick": "makoto",
                   "alias": "r",
@@ -1915,6 +1915,45 @@
                   "origin": "Scout: Little Kings! (29 June 2017)",
                   "img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/a/ad/%28King_of_Toys%29_Tori_Himemiya.png/revision/latest/scale-to-width-down/250?cb=20170630224519",
                   "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/2/21/%28King_of_Toys%29_Tori_Himemiya_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170629063823"
+            },
+            {
+            "id": 9999,
+            "name": "(Hospitalisation) Kanata Shinkai",
+            "nick": "kanata",
+            "alias": "r16",
+            "star": "3",
+            "lesson": "Slightly increases acquisition of all Small Jewels",
+            "dreamfes": "Slightly decreases opponent's Dance",
+            "stat": "Da",
+                  "origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_aqobfniy_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_aqobfniy_e.png"
+        },
+        {
+            "id": 9999,
+            "name": "(Careless) Midori Takamine",
+            "nick": "midori",
+            "alias": "r15",
+            "star": "3",
+            "lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+            "dreamfes": "Slightly decreases opponent's Performance",
+            "stat": "Pf",
+            "origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_rgtdnvka_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_rgtdnvka_e.png"
+        },
+        {
+                  "id": 9999,
+                  "name": "(Senior Hero) Chiaki Morisawa",
+                  "nick": "chiaki",
+                  "alias": "r16",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of Blue Jewel Fragments",
+                  "dreamfes": "Slightly decreases opponent's Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_jsgqxwkm_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_jsgqxwkm_e.png"
             }
     ]
 }

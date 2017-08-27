@@ -733,7 +733,7 @@
                   "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Straightforward_Ninja%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170531221054"
             },
             {
-                  "id": 999,
+                  "id": 974,
                   "name": "(Rabbit's Feelings) Nazuna Nito",
                   "nick": "nazuna",
                   "alias": "sr8",
@@ -770,6 +770,19 @@
                   "origin": "Scout: Little Kings! (29 June 2017)",
                   "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5f/%28King_of_Vegetables%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20170630224425",
                   "imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/1/15/%28King_of_Vegetables%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170629063821"
+            },
+            {
+                  "id": 9999,
+                  "name": "(Blooming Happiness) Mitsuru Tenma",
+                  "nick": "mitsuru",
+                  "alias": "sr8",
+                  "star": "4",
+                  "lesson": "Slightly increases acquisition of Medium Yellow Jewels",
+                  "dreamfes": "Slightly increases own Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_nciyvafj_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_nciyvafj_e.png"
             }
 
     ]

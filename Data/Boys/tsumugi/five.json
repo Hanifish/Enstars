@@ -25,6 +25,19 @@
 			"origin": "Scout: Biblio! (14 June 2017)",
 			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/9/99/%28Bibliophilia%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/250?cb=20170614075419",
 			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/9/93/%28Bibliophilia%29_Tsumugi_Aoba_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170614073420"
+		},
+		{
+			"id": 995,
+			"name": "(Night Sky's Weaving Star) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Large Blue Jewels",
+			"dreamfes": "Decreases Opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Planets * Wavering Light, Night of the Pleiades! (15 Aug 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Night_Sky%27s_Weaving_Star%29_Tsumugi_Aoba.png/revision/latest?cb=20170815220801",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/9/9a/%28Night_Sky%27s_Weaving_Star%29_Tsumugi_Aoba_Bloomed.png/revision/latest?cb=20170815220801"
 		}
 	]
 }

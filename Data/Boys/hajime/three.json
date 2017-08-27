@@ -204,6 +204,19 @@
             "origin": "Scout: Biblio! (14 June 2017)",
             "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Book_and_Bookmark%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20170614185654",
             "imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/0/0c/%28Book_and_Bookmark%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170614171032"
+        },
+        {
+            "id": 1001,
+            "name": "(Star of the Sky) Hajime Shino",
+            "nick": "hajime",
+            "alias": "r18",
+            "star": "3",
+            "lesson": "Slightly raises Dance during Produce Battles",
+            "dreamfes": "Slightly increases own Dance",
+            "stat": "Da",
+            "origin": "Event: Planets * Wavering Light, Night of the Pleiades! (15 Aug 2017)",
+            "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Star_of_the_Sky%29_Hajime_Shino.png/revision/latest?cb=20170815132751",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/events/55/images/cd_vuahrjdq_e.png"
         }
     ]
 }

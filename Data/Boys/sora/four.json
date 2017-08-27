@@ -25,6 +25,19 @@
 			"origin": "Event: Revival Festival☆Easter Night! (15 April 2017)",
 			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/1/1a/%28Easter_Night%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20170415221023",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/3/38/%28Easter_Night%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170415221102"
+		},
+		{
+			"id": 997,
+			"name": "(Starry Sky's Encounter) Sora Harukawa",
+			"nick": "sora",
+			"alias": "sr3",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Blue Jewels (Medium)",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Planets * Wavering Light, Night of the Pleiades! (15 Aug 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/fb/%28Starry_Sky%27s_Encounter%29_Sora_Harukawa.png/revision/latest?cb=20170815220803",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/7/79/%28Starry_Sky%27s_Encounter%29_Sora_Harukawa_Bloomed.png/revision/latest?cb=20170815220803"
 		}
 	]
 }

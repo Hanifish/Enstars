@@ -171,6 +171,19 @@
             "origin": "Event: Launch! The Night Sky of the Shooting Star Festival! (30 June 2017)",
             "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/3/31/%28Motivation_and_Fireworks%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20170630065806",
             "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/b/be/%28Motivation_and_Fireworks%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170630065806"
+        },
+        {
+            "id": 9999,
+            "name": "(Careless) Midori Takamine",
+            "nick": "midori",
+            "alias": "r15",
+            "star": "3",
+            "lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+            "dreamfes": "Slightly decreases opponent's Performance",
+            "stat": "Pf",
+            "origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_rgtdnvka_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_rgtdnvka_e.png"
         }
     ]
 }
