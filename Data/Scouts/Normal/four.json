@@ -783,6 +783,19 @@
                   "origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
                   "img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_nciyvafj_n.png",
                   "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_nciyvafj_e.png"
+            },
+            {
+                  "id": 963,
+                  "name": "(Harpsichord of the Moonlit Night) Leo Tsukinaga",
+                  "nick": "leo",
+                  "alias": "sr5",
+                  "star": "4",
+                  "lesson": "Slightly increases acquisition of Medium Yellow Jewels",
+                  "dreamfes": "Increases own Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Concerto! (14 July 2017)",
+                  "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Harpsichord_of_the_Moonlit_Night%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20170714070226",
+                  "imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Harpsichord_of_the_Moonlit_Night%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170714071559"
             }
 
     ]

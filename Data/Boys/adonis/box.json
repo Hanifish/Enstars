@@ -66,6 +66,19 @@
 			"origin": "Scout: Greek Legends! (29 Nov 2015)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/43/%28Stride_of_Ares%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20160315035529",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/3/39/%28Stride_of_Ares%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160511015324"
+		},
+		{
+			"id": 9999,
+			"name": "(Wild Cook) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "sr6",
+			"star": "4",
+			"lesson": "Increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Cooking! (30 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ertawgpf_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ertawgpf_e.png"
 		}
 	],
 	"three": [

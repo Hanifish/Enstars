@@ -77,6 +77,19 @@
 			"origin": "Event: Launch! The Night Sky of the Shooting Star Festival! (30 June 2017)",
 			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/0/09/%28Meteor_Fireworks%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/250?cb=20170630065759",
 			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/7/72/%28Meteor_Fireworks%29_Tetora_Nagumo_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170630065800"
+		},
+		{
+			"id": 9999,
+			"name": "(Cooking Idol) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "ur7",
+			"star": "5",
+			"lesson": "Increases Trust rate of all members",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Cooking! (30 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ztjfvypn_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ztjfvypn_e.png"
 		}
 	]
 }
