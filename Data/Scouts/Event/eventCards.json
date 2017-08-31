@@ -2,7 +2,7 @@
 	"eventThree": [
 		
 		{
-			"id": 9999,
+			"id": 1005,
 			"name": "(Spartan Cook) Izumi Sena",
 			"nick": "izumi",
 			"alias": "r14",
@@ -15,7 +15,7 @@
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ypbgnqxa_e.png"
 		},
 		{
-			"id": 9999,
+			"id": 1004,
 			"name": "(Power Cook) Kuro Kiryu",
 			"nick": "kuro",
 			"alias": "r",
@@ -30,7 +30,7 @@
 	],
 	"eventFour": [
 		{
-			"id": 9999,
+			"id": 1003,
 			"name": "(Wild Cook) Adonis Otogari",
 			"nick": "adonis",
 			"alias": "sr6",
@@ -46,7 +46,7 @@
 	],
 	"five": [
 		{
-			"id": 9999,
+			"id": 1002,
 			"name": "(Cooking Idol) Tetora Nagumo",
 			"nick": "tetora",
 			"alias": "ur7",

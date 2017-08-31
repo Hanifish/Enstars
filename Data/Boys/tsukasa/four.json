@@ -90,6 +90,19 @@
 			"origin": "Scout: Card Battler! (14 April 2017)",
 			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Corner_Duelist%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170414063941",
 			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/4/42/%28Corner_Duelist%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170414055922"
+		},
+		{
+			"id": 9999,
+			"name": "(Sports Festival Games) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "sr8",
+			"star": "4",
+			"lesson": "Slightly increases rate of trust",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Competition! Yumenosaki Athletic Festival 3! (Aug 31, 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/56/images/cd_axwpcetv_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/56/images/cd_axwpcetv_e.png"
 		}
 	]
 }

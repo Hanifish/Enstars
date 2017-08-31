@@ -172,6 +172,19 @@
 			"origin": "Scout: Shiny First Years! (30 March 2017)",
 			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/6c/%28Senpai%27s_1st_Year%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/250?cb=20170330081830",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/5/56/%28Senpai%27s_1st_Year%29_Chiaki_Morisawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170330060821"
+		},
+		{
+			"id": 1007,
+			"name": "(Senior Hero) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "r16",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Blue Jewel Fragments",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_jsgqxwkm_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_jsgqxwkm_e.png"
 		}
 	]
 }

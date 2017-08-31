@@ -133,6 +133,19 @@
 			"origin": "Scout: Natsume's Introduction! (26 Nov 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/29/%28Taste_of_Happiness%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20161126061007",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/70/%28Taste_of_Happiness%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161126061019"
-		}
+		},
+		{
+            "id": 1009,
+            "name": "(Hospitalisation) Kanata Shinkai",
+            "nick": "kanata",
+            "alias": "r16",
+            "star": "3",
+            "lesson": "Slightly increases acquisition of all Small Jewels",
+            "dreamfes": "Slightly decreases opponent's Dance",
+            "stat": "Da",
+			"origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_aqobfniy_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_aqobfniy_e.png"
+        }
 	]
 }

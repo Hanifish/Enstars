@@ -53,6 +53,19 @@
 			"origin": "Scout: Ukiyo Air Ride! (30 May 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Straightforward_Ninja%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20170531032745",
 			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Straightforward_Ninja%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170531221054"
+		},
+		{
+			"id": 1006,
+			"name": "(Blooming Happiness) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "sr8",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Yellow Jewels",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_nciyvafj_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_nciyvafj_e.png"
 		}
 	],
 	"three": [

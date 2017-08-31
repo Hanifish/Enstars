@@ -90,6 +90,19 @@
 			"origin": "Event: Seven-Colored＊Sunshower Festa! (15 June 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/1/16/%28Early_Summer_Fiesta%29_Tsumugi_Aoba.PNG/revision/latest/scale-to-width-down/250?cb=20170618013232",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Early_Summer_Fiesta%29_Tsumugi_Aoba_Bloomed.PNG/revision/latest/scale-to-width-down/250?cb=20170618013440"
+		},
+		{
+			"id": 9999,
+			"name": "(Borrowed Pigeon) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly decreases Opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Competition! Yumenosaki Athletic Festival 3! (Aug 31, 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/56/images/cd_heypazdm_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/56/images/cd_heypazdm_e.png"
 		}
 	]
 }

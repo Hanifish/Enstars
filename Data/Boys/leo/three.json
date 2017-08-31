@@ -61,9 +61,22 @@
 			"lesson": "Slightly increases acquisition of all Jewel Fragments",
 			"dreamfes": "Slightly increases own Dance",
 			"stat": "Vo",
-			"origin": "Scout: Dance on Ice! (Jan 14, 2017)",
+			"origin": "Scout: Dance on Ice! (14 Jan 2017)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Rampant_Skater%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20170117070336",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/0/09/%28Rampant_Skater%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170117220709"
+		},
+		{
+			"id": 9999,
+			"name": "(Cheer Member) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "r6",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Competition! Yumenosaki Athletic Festival 3! (Aug 31, 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/56/images/cd_aqiguodp_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/56/images/cd_aqiguodp_e.png"
 		}
 	]
 }
