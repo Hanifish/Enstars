@@ -1,0 +1,17 @@
+{
+	"cards": [
+		{
+			"id": 9999,
+			"name": "(Welcome) Tatara Fujita",
+			"nick": "tatara",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Collab: Welcome to the Ballroom x Ensemble Stars! (14 Aug 2017)",
+			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/8/82/%28Welcome%29_Tatara_Fujita.png/revision/latest?cb=20170822195820",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/e/e6/%28Welcome%29_Tatara_Fujita_Bloomed.png/revision/latest?cb=20170822195544"
+		}
+	]
+}
