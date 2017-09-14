@@ -60,7 +60,21 @@
         "origin": "Scout: Best Shot!",
         "img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/7/79/%28Sky-Colored_Bubbles%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20160804033532",
         "imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Sky-Colored_Bubbles%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170201045635"
-    }],
+    },
+    {
+            "id": 1019,
+            "name": "(Angels and Melodious Voices) Hajime Shino",
+            "nick": "hajime",
+            "alias": "sr6",
+            "star": "4",
+            "lesson": "Increases acquisition of all Small Jewels",
+            "dreamfes": "Increases own Dance",
+            "stat": "Da",
+            "origin": "Scout: Merc Storia! (14 Sept 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_yhkrnvdo_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_yhkrnvdo_e.png"
+        }
+    ],
     "three": [{
         "id": 60,
         "name": "(Devoted) Hajime Shino",

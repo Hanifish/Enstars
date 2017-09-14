@@ -27,6 +27,19 @@
 			"origin": "Original Card",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/e/e6/Considerate_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20150505151212",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/59/Tomoya_considerate_ultimate.png/revision/latest/scale-to-width-down/250?cb=20150507192409"
+		},
+            {
+			"id": 999,
+			"name": "(Nekomata on the Eaves) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "sr6",
+			"star": "4",
+			"lesson": "Slightly Increases Trust rate of all members",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Monster Transformation! (30 July 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_zngvajsb_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_zngvajsb_e.png"
 		}
 	],
 	"three": [
@@ -160,18 +173,18 @@
                   "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Roadside_Pigeon%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20170630224340",
                   "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/4/40/%28Roadside_Pigeon%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170627035902"
             },
-            {
-			"id": 999,
-			"name": "(Nekomata on the Eaves) Tomoya Mashiro",
+		{
+			"id": 1021,
+			"name": "(Assistant Angel) Tomoya Mashiro",
 			"nick": "tomoya",
-			"alias": "sr6",
-			"star": "4",
-			"lesson": "Slightly Increases Trust rate of all members",
+			"alias": "r15",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Blue Jewels",
 			"dreamfes": "Slightly decreases opponent's Vocal",
 			"stat": "Vo",
-			"origin": "Scout: Monster Transformation! (30 July 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_zngvajsb_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_zngvajsb_e.png"
+			"origin": "Scout: Merc Storia! (14 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_rqnjbgdm_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_rqnjbgdm_e.png"
 		}
 	]
 }

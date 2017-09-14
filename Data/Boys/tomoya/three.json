@@ -181,6 +181,19 @@
                   "origin": "Scout: Yuzuru's Introduction! (26 June 2017)",
                   "img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Roadside_Pigeon%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/250?cb=20170630224340",
                   "imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/4/40/%28Roadside_Pigeon%29_Tomoya_Mashiro_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170627035902"
-            }
+            },
+            {
+			"id": 1021,
+			"name": "(Assistant Angel) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "r15",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Blue Jewels",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Merc Storia! (14 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_rqnjbgdm_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_rqnjbgdm_e.png"
+		}
 	]
 }

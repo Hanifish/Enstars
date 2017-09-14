@@ -1980,6 +1980,32 @@
                   "origin": "Scout: Concerto! (14 July 2017)",
                   "img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c3/%28Trombone%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/250?cb=20170714070249",
                   "imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/0/0a/%28Trombone%29_Keito_Hasumi_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170714071618"
+            },
+            {
+                  "id": 981,
+                  "name": "(Yamainu) Tetora Nagumo",
+                  "nick": "tetora",
+                  "alias": "r15",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Small Jewels",
+                  "dreamfes": "Slightly decreases opponent's Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Monster Transformation! (30 July 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_gxopclyu_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_gxopclyu_e.png"
+            },
+            {
+                  "id": 980,
+                  "name": "(Kamaitachi) Sora Harukawa",
+                  "nick": "sora",
+                  "alias": "r7",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Jewel Fragments",
+                  "dreamfes": "Slightly decreases opponent's Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Monster Transformation! (30 July 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_aguwqbof_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_aguwqbof_e.png"
             }
     ]
 }

@@ -2,61 +2,61 @@
 	"eventThree": [
 		
 		{
-			"id": 993,
-			"name": "(Hip Hop) Tori Himemiya",
-			"nick": "tori",
-			"alias": "r",
+			"id": 1005,
+			"name": "(Spartan Cook) Izumi Sena",
+			"nick": "izumi",
+			"alias": "r14",
 			"star": "3",
-			"lesson": "Slightly increases Vocal during Lesson Battles",
-			"dreamfes": "Slightly decreases opponent's Vocal",
-			"stat": "Vo",
-			"origin": "Scout: Dance Floor! (14 August 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_dvbmiquo_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_dvbmiquo_e.png"
-		},
-		{
-			"id": 992,
-			"name": "(Street) Yuzuru Fushimi",
-			"nick": "yuzuru",
-			"alias": "r",
-			"star": "3",
-			"lesson": "Slightly increases Performance during Lesson Battles",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
 			"dreamfes": "Slightly decreases opponent's Performance",
 			"stat": "Pf",
-			"origin": "Scout: Dance Floor! (14 August 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_zjrknlob_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_zjrknlob_e.png"
+			"origin": "Scout: Cooking! (30 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ypbgnqxa_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ypbgnqxa_e.png"
+		},
+		{
+			"id": 1004,
+			"name": "(Power Cook) Kuro Kiryu",
+			"nick": "kuro",
+			"alias": "r",
+			"star": "3",
+			"lesson": "Slightly increases Dance during Lesson Battles",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Cooking! (30 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ywntigxj_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ywntigxj_e.png"
 		}
 	],
 	"eventFour": [
 		{
-			"id": 991,
-			"name": "(Dance Time) Eichi Tenshouin",
-			"nick": "eichi",
-			"alias": "sr10",
+			"id": 1003,
+			"name": "(Wild Cook) Adonis Otogari",
+			"nick": "adonis",
+			"alias": "sr6",
 			"star": "4",
-			"lesson": "Increases Fever rate",
-			"dreamfes": "Increases own Dance",
-			"stat": "Da",
-			"origin": "Scout: Dance Floor! (14 August 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_pdkitqfb_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_pdkitqfb_e.png"
+			"lesson": "Increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Cooking! (30 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ertawgpf_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ertawgpf_e.png"
 		}
 
 	],
 	"five": [
 		{
-			"id": 990,
-			"name": "(Dance Floor) Wataru Hibiki",
-			"nick": "wataru",
-			"alias": "ur6",
+			"id": 1002,
+			"name": "(Cooking Idol) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "ur7",
 			"star": "5",
 			"lesson": "Increases Trust rate of all members",
-			"dreamfes": "Increases own Vocal",
-			"stat": "Vo",
-			"origin": "Scout: Dance Floor! (14 August 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_vpsdnjce_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_vpsdnjce_e.png"
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Cooking! (30 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ztjfvypn_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ztjfvypn_e.png"
 		}
 
 	]

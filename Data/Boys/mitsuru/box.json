@@ -185,6 +185,19 @@
 			"origin": "Scout: Little Kings! (29 June 2017)",
 			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d2/%28King_of_Dash%29_Mitsuru_Tenma.png/revision/latest/scale-to-width-down/250?cb=20170630224540",
 			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/2/2c/%28King_of_Dash%29_Mitsuru_Tenma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170629063822"
+		},
+		{
+			"id": 1020,
+			"name": "(Vanguard Angel) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "r15",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Red Jewels",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Merc Storia! (14 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_cprvfsmi_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_cprvfsmi_e.png"
 		}
 	]
 }
