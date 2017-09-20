@@ -32,8 +32,8 @@
 			"nick": "kanata",
 			"alias": "ur3",
 			"star": "5",
-			"lesson": "Increases own Dance",
-			"dreamfes": "Increases Rate of Fever",
+			"lesson": "Increases Rate of Fever",
+			"dreamfes": "Increases own Dance",
 			"stat": "Da",
 			"origin": "Event: Nuclear Ignition ☆ A Sparkling Quintuple-Color Supernova! (31 May 2016)",
 			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/48/%28Cherished_Back%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20160606092017",
@@ -51,6 +51,19 @@
 			"origin": "Event: Falling Cherry Blossoms＊Wisteria Purple of May! (30 April 2017)",
 			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/3/39/%28Silent_Wisteria%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/250?cb=20170430060014",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/b/be/%28Silent_Wisteria%29_Kanata_Shinkai_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170430060025"
+		},
+		{
+			"id": 1022,
+			"name": "(Aquarium♪) Kanata Shinkai",
+			"nick": "kanata",
+			"alias": "ur5",
+			"star": "5",
+			"lesson": "Increases Rate of Fever",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Drop ＊ The Far Sea and the Aquarium ! (15 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/57/images/cd_fasmojdc_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/57/images/cd_fasmojdc_e.png"
 		}
 	]
 }

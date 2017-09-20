@@ -194,6 +194,19 @@
 			"origin": "Event: Become It! The Cinder-Covered Great Stage! (15 May 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/8/84/%28Stepmother%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20170515074411",
 			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/3/32/%28Stepmother%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170515074412"
+		},
+		{
+			"id": 1027,
+			"name": "(Aquarium Art) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "r16",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Drop ＊ The Far Sea and the Aquarium! (15 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/57/images/cd_dlnygrvf_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/57/images/cd_dlnygrvf_e.png"
 		}
 	]
 }

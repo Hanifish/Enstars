@@ -90,6 +90,19 @@
 			"origin": "Scout: Monster Transformation! (30 July 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_aguwqbof_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_aguwqbof_e.png"
+		},
+		{
+			"id": 1029,
+			"name": "(Color Aquarium) Sora Harukawa",
+			"nick": "sora",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "Increases Vocal during Dreamfes Lessons",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Drop ＊ The Far Sea and the Aquarium! (15 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/57/images/cd_qlzkvdpb_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/57/images/cd_qlzkvdpb_e.png"
 		}
 	]
 }
