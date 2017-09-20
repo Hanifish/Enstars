@@ -181,6 +181,19 @@
             "origin": "Event: Launch! The Night Sky of the Shooting Star Festival! (30 June 2017)",
             "img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Attention_and_Fireworks%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20170711014323",
             "imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Attention_and_Fireworks%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170711014406"
+        },
+        {
+            "id": 9999,
+            "name": "(Yellow Ryusei) Shinobu Sengoku",
+            "nick": "shinobu",
+            "alias": "r15",
+            "star": "3",
+            "lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+            "dreamfes": "Slightly decreases opponent's Dance",
+            "stat": "Pf",
+			"origin": "Revival Scout: RYUSEITAI Unit Song CD 3rd 01! (20 Sept 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_zmqznwfq_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_zmqznwfq_e.png"
         }
 	]
 }

@@ -184,6 +184,19 @@
             "origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
             "img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_rgtdnvka_n.png",
             "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_rgtdnvka_e.png"
+        },
+        {
+            "id": 9999,
+            "name": "(Green Ryusei) Midori Takamine",
+            "nick": "midori",
+            "alias": "r16",
+            "star": "3",
+            "lesson": "Slightly increases acquisition of all Small Jewels",
+            "dreamfes": "Slightly increases own Performance",
+            "stat": "Pf",
+            "origin": "Revival Scout: RYUSEITAI Unit Song CD 3rd 01! (20 Sept 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_uezaafbj_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_uezaafbj_e.png"
         }
     ]
 }

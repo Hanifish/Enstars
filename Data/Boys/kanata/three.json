@@ -207,6 +207,19 @@
 			"origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
             "img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_aqobfniy_n.png",
             "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_aqobfniy_e.png"
+        },
+        {
+            "id": 9999,
+            "name": "(Blue Ryusei) Kanata Shinkai",
+            "nick": "kanata",
+            "alias": "r17",
+            "star": "3",
+            "lesson": "Slightly Increases Stats during Lesson Dream Fes",
+            "dreamfes": "Slightly increases own Vocal",
+            "stat": "Vo",
+            "origin": "Revival Scout: RYUSEITAI Unit Song CD 3rd 01! (20 Sept 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_kbibtvcl_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_kbibtvcl_e.png"
         }
 	]
 }

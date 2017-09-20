@@ -194,6 +194,19 @@
 			"origin": "Scout: Monster Transformation! (30 July 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_gxopclyu_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_gxopclyu_e.png"
+		},
+		{
+			"id": 9999,
+			"name": "(Black Ryusei) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "r16",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Revival Scout: RYUSEITAI Unit Song CD 3rd 01! (20 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_fmkjausf_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_fmkjausf_e.png"
 		}
 	]
 }

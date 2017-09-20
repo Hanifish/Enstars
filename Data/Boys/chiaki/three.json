@@ -207,6 +207,19 @@
 			"origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_jsgqxwkm_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_jsgqxwkm_e.png"
+		},
+		{
+			"id": 9999,
+			"name": "(Red Ryusei) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "r17",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Revival Scout: RYUSEITAI Unit Song CD 3rd 01! (20 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_rwtjvasi_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_rwtjvasi_e.png"
 		}
 	]
 }
