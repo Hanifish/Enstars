@@ -172,6 +172,19 @@
 			"origin": "Scout: Concerto! (14 July 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/b/b6/%28Conductor%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/250?cb=20170714070237",
 			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/f/f5/%28Conductor%29_Eichi_Tenshouin_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170714071608"
-		}
+		},
+		{
+                  "id": 9999,
+                  "name": "(Emperor's Sum) Eichi Tenshouin",
+                  "nick": "eichi",
+                  "alias": "r17",
+                  "star": "3",
+                  "lesson": "Slightly increases Vocal stat during Lesson Dream Fes",
+                  "dreamfes": "Slightly decreases opponent's Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Yuta's Introduction! (26 Sept 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_jvsmzqkc_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_jvsmzqkc_e.png"
+            }
 	]
 }

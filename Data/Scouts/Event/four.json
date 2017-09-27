@@ -364,6 +364,19 @@
             "origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
             "img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_nciyvafj_n.png",
             "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_nciyvafj_e.png"
-        }
+        },
+        {
+                  "id": 9999,
+                  "name": "(For Someone) Yuta Aoi",
+                  "nick": "yuta",
+                  "alias": "sr",
+                  "star": "4",
+                  "lesson": "Slightly Increases Trust rate of all members",
+                  "dreamfes": "Decreases opponent's Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Yuta's Introduction! (26 Sept 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_hbzgsvem_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_hbzgsvem_e.png"
+            }
 ]
 }

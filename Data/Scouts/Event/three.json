@@ -1106,6 +1106,45 @@
             "origin": "Scout: Mitsuru's Introduction! (26 Aug 2017)",
             "img": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_aqobfniy_n.png",
             "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_aqobfniy_e.png"
-        }
+        },
+        {
+                  "id": 9999,
+                  "name": "(Emperor's Sum) Eichi Tenshouin",
+                  "nick": "eichi",
+                  "alias": "r17",
+                  "star": "3",
+                  "lesson": "Slightly increases Vocal stat during Lesson Dream Fes",
+                  "dreamfes": "Slightly decreases opponent's Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Yuta's Introduction! (26 Sept 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_jvsmzqkc_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_jvsmzqkc_e.png"
+            },
+            {
+                  "id": 9999,
+                  "name": "(Vampires and Books) Mika Kagehira",
+                  "nick": "mika",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Small Jewels",
+                  "dreamfes": "Slightly increases own Vocal",
+                  "stat": "Da",
+                  "origin": "Scout: Yuta's Introduction! (26 Sept 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_fudrpbaz_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_fudrpbaz_e.png"
+            },
+            {
+                  "id": 9999,
+                  "name": "(Story of the Club Room) Tori Himemiya",
+                  "nick": "tori",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Small Jewels",
+                  "dreamfes": "Slightly decreases Opponent's Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Yuta's Introduction! (26 Sept 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_ngborect_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_ngborect_e.png"
+            }
 ]
 }

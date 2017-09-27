@@ -207,6 +207,19 @@
 			"origin": "Event: Kiseki☆The Preliminary Match of the Summer Live! (15 July 2017)",
 			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Anticipated_Scenario%29_Eichi_Tenshouin.png/revision/latest?cb=20170715061220",
 			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Anticipated_Scenario%29_Eichi_Tenshouin_Bloomed.png/revision/latest?cb=20170715061221"
-		}
+		},
+		{
+                  "id": 9999,
+                  "name": "(Emperor's Sum) Eichi Tenshouin",
+                  "nick": "eichi",
+                  "alias": "r17",
+                  "star": "3",
+                  "lesson": "Slightly increases Vocal stat during Lesson Dream Fes",
+                  "dreamfes": "Slightly decreases opponent's Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Yuta's Introduction! (26 Sept 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_jvsmzqkc_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_jvsmzqkc_e.png"
+            }
 	]
 }
