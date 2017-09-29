@@ -532,6 +532,19 @@
 			"origin": "Scout: Monster Transformation! (30 July 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_xmqflbzh_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_xmqflbzh_e.png"
+		},
+		{
+			"id": 990,
+			"name": "(Dance Floor) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Increases Trust rate of all members",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Dance Floor! (14 August 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_vpsdnjce_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_vpsdnjce_e.png"
 		}
 	]
 }

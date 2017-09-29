@@ -90,6 +90,19 @@
 			"origin": "Event: Revival Festival☆Easter Night! (15 April 2017)",
 			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Gimmick_of_a_Rabbit%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20170415221801",
 			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Gimmick_of_a_Rabbit%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170415221853"
+		},
+		{
+			"id": 1041,
+			"name": "(Skilled Magic) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "Slightly increases Dance during Lesson Battle",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Showtime! (29 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_baxziqym_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_baxziqym_e.png"
 		}
 	]
 }

@@ -103,6 +103,19 @@
 			"origin": "Event: Depart! Blue Skies Dream Travel! (15 Jan 2017)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Happy_Airline%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/250?cb=20170118013355",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Happy_Airline%29_Wataru_Hibiki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170118013407"
+		},
+		{
+			"id": 1040,
+			"name": "(Magician) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "sr9",
+			"star": "4",
+			"lesson": "Increases Trust Rate",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Showtime! (29 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_qzkrmwxs_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_qzkrmwxs_e.png"
 		}
 	]
 }

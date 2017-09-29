@@ -2,61 +2,61 @@
 	"eventThree": [
 		
 		{
-			"id": 1021,
-			"name": "(Assistant Angel) Tomoya Mashiro",
-			"nick": "tomoya",
-			"alias": "r15",
+			"id": 1041,
+			"name": "(Skilled Magic) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "r8",
 			"star": "3",
-			"lesson": "Slightly increases acquisition of Small Blue Jewels",
-			"dreamfes": "Slightly decreases opponent's Vocal",
-			"stat": "Vo",
-			"origin": "Scout: Merc Storia! (14 Sept 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_rqnjbgdm_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_rqnjbgdm_e.png"
+			"lesson": "Slightly increases Dance during Lesson Battle",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Showtime! (29 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_baxziqym_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_baxziqym_e.png"
 		},
 		{
-			"id": 1020,
-			"name": "(Vanguard Angel) Mitsuru Tenma",
-			"nick": "mitsuru",
-			"alias": "r15",
+			"id": 1042,
+			"name": "(Table Magic) Shu Itsuki",
+			"nick": "shu",
+			"alias": "r",
 			"star": "3",
-			"lesson": "Slightly increases acquisition of Small Red Jewels",
-			"dreamfes": "Slightly decreases opponent's Dance",
-			"stat": "Da",
-			"origin": "Scout: Merc Storia! (14 Sept 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_cprvfsmi_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_cprvfsmi_e.png"
+			"lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Showtime! (29 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_migzdbws_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_migzdbws_e.png"
 		}
 	],
 	"eventFour": [
 		{
-			"id": 1019,
-			"name": "(Angels and Melodious Voices) Hajime Shino",
-			"nick": "hajime",
-			"alias": "sr6",
+			"id": 1040,
+			"name": "(Magician) Wataru Hibiki",
+			"nick": "wataru",
+			"alias": "sr9",
 			"star": "4",
-			"lesson": "Increases acquisition of all Small Jewels",
-			"dreamfes": "Increases own Dance",
-			"stat": "Da",
-			"origin": "Scout: Merc Storia! (14 Sept 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_yhkrnvdo_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_yhkrnvdo_e.png"
+			"lesson": "Increases Trust Rate",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Showtime! (29 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_qzkrmwxs_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_qzkrmwxs_e.png"
 		}
 
 	],
 	"five": [
 		{
-			"id": 1018,
-			"name": "(Angels and Rabbits) Nazuna Nito",
-			"nick": "nazuna",
-			"alias": "ur6",
+			"id": 1039,
+			"name": "(Showtime) Sora Harukawa",
+			"nick": "sora",
+			"alias": "ur3",
 			"star": "5",
-			"lesson": "Increases acquisition of all Medium Jewels",
-			"dreamfes": "Greatly Decreases opponent's Performance",
-			"stat": "Pf",
-			"origin": "Scout: Merc Storia! (14 Sept 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_pzwkoigr_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_pzwkoigr_e.png"
+			"lesson": "Increases acquisition of all Blue Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Showtime! (29 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_cwdqlbfk_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_cwdqlbfk_e.png"
 		}
 
 	]

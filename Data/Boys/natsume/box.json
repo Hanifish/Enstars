@@ -81,6 +81,19 @@
 			"origin": "Scout: Tsumugi's Introduction! (26 Oct 2016)",
 			"img": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Visitor%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20161026230827",
 			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Visitor%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161026230827"
+		},
+		{
+			"id": 1041,
+			"name": "(Skilled Magic) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "r8",
+			"star": "3",
+			"lesson": "Slightly increases Dance during Lesson Battle",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Showtime! (29 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_baxziqym_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_baxziqym_e.png"
 		}
 	]
 }

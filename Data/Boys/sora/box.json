@@ -1,0 +1,99 @@
+{
+	"five": [
+		{
+			"id": 1039,
+			"name": "(Showtime) Sora Harukawa",
+			"nick": "sora",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Increases acquisition of all Blue Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Showtime! (29 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_cwdqlbfk_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_cwdqlbfk_e.png"
+		}
+	],
+	"four": [
+		{
+			"id": 693,
+			"name": "(Carefree Misfortune) Sora Harukawa",
+			"nick": "sora",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Increases all stats during Lesson DreamFes",
+			"dreamfes": "Decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Sora's Introduction! (26 Sept 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/0/04/%28Carefree_Misfortune%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20160926132049",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/6/6b/%28Carefree_Misfortune%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160926104200"
+		}
+	],
+	"three": [
+		{
+			"id": 653,
+			"name": "(Looking for Something) Sora Harukawa",
+			"nick": "sora",
+			"alias": "r1",
+			"star": "3",
+			"lesson": "Slightly increases the acquisition of Small Yellow Jewels",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Scout: Switch's Introduction! (26 Aug 2016)",
+			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Looking_for_Something%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20160828155017",
+			"imgbloomed": "http://vignette4.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Looking_for_Something%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160828155031"
+		},
+		{
+			"id": 654,
+			"name": "(Game Match) Sora Harukawa",
+			"nick": "sora",
+			"alias": "r2",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all jewel fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Switch's Introduction! (26 Aug 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Game_Match%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20161019110455",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c3/%28Game_Match%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160828155604"
+		},
+		{
+			"id": 725,
+			"name": "(Seeing Colors) Sora Harukawa",
+			"nick": "sora",
+			"alias": "r4",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all jewel fragments",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Tsumugi's Introduction! (26 Oct 2016)",
+			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/d/d4/%28Seeing_Colors%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20161026230827",
+			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Seeing_Colors%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161026230826"
+		},
+		{
+			"id": 924,
+			"name": "(Color Ninja) Sora Harukawa",
+			"nick": "sora",
+			"alias": "r6",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Ukiyo Air Ride! (30 May 2017)",
+			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Color_Ninja%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20170530065334",
+			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Color_Ninja%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170530065337"
+		},
+		{
+			"id": 980,
+			"name": "(Kamaitachi) Sora Harukawa",
+			"nick": "sora",
+			"alias": "r7",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Monster Transformation! (30 July 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_aguwqbof_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_aguwqbof_e.png"
+		}
+	]
+}

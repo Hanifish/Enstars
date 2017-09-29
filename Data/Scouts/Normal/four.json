@@ -822,6 +822,19 @@
                   "origin": "Scout: Yuta's Introduction! (26 Sept 2017)",
                   "img": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_hbzgsvem_n.png",
                   "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_hbzgsvem_e.png"
+            },
+            {
+                  "id": 991,
+                  "name": "(Dance Time) Eichi Tenshouin",
+                  "nick": "eichi",
+                  "alias": "sr10",
+                  "star": "4",
+                  "lesson": "Increases Fever rate",
+                  "dreamfes": "Increases own Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Dance Floor! (14 August 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_pdkitqfb_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_pdkitqfb_e.png"
             }
 
     ]

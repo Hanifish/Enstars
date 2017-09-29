@@ -25,6 +25,19 @@
 			"origin": "Event: Seven-Colored＊Sunshower Festa! (15 June 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Bright_Sunshower%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/250?cb=20170615172814",
 			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Bright_Sunshower%29_Sora_Harukawa_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170615172812"
+		},
+		{
+			"id": 1039,
+			"name": "(Showtime) Sora Harukawa",
+			"nick": "sora",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Increases acquisition of all Blue Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Showtime! (29 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_cwdqlbfk_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_cwdqlbfk_e.png"
 		}
 	]
 }

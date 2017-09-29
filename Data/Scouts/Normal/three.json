@@ -2045,6 +2045,32 @@
                   "origin": "Scout: Yuta's Introduction! (26 Sept 2017)",
                   "img": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_ngborect_n.png",
                   "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_ngborect_e.png"
+            },
+            {
+                  "id": 993,
+                  "name": "(Hip Hop) Tori Himemiya",
+                  "nick": "tori",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases Vocal during Lesson Battles",
+                  "dreamfes": "Slightly decreases opponent's Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Dance Floor! (14 August 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_dvbmiquo_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_dvbmiquo_e.png"
+            },
+            {
+                  "id": 992,
+                  "name": "(Street) Yuzuru Fushimi",
+                  "nick": "yuzuru",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases Performance during Lesson Battles",
+                  "dreamfes": "Slightly decreases opponent's Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Dance Floor! (14 August 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_zjrknlob_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_zjrknlob_e.png"
             }
     ]
 }
