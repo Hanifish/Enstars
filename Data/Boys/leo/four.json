@@ -64,6 +64,19 @@
 			"origin": "Scout: Concerto! (14 July 2017)",
 			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Harpsichord_of_the_Moonlit_Night%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/250?cb=20170714070226",
 			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Harpsichord_of_the_Moonlit_Night%29_Leo_Tsukinaga_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170714071559"
+		},
+		{
+			"id": 1046,
+			"name": "(Cherry Blossom Viewing Stage) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "sr6",
+			"star": "4",
+			"lesson": "Increases acquisition of all Small Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Festival*Graceful Fleur De Lis! (30 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_eisatyjf_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_eisatyjf_e.png"
 		}
 	]
 }

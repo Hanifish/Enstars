@@ -77,6 +77,19 @@
 			"origin": "Scout: Bouquet of Desire! (27 Feb 2017)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/8/88/%28Bouquet_of_Love%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170227135536",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/24/%28Bouquet_of_Love%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170227135718"
+		},
+		{
+			"id": 1044,
+			"name": "(Swaying Flower) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "ur7",
+			"star": "5",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Festival*Graceful Fleur De Lis! (30 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_asmglcux_n.png6",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_asmglcux_e.png"
 		}
 	]
 }

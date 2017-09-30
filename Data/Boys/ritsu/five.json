@@ -64,6 +64,19 @@
 			"origin": "Scout: Pajama! (29 April 2017)",
 			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Dreaming_Hours%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/250?cb=20170429221730",
 			"imgbloomed": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Dreaming_Hours%29_Ritsu_Sakuma_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170429202743"
+		},
+		{
+			"id": 1043,
+			"name": "(Light Sky Flowers) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Medium Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Festival*Graceful Fleur De Lis! (30 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_xodysukb_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_xodysukb_e.png"
 		}
 	]
 }

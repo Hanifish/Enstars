@@ -181,6 +181,19 @@
 			"origin": "Event: Revival Festival☆Easter Night! (15 April 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/5/52/%28Incognito_Participation%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/250?cb=20170415085932",
 			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Incognito_Participation%29_Tsukasa_Suou_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170415085932"
+		},
+		{
+			"id": 1047,
+			"name": "(Beginning to Bloom) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r15",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Festival*Graceful Fleur De Lis! (30 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_fqstnebz_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_fqstnebz_e.png"
 		}
 	]
 }

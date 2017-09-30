@@ -77,6 +77,19 @@
 			"origin": "Scout: Runway! (14 May 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Model%27s_Pride%29_Izumi_Sena.png/revision/latest/scale-to-width-down/250?cb=20170514153037",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Model%27s_Pride%29_Izumi_Sena_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170514131103"
+		},
+		{
+			"id": 1045,
+			"name": "(Petals Dancing in the Wind) Izumi Sena",
+			"nick": "izumi",
+			"alias": "sr7",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Event: Festival*Graceful Fleur De Lis! (30 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_bfzklriy_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_bfzklriy_e.png"
 		}
 	]
 }

@@ -64,6 +64,19 @@
 			"origin": "Event: Reminiscence＊Monochrome Checkmate! (31 May 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Ferry_Knight%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170531064751",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/c/ce/%28Ferry_Knight%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170531064751"
+		},
+		{
+			"id": 1050,
+			"name": "(Help with Flowers) Madara Mikejima",
+			"nick": "madara",
+			"alias": "r6",
+			"star": "3",
+			"lesson": "Slightly increases Performance during Lesson Battles",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Festival*Graceful Fleur De Lis! (30 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_fxhdobtp_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_fxhdobtp_e.png"
 		}
 	]
 }
