@@ -168,6 +168,19 @@
             "origin": "Scout: Cooking! (30 August 2017)",
             "img": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ypbgnqxa_n.png",
             "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ypbgnqxa_e.png"
+        },
+         {
+            "id": 1052,
+            "name": "(Noble Knight) Izumi Sena",
+            "nick": "izumi",
+            "alias": "r15",
+            "star": "3",
+            "lesson": "Slightly increases Dance during Produce Battles",
+            "dreamfes": "Slightly increases own Dance",
+            "stat": "Da",
+            "origin": "Revival Scout: Knights Unit Song CD 3rd 02! (4 Oct 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/revival_gachas/2/images/cd_hgacybsq_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/2/images/cd_hgacybsq_e.png"
         }
     ]
 }

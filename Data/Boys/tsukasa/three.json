@@ -194,6 +194,19 @@
 			"origin": "Event: Festival*Graceful Fleur De Lis! (30 Sept 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_fqstnebz_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_fqstnebz_e.png"
+		},
+		{
+			"id": 1055,
+			"name": "(Brave Knight) Tsukasa Suou",
+			"nick": "tsukasa",
+			"alias": "r16",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+            "origin": "Revival Scout: Knights Unit Song CD 3rd 02! (4 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/revival_gachas/2/images/cd_odwtfhgs_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/2/images/cd_odwtfhgs_e.png"
 		}
 	]
 }

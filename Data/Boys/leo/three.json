@@ -77,6 +77,19 @@
 			"origin": "Event: Competition! Yumenosaki Athletic Festival 3! (Aug 31, 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/events/56/images/cd_aqiguodp_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/56/images/cd_aqiguodp_e.png"
+		},
+		{
+			"id": 1051,
+			"name": "(Strong Knight) Leo Tsukinaga",
+			"nick": "leo",
+			"alias": "r7",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Revival Scout: Knights Unit Song CD 3rd 02! (4 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/revival_gachas/2/images/cd_nycxwkup_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/2/images/cd_nycxwkup_e.png"
 		}
 	]
 }

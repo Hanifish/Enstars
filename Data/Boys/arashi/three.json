@@ -207,6 +207,19 @@
 			"origin": "Scout: Runway! (14 May 2017)",
 			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/4/46/%28Active_Model%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/250?cb=20170514153853",
 			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Active_Model%29_Arashi_Narukami_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170515112528"
+		},
+		{
+			"id": 1053,
+			"name": "(Kind Knight) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r17",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Blue Jewel Fragments",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+            "origin": "Revival Scout: Knights Unit Song CD 3rd 02! (4 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/revival_gachas/2/images/cd_lhseozam_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/2/images/cd_lhseozam_e.png"
 		}
 	]
 }

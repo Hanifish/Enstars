@@ -220,6 +220,19 @@
 			"origin": "Scout: Nazuna's Introduction! (26 July 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/4/40/%28Everyday_Activities%29_Ritsu_Sakuma.png/revision/latest?cb=20170726062702",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Everyday_Activities%29_Ritsu_Sakuma_Bloomed.png/revision/latest?cb=20170726062703"
+		},
+		{
+			"id": 1054,
+			"name": "(Beautiful Knight) Ritsu Sakuma",
+			"nick": "ritsu",
+			"alias": "r18",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Red Jewel Fragments",
+			"dreamfes": "Slightly decreases Opponent's Dance",
+			"stat": "Da",
+            "origin": "Revival Scout: Knights Unit Song CD 3rd 02! (4 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/revival_gachas/2/images/cd_hkorxaqn_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/2/images/cd_hkorxaqn_e.png"
 		}
 	]
 }
