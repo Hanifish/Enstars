@@ -194,6 +194,19 @@
 			"origin": "Revival Scout: RYUSEITAI Unit Song CD 3rd 01! (20 Sept 2017)",
             "img": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_zmqznwfq_n.png",
             "imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_zmqznwfq_e.png"
-        }
+        },
+        {
+			"id": 9999,
+			"name": "(Find a Note) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "r16",
+			"star": "3",
+			"lesson": "Slightly increases Stats during Produce Battle",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: The Colored Flower Cards! (14 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_vacmfxpw_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_vacmfxpw_e.png"
+		}
 	]
 }

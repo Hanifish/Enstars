@@ -159,6 +159,19 @@
 			"origin": "Scout: Carmen of Passion! (30 Aug 2016)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/0/0f/%28Indigo_Torero%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20160830141854",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/5/52/%28Indigo_Torero%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20160830141930"
+		},
+		{
+			"id": 9999,
+			"name": "(Find a Note) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "r16",
+			"star": "3",
+			"lesson": "Slightly increases Stats during Produce Battle",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: The Colored Flower Cards! (14 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_vacmfxpw_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_vacmfxpw_e.png"
 		}
 	]
 }

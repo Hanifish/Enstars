@@ -1,4 +1,43 @@
 {
+      "id": 9999,
+      "name": "(Colored Flower Cards) Souma Kanzaki",
+      "nick": "souma",
+      "alias": "ur",
+      "star": "5",
+      "lesson": "Increases Trust Rate",
+      "dreamfes": "Decreases opponent's Dance",
+      "stat": "Da",
+      "origin": "Scout: The Colored Flower Cards! (14 Oct 2017)",
+      "img": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_iapdmewn_n.png",
+      "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_iapdmewn_e.png"
+    },
+    {
+      "id": 9999,
+      "name": "(Hana Awase) Keito Hasumi",
+      "nick": "keito",
+      "alias": "sr",
+      "star": "4",
+      "lesson": "Increases Fever Rate",
+      "dreamfes": "Decreases opponent's Performance",
+      "stat": "Pf",
+      "origin": "Scout: The Colored Flower Cards! (14 Oct 2017)",
+      "img": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_kqjpzdgv_n.png",
+      "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_kqjpzdgv_e.png"
+    },
+    {
+      "id": 9999,
+      "name": "(Hana Karuta) Kuro Kiryu",
+      "nick": "kuro",
+      "alias": "r",
+      "star": "3",
+      "lesson": "Slightly increases Stats during Produce Battle",
+      "dreamfes": "Slightly decreases opponent's Vocal",
+      "stat": "Vo",
+      "origin": "Scout: The Colored Flower Cards! (14 Oct 2017)",
+      "img": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_hsvekwxg_n.png",
+      "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_hsvekwxg_e.png"
+    },
+    {
       "id": 1042,
       "name": "(Table Magic) Shu Itsuki",
       "nick": "shu",

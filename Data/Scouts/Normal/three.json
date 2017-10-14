@@ -2071,6 +2071,32 @@
                   "origin": "Scout: Dance Floor! (14 August 2017)",
                   "img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_zjrknlob_n.png",
                   "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_zjrknlob_e.png"
+            },
+            {
+                  "id": 1005,
+                  "name": "(Spartan Cook) Izumi Sena",
+                  "nick": "izumi",
+                  "alias": "r14",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Small Jewels",
+                  "dreamfes": "Slightly decreases opponent's Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Cooking! (30 August 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ypbgnqxa_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ypbgnqxa_e.png"
+            },
+            {
+                  "id": 1004,
+                  "name": "(Power Cook) Kuro Kiryu",
+                  "nick": "kuro",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases Dance during Lesson Battles",
+                  "dreamfes": "Slightly increases own Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Cooking! (30 August 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ywntigxj_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ywntigxj_e.png"
             }
     ]
 }

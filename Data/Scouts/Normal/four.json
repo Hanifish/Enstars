@@ -835,6 +835,19 @@
                   "origin": "Scout: Dance Floor! (14 August 2017)",
                   "img": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_pdkitqfb_n.png",
                   "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/81/images/cd_pdkitqfb_e.png"
+            },
+            {
+                  "id": 1003,
+                  "name": "(Wild Cook) Adonis Otogari",
+                  "nick": "adonis",
+                  "alias": "sr6",
+                  "star": "4",
+                  "lesson": "Increases acquisition of Medium Blue Jewels",
+                  "dreamfes": "Increases own Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Cooking! (30 August 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ertawgpf_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ertawgpf_e.png"
             }
 
     ]
