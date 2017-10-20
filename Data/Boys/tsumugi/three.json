@@ -100,9 +100,22 @@
 			"lesson": "Slightly increases acquisition of all Jewel Fragments",
 			"dreamfes": "Slightly decreases Opponent's Vocal",
 			"stat": "Vo",
-			"origin": "Event: Competition! Yumenosaki Athletic Festival 3! (Aug 31, 2017)",
+			"origin": "Event: Competition! Yumenosaki Athletic Festival 3! (31 Aug 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/events/56/images/cd_heypazdm_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/56/images/cd_heypazdm_e.png"
+		},
+		{
+			"id": 1066,
+			"name": "(On Site Support) Tsumugi Aoba",
+			"nick": "tsumugi",
+			"alias": "r9",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Small Yellow Jewels",
+			"dreamfes": "Slightly increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Kiseki ★ Blitzkrieg Autumn Live! (15 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/59/images/cd_hzislukv_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/59/images/cd_hzislukv_e.png"
 		}
 	]
 }

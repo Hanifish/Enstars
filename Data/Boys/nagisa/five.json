@@ -1,0 +1,17 @@
+{
+	"cards": [
+		{
+			"id": 1061,
+			"name": "(Seeking the Truth) Nagisa Ran",
+			"nick": "nagisa",
+			"alias": "ur1",
+			"star": "5",
+			"lesson": "Increases the Trust Rate",
+			"dreamfes": "Decreases the opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Kiseki ★ Blitzkrieg Autumn Live! (20 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/59/images/cd_zxrfobjd_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/59/images/cd_zxrfobjd_e.png"
+		}
+	]
+}

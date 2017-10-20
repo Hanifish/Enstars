@@ -220,6 +220,19 @@
                   "origin": "Scout: Yuta's Introduction! (26 Sept 2017)",
                   "img": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_jvsmzqkc_n.png",
                   "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/85/images/cd_jvsmzqkc_e.png"
-            }
+            },
+        {
+            "id": 1069,
+            "name": "(Elegant Captain) Eichi Tenshouin",
+            "nick": "eichi",
+            "alias": "r18",
+            "star": "3",
+            "lesson": "Slightly increases Performance during Produce Battle",
+            "dreamfes": "Slightly decreases opponent's Performance",
+            "stat": "Pf",
+			"origin": "Revival Scout: fine Unit Song CD 3rd 03! (18 Oct 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/revival_gachas/3/images/cd_bwkoeiqz_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/3/images/cd_bwkoeiqz_e.png"
+        }
 	]
 }

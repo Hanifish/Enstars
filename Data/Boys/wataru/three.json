@@ -207,6 +207,19 @@
 			"origin": "Event: Drop ＊ The Far Sea and the Aquarium! (15 Sept 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/events/57/images/cd_dlnygrvf_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/57/images/cd_dlnygrvf_e.png"
-		}
+		},
+		{
+            "id": 1072,
+            "name": "(Pleasant Captain) Wataru Hibiki",
+            "nick": "wataru",
+            "alias": "r17",
+            "star": "3",
+            "lesson": "Slightly increases Total Stats during Produce Battle",
+            "dreamfes": "Slightly decreases opponent's Vocal",
+            "stat": "Vo",
+			"origin": "Revival Scout: fine Unit Song CD 3rd 03! (18 Oct 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/revival_gachas/3/images/cd_yfbzelcq_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/3/images/cd_yfbzelcq_e.png"
+        }
 	]
 }

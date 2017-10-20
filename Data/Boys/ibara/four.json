@@ -1,0 +1,16 @@
+{
+	"cards": [
+		{
+			"id": 1063,
+			"name": "(Charge and Invade) Ibara Saegusa",
+			"nick": "ibara",
+			"alias": "sr1",
+			"star": "4",
+			"lesson": "Slightly increases rate of Fever",
+			"dreamfes": "Decreases the opponent's Vocal",
+			"stat": "Vo",
+			"origin": "http://stars.happyelements.co.jp/app_help/events/59/images/cd_vphagrqt_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/59/images/cd_vphagrqt_e.png"
+		}
+	]
+}
