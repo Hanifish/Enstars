@@ -848,6 +848,19 @@
                   "origin": "Scout: Cooking! (30 August 2017)",
                   "img": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ertawgpf_n.png",
                   "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ertawgpf_e.png"
+            },
+            {
+                  "id": 1073,
+                  "name": "(Secret Taste) Tori Himemiya",
+                  "nick": "tori",
+                  "alias": "sr",
+                  "star": "4",
+                  "lesson": "Increases Luck by 1 Stage",
+                  "dreamfes": "Decreases opponent's Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Tori's Introduction! (26 October 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_vgdqmycn_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_vgdqmycn_e.png"
             }
 
     ]

@@ -159,6 +159,19 @@
 			"origin": "Scout: Ritsu's Introduction! (26 Dec 2016)",
 			"img": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/df/%28Strong_Person%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/250?cb=20161227215100",
 			"imgbloomed": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/2/23/%28Strong_Person%29_Adonis_Otogari_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20161226074728"
-		}
+		},
+		{
+                  "id": 1074,
+                  "name": "(Hungry Morning) Adonis Otogari",
+                  "nick": "adonis",
+                  "alias": "r17",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Small Jewels",
+                  "dreamfes": "Slightly increases own Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Tori's Introduction! (26 October 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_xtwgjslo_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_xtwgjslo_e.png"
+            }
 	]
 }

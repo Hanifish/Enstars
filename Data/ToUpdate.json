@@ -1,4 +1,30 @@
 {
+                  "id": 1075,
+                  "name": "(Chairperson Duties) Hokuto Hidaka",
+                  "nick": "hokuto",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases all Stats during Lesson Battles",
+                  "dreamfes": "Slightly increases own Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Tori's Introduction! (26 October 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_fxzojbre_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_fxzojbre_e.png"
+            },
+            {
+                  "id": 1073,
+                  "name": "(Secret Taste) Tori Himemiya",
+                  "nick": "tori",
+                  "alias": "sr",
+                  "star": "4",
+                  "lesson": "Increases Luck by 1 Stage",
+                  "dreamfes": "Decreases opponent's Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Tori's Introduction! (26 October 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_vgdqmycn_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_vgdqmycn_e.png"
+            },
+            {
       "id": 1056,
       "name": "(Colored Flower Cards) Souma Kanzaki",
       "nick": "souma",

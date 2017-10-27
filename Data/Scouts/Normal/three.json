@@ -2097,6 +2097,45 @@
                   "origin": "Scout: Cooking! (30 August 2017)",
                   "img": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ywntigxj_n.png",
                   "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/83/images/cd_ywntigxj_e.png"
+            },
+            {
+                  "id": 1074,
+                  "name": "(Hungry Morning) Adonis Otogari",
+                  "nick": "adonis",
+                  "alias": "r17",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Small Jewels",
+                  "dreamfes": "Slightly increases own Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Tori's Introduction! (26 October 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_xtwgjslo_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_xtwgjslo_e.png"
+            },
+            {
+                  "id": 1075,
+                  "name": "(Chairperson Duties) Hokuto Hidaka",
+                  "nick": "hokuto",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Slightly increases all Stats during Lesson Battles",
+                  "dreamfes": "Slightly increases own Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Tori's Introduction! (26 October 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_fxzojbre_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_fxzojbre_e.png"
+            },
+            {
+                  "id": 1076,
+                  "name": "(Lonely Kohai) Hajime Shino",
+                  "nick": "hajime",
+                  "alias": "r19",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Small Jewels",
+                  "dreamfes": "Slightly increases own Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Tori's Introduction! (26 October 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_xvlwycqa_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_xvlwycqa_e.png"
             }
     ]
 }

@@ -217,6 +217,19 @@
             "origin": "Event: Planets * Wavering Light, Night of the Pleiades! (15 Aug 2017)",
             "img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Star_of_the_Sky%29_Hajime_Shino.png/revision/latest?cb=20170815132751",
             "imgbloomed": "http://stars.happyelements.co.jp/app_help/events/55/images/cd_vuahrjdq_e.png"
-        }
+        },
+        {
+                  "id": 1076,
+                  "name": "(Lonely Kohai) Hajime Shino",
+                  "nick": "hajime",
+                  "alias": "r19",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of all Small Jewels",
+                  "dreamfes": "Slightly increases own Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Tori's Introduction! (26 October 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_xvlwycqa_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_xvlwycqa_e.png"
+            }
     ]
 }
