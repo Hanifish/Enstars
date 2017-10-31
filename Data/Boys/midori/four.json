@@ -77,6 +77,19 @@
 			"origin": "Scout: Little Kings! (29 June 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/5/5f/%28King_of_Vegetables%29_Midori_Takamine.png/revision/latest/scale-to-width-down/250?cb=20170630224425",
 			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/1/15/%28King_of_Vegetables%29_Midori_Takamine_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170629063821"
+		},
+		{
+			"id": 1084,
+			"name": "(Natural Jiangshi) Midori Takamine",
+			"nick": "midori",
+			"alias": "sr7",
+			"star": "4",
+			"lesson": "Increases acquisition of all Jewel Fragments",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Lots of Monsters☆Sweet Halloween! (31 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_oqveiabw_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_oqveiabw_e.png"
 		}
 	]
 }

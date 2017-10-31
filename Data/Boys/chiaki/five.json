@@ -77,6 +77,19 @@
 			"origin": "Event: Baton Pass! Repayment Festival of Tears and Bonds! (28 Feb 2017)",
 			"img": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Entrusting_the_Passion%29_Chiaki_Morisawa.png/revision/latest?cb=20170228062943",
 			"imgbloomed": "http://vignette1.wikia.nocookie.net/ensemble-stars/images/3/35/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Bloomed.png/revision/latest?cb=20170228062943"
+		},
+		{
+			"id": 1082,
+			"name": "(Horror Jiangshi) Chiaki Morisawa",
+			"nick": "chiaki",
+			"alias": "ur7",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Medium Jewels",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: Lots of Monsters☆Sweet Halloween! (31 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_bykudnzi_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_bykudnzi_e.png"
 		}
 	]
 }

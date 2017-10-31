@@ -194,6 +194,19 @@
 			"origin": "Event: Seven-Colored＊Sunshower Festa! (15 June 2017)",
 			"img": "https://vignette3.wikia.nocookie.net/ensemble-stars/images/1/16/%28Festa_Tour%29_Nazuna_Nito.png/revision/latest/scale-to-width-down/250?cb=20170615172822",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/6/6c/%28Festa_Tour%29_Nazuna_Nito_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170615172821"
+		},
+		{
+			"id": 1085,
+			"name": "(Busy Zombie) Nazuna Nito",
+			"nick": "nazuna",
+			"alias": "r16",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Red Jewel Fragments",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Event: Lots of Monsters☆Sweet Halloween! (31 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_haglewmf_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_haglewmf_e.png"
 		}
 	]
 }

@@ -77,6 +77,19 @@
 			"origin": "Event: Festival*Graceful Fleur De Lis! (30 Sept 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_fxhdobtp_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/58/images/cd_fxhdobtp_e.png"
+		},
+		{
+			"id": 1087,
+			"name": "(Halloween Mummy) Madara Mikejima",
+			"nick": "madara",
+			"alias": "r7",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Lots of Monsters☆Sweet Halloween! (31 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_iservmog_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_iservmog_e.png"
 		}
 	]
 }

@@ -64,6 +64,19 @@
 			"origin": "Scout: Salon de Thé! (30 Jan 2017)",
 			"img": "http://vignette3.wikia.nocookie.net/ensemble-stars/images/4/44/%28Jasmine_Tea%29_Hajime_Shino.png/revision/latest/scale-to-width-down/250?cb=20170130103841",
 			"imgbloomed": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/d/df/%28Jasmine_Tea%29_Hajime_Shino_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170131025356"
+		},
+		{
+			"id": 1081,
+			"name": "(Honey Zombie) Hajime Shino",
+			"nick": "hajime",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Increases acquisition of Medium Red Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Lots of Monsters☆Sweet Halloween! (31 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_dbiutsow_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_dbiutsow_e.png"
 		}
 	]
 }

@@ -207,6 +207,19 @@
 			"origin": "Scout: The Colored Flower Cards! (14 Oct 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_vacmfxpw_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_vacmfxpw_e.png"
+		},
+		{
+			"id": 1089,
+			"name": "(Ninja Jiangshi) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "r17",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of Blue Jewel Fragments",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Lots of Monsters☆Sweet Halloween! (31 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_amsgiyvk_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_amsgiyvk_e.png"
 		}
 	]
 }

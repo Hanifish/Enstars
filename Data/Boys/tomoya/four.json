@@ -77,6 +77,19 @@
 			"origin": "Scout: Monster Transformation! (30 July 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_zngvajsb_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/80/images/cd_zngvajsb_e.png"
+		},
+		{
+			"id": 1083,
+			"name": "(Challenge Zombie) Tomoya Mashiro",
+			"nick": "tomoya",
+			"alias": "sr7",
+			"star": "4",
+			"lesson": "Increases acquisition of all Small Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: Lots of Monsters☆Sweet Halloween! (31 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_lixvdhgu_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_lixvdhgu_e.png"
 		}
 	]
 }

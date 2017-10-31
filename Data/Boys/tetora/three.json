@@ -207,6 +207,19 @@
 			"origin": "Revival Scout: RYUSEITAI Unit Song CD 3rd 01! (20 Sept 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_fmkjausf_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_fmkjausf_e.png"
+		},
+		{
+			"id": 1088,
+			"name": "(Kenpo Jiangshi) Tetora Nagumo",
+			"nick": "tetora",
+			"alias": "r17",
+			"star": "3",
+			"lesson": "Slightly increases all stats during Produce Battle",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Event: Lots of Monsters☆Sweet Halloween! (31 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_trmzfgqi_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_trmzfgqi_e.png"
 		}
 	]
 }

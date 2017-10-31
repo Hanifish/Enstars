@@ -1,4 +1,43 @@
 {
+      "id": 1080,
+      "name": "(Coordinate) Yuta Aoi",
+      "nick": "yuta",
+      "alias": "r",
+      "star": "3",
+      "lesson": "Slightly increases acquisition of all Fragments",
+      "dreamfes": "Slightly decreases opponent's Dance",
+      "stat": "Da",
+      "origin": "Scout: Boutique! (30 Oct 2017)",
+      "img": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_kjuzcyaq_n.png",
+      "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_kjuzcyaq_e.png"
+    },
+    {
+      "id": 1078,
+      "name": "(Boutique Owner) Rei Sakuma",
+      "nick": "rei",
+      "alias": "sr",
+      "star": "4",
+      "lesson": "Increases acquisition of all Small Jewels",
+      "dreamfes": "Decreases opponent's Performance",
+      "stat": "Pf",
+      "origin": "Scout: Boutique! (30 Oct 2017)",
+      "img": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_suajhfwd_n.png",
+      "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_suajhfwd_e.png"
+    },
+    {
+      "id": 1077,
+      "name": "(Boutique Boy) Subaru Akehoshi",
+      "nick": "subaru",
+      "alias": "ur",
+      "star": "5",
+      "lesson": "Increases Trust Rate",
+      "dreamfes": "Decreases opponent's Vocal",
+      "stat": "Vo",
+      "origin": "Scout: Boutique! (30 Oct 2017)",
+      "img": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_blwjdrnz_n.png",
+      "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_blwjdrnz_e.png"
+    },
+    {
                   "id": 1075,
                   "name": "(Chairperson Duties) Hokuto Hidaka",
                   "nick": "hokuto",

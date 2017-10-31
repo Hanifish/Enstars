@@ -861,6 +861,19 @@
                   "origin": "Scout: Tori's Introduction! (26 October 2017)",
                   "img": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_vgdqmycn_n.png",
                   "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_vgdqmycn_e.png"
+            },
+            {
+                  "id": 1019,
+                  "name": "(Angels and Melodious Voices) Hajime Shino",
+                  "nick": "hajime",
+                  "alias": "sr6",
+                  "star": "4",
+                  "lesson": "Increases acquisition of all Small Jewels",
+                  "dreamfes": "Increases own Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Merc Storia! (14 Sept 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_yhkrnvdo_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_yhkrnvdo_e.png"
             }
 
     ]

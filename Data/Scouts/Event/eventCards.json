@@ -2,61 +2,61 @@
 	"eventThree": [
 		
 		{
-			"id": 1058,
-			"name": "(Hana Karuta) Kuro Kiryu",
-			"nick": "kuro",
-			"alias": "r",
-			"star": "3",
-			"lesson": "Slightly increases Stats during Produce Battle",
-			"dreamfes": "Slightly decreases opponent's Vocal",
-			"stat": "Vo",
-			"origin": "Scout: The Colored Flower Cards! (14 Oct 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_hsvekwxg_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_hsvekwxg_e.png"
-		},
-		{
-			"id": 1059,
-			"name": "(Find a Note) Shinobu Sengoku",
-			"nick": "shinobu",
+			"id": 1079,
+			"name": "(Fashionista) Izumi Sena",
+			"nick": "izumi",
 			"alias": "r16",
 			"star": "3",
-			"lesson": "Slightly increases Stats during Produce Battle",
-			"dreamfes": "Slightly increases own Dance",
+			"lesson": "Increases acquisition of all Small Jewels",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Boutique! (30 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_qvwdnjzr_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_qvwdnjzr_e.png"
+		},
+		{
+			"id": 1080,
+			"name": "(Coordinate) Yuta Aoi",
+			"nick": "yuta",
+			"alias": "r",
+			"star": "3",
+			"lesson": "Slightly increases acquisition of all Fragments",
+			"dreamfes": "Slightly decreases opponent's Dance",
 			"stat": "Da",
-			"origin": "Scout: The Colored Flower Cards! (14 Oct 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_vacmfxpw_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_vacmfxpw_e.png"
+			"origin": "Scout: Boutique! (30 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_kjuzcyaq_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_kjuzcyaq_e.png"
 		}
 	],
 	"eventFour": [
 		{
-			"id": 1057,
-			"name": "(Hana Awase) Keito Hasumi",
-			"nick": "keito",
+			"id": 1078,
+			"name": "(Boutique Owner) Rei Sakuma",
+			"nick": "rei",
 			"alias": "sr",
 			"star": "4",
-			"lesson": "Increases Fever Rate",
+			"lesson": "Increases acquisition of all Small Jewels",
 			"dreamfes": "Decreases opponent's Performance",
 			"stat": "Pf",
-			"origin": "Scout: The Colored Flower Cards! (14 Oct 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_kqjpzdgv_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_kqjpzdgv_e.png"
+			"origin": "Scout: Boutique! (30 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_suajhfwd_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_suajhfwd_e.png"
 		}
 
 	],
 	"five": [
 		{
-			"id": 1056,
-			"name": "(Colored Flower Cards) Souma Kanzaki",
-			"nick": "souma",
+			"id": 1077,
+			"name": "(Boutique Boy) Subaru Akehoshi",
+			"nick": "subaru",
 			"alias": "ur",
 			"star": "5",
 			"lesson": "Increases Trust Rate",
-			"dreamfes": "Decreases opponent's Dance",
-			"stat": "Da",
-			"origin": "Scout: The Colored Flower Cards! (14 Oct 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_iapdmewn_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_iapdmewn_e.png"
+			"dreamfes": "Decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Boutique! (30 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_blwjdrnz_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_blwjdrnz_e.png"
 		}
 
 	]

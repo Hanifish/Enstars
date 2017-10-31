@@ -181,6 +181,19 @@
             "origin": "Revival Scout: Knights Unit Song CD 3rd 02! (4 Oct 2017)",
             "img": "http://stars.happyelements.co.jp/app_help/revival_gachas/2/images/cd_hgacybsq_n.png",
             "imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/2/images/cd_hgacybsq_e.png"
+        },
+        {
+            "id": 1079,
+            "name": "(Fashionista) Izumi Sena",
+            "nick": "izumi",
+            "alias": "r16",
+            "star": "3",
+            "lesson": "Increases acquisition of all Small Jewels",
+            "dreamfes": "Slightly decreases opponent's Vocal",
+            "stat": "Vo",
+            "origin": "Scout: Boutique! (30 Oct 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_qvwdnjzr_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_qvwdnjzr_e.png"
         }
     ]
 }

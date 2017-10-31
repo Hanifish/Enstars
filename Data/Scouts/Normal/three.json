@@ -2136,6 +2136,32 @@
                   "origin": "Scout: Tori's Introduction! (26 October 2017)",
                   "img": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_xvlwycqa_n.png",
                   "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/88/images/cd_xvlwycqa_e.png"
+            },
+            {
+                  "id": 1021,
+                  "name": "(Assistant Angel) Tomoya Mashiro",
+                  "nick": "tomoya",
+                  "alias": "r15",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of Small Blue Jewels",
+                  "dreamfes": "Slightly decreases opponent's Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Merc Storia! (14 Sept 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_rqnjbgdm_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_rqnjbgdm_e.png"
+            },
+            {
+                  "id": 1020,
+                  "name": "(Vanguard Angel) Mitsuru Tenma",
+                  "nick": "mitsuru",
+                  "alias": "r15",
+                  "star": "3",
+                  "lesson": "Slightly increases acquisition of Small Red Jewels",
+                  "dreamfes": "Slightly decreases opponent's Dance",
+                  "stat": "Da",
+                  "origin": "Scout: Merc Storia! (14 Sept 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_cprvfsmi_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_cprvfsmi_e.png"
             }
     ]
 }

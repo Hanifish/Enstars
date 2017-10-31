@@ -194,6 +194,19 @@
 			"origin": "Scout: Merc Storia! (14 Sept 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_cprvfsmi_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_cprvfsmi_e.png"
+		},
+		{
+			"id": 1086,
+			"name": "(Puzzled Zombie) Mitsuru Tenma",
+			"nick": "mitsuru",
+			"alias": "r16",
+			"star": "3",
+			"lesson": "Slightly increases all Stats during Produce Battle",
+			"dreamfes": "Slightly increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: Lots of Monsters☆Sweet Halloween! (31 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_pyagrvtw_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_pyagrvtw_e.png"
 		}
 	]
 }

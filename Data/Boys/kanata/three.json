@@ -209,17 +209,17 @@
             "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/82/images/cd_aqobfniy_e.png"
         },
         {
-            "id": 1034,
-            "name": "(Blue Ryusei) Kanata Shinkai",
+            "id": 1090,
+            "name": "(Jiangshi of the Sea) Kanata Shinkai",
             "nick": "kanata",
             "alias": "r17",
             "star": "3",
-            "lesson": "Slightly Increases Stats during Lesson Dream Fes",
-            "dreamfes": "Slightly increases own Vocal",
-            "stat": "Vo",
-            "origin": "Revival Scout: RYUSEITAI Unit Song CD 3rd 01! (20 Sept 2017)",
-            "img": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_kbibtvcl_n.png",
-            "imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/1/images/cd_kbibtvcl_e.png"
+            "lesson": "Slightly Increases Dance during Produce Battle",
+            "dreamfes": "Slightly increases own Dance",
+            "stat": "Da",
+			"origin": "Event: Lots of Monsters☆Sweet Halloween! (31 Oct 2017)",
+            "img": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_zmpifqnx_n.png",
+            "imgbloomed": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_zmpifqnx_e.png"
         }
 	]
 }
