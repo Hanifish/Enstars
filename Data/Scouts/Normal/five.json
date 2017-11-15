@@ -571,6 +571,19 @@
 			"origin": "Scout: Merc Storia! (14 Sept 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_pzwkoigr_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_pzwkoigr_e.png"
+		},
+		{
+			"id": 1039,
+			"name": "(Showtime) Sora Harukawa",
+			"nick": "sora",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Increases acquisition of all Blue Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Scout: Showtime! (29 Sept 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_cwdqlbfk_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_cwdqlbfk_e.png"
 		}
 	]
 }

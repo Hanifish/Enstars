@@ -2,61 +2,61 @@
 	"eventThree": [
 		
 		{
-			"id": 1079,
-			"name": "(Fashionista) Izumi Sena",
-			"nick": "izumi",
-			"alias": "r16",
-			"star": "3",
-			"lesson": "Increases acquisition of all Small Jewels",
-			"dreamfes": "Slightly decreases opponent's Vocal",
-			"stat": "Vo",
-			"origin": "Scout: Boutique! (30 Oct 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_qvwdnjzr_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_qvwdnjzr_e.png"
-		},
-		{
-			"id": 1080,
-			"name": "(Coordinate) Yuta Aoi",
-			"nick": "yuta",
+			"id": 9999,
+			"name": "(Blade Hunter) Souma Kanzaki",
+			"nick": "souma",
 			"alias": "r",
 			"star": "3",
-			"lesson": "Slightly increases acquisition of all Fragments",
+			"lesson": "Increases Performance during Produce Battle",
+			"dreamfes": "Slightly decreases opponent's Performance",
+			"stat": "Pf",
+			"origin": "Scout: Red Riding Hood! (14 Nov 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_slyizamj_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_slyizamj_n.png"
+		},
+		{
+			"id": 9999,
+			"name": "(Hunter Shinobu) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "r18",
+			"star": "3",
+			"lesson": "Slightly increases all Stats during Produce Battle",
 			"dreamfes": "Slightly decreases opponent's Dance",
 			"stat": "Da",
-			"origin": "Scout: Boutique! (30 Oct 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_kjuzcyaq_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_kjuzcyaq_e.png"
+			"origin": "Scout: Red Riding Hood! (14 Nov 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_mupgfnol_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_mupgfnol_e.png"
 		}
 	],
 	"eventFour": [
 		{
-			"id": 1078,
-			"name": "(Boutique Owner) Rei Sakuma",
-			"nick": "rei",
-			"alias": "sr",
+			"id": 9999,
+			"name": "(Little Red Riding Hood of the Forest) Nazuna Nito",
+			"nick": "nazuna",
+			"alias": "sr9",
 			"star": "4",
-			"lesson": "Increases acquisition of all Small Jewels",
-			"dreamfes": "Decreases opponent's Performance",
-			"stat": "Pf",
-			"origin": "Scout: Boutique! (30 Oct 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_suajhfwd_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_suajhfwd_e.png"
+			"lesson": "Increases acquisition of all Jewel Fragments",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Red Riding Hood! (14 Nov 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_mkzfqleu_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_mkzfqleu_e.png"
 		}
 
 	],
 	"five": [
 		{
-			"id": 1077,
-			"name": "(Boutique Boy) Subaru Akehoshi",
-			"nick": "subaru",
+			"id": 9999,
+			"name": "(The Moonlight's Red Wolf) Kuro Kiryu",
+			"nick": "kuro",
 			"alias": "ur",
 			"star": "5",
-			"lesson": "Increases Trust Rate",
-			"dreamfes": "Decreases opponent's Vocal",
+			"lesson": "Increases acquisition of Large Blue Jewels",
+			"dreamfes": "Increases own Vocal",
 			"stat": "Vo",
-			"origin": "Scout: Boutique! (30 Oct 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_blwjdrnz_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/89/images/cd_blwjdrnz_e.png"
+			"origin": "Scout: Red Riding Hood! (14 Nov 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_jfdltvym_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_jfdltvym_e.png"
 		}
 
 	]

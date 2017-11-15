@@ -1,4 +1,30 @@
 {
+                  "id": 9999,
+                  "name": "(Blade Hunter) Souma Kanzaki",
+                  "nick": "souma",
+                  "alias": "r",
+                  "star": "3",
+                  "lesson": "Increases Performance during Produce Battle",
+                  "dreamfes": "Slightly decreases opponent's Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Red Riding Hood! (14 Nov 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_slyizamj_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_slyizamj_n.png"
+            },
+            {
+                  "id": 9999,
+                  "name": "(The Moonlight's Red Wolf) Kuro Kiryu",
+                  "nick": "kuro",
+                  "alias": "ur",
+                  "star": "5",
+                  "lesson": "Increases acquisition of Large Blue Jewels",
+                  "dreamfes": "Increases own Vocal",
+                  "stat": "Vo",
+                  "origin": "Scout: Red Riding Hood! (14 Nov 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_jfdltvym_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_jfdltvym_e.png"
+            },
+            {
       "id": 1080,
       "name": "(Coordinate) Yuta Aoi",
       "nick": "yuta",

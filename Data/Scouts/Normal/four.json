@@ -874,6 +874,19 @@
                   "origin": "Scout: Merc Storia! (14 Sept 2017)",
                   "img": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_yhkrnvdo_n.png",
                   "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/84/images/cd_yhkrnvdo_e.png"
+            },
+            {
+                  "id": 1040,
+                  "name": "(Magician) Wataru Hibiki",
+                  "nick": "wataru",
+                  "alias": "sr9",
+                  "star": "4",
+                  "lesson": "Increases Trust Rate",
+                  "dreamfes": "Increases own Performance",
+                  "stat": "Pf",
+                  "origin": "Scout: Showtime! (29 Sept 2017)",
+                  "img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_qzkrmwxs_n.png",
+                  "imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_qzkrmwxs_e.png"
             }
 
     ]

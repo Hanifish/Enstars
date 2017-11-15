@@ -2,61 +2,61 @@
 	"eventThree": [
 		
 		{
-			"id": 1041,
-			"name": "(Skilled Magic) Natsume Sakasaki",
-			"nick": "natsume",
-			"alias": "r8",
-			"star": "3",
-			"lesson": "Slightly increases Dance during Lesson Battle",
-			"dreamfes": "Slightly increases own Dance",
-			"stat": "Da",
-			"origin": "Scout: Showtime! (29 Sept 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_baxziqym_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_baxziqym_e.png"
-		},
-		{
-			"id": 1042,
-			"name": "(Table Magic) Shu Itsuki",
-			"nick": "shu",
+			"id": 1058,
+			"name": "(Hana Karuta) Kuro Kiryu",
+			"nick": "kuro",
 			"alias": "r",
 			"star": "3",
-			"lesson": "Slightly increases acquisition of Yellow Jewel Fragments",
-			"dreamfes": "Slightly decreases opponent's Performance",
-			"stat": "Pf",
-			"origin": "Scout: Showtime! (29 Sept 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_migzdbws_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_migzdbws_e.png"
+			"lesson": "Slightly increases Stats during Produce Battle",
+			"dreamfes": "Slightly decreases opponent's Vocal",
+			"stat": "Vo",
+			"origin": "Scout: The Colored Flower Cards! (14 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_hsvekwxg_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_hsvekwxg_e.png"
+		},
+		{
+			"id": 1059,
+			"name": "(Find a Note) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "r16",
+			"star": "3",
+			"lesson": "Slightly increases Stats during Produce Battle",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: The Colored Flower Cards! (14 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_vacmfxpw_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_vacmfxpw_e.png"
 		}
 	],
 	"eventFour": [
 		{
-			"id": 1040,
-			"name": "(Magician) Wataru Hibiki",
-			"nick": "wataru",
-			"alias": "sr9",
+			"id": 1057,
+			"name": "(Hana Awase) Keito Hasumi",
+			"nick": "keito",
+			"alias": "sr",
 			"star": "4",
-			"lesson": "Increases Trust Rate",
-			"dreamfes": "Increases own Performance",
+			"lesson": "Increases Fever Rate",
+			"dreamfes": "Decreases opponent's Performance",
 			"stat": "Pf",
-			"origin": "Scout: Showtime! (29 Sept 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_qzkrmwxs_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_qzkrmwxs_e.png"
+			"origin": "Scout: The Colored Flower Cards! (14 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_kqjpzdgv_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_kqjpzdgv_e.png"
 		}
 
 	],
 	"five": [
 		{
-			"id": 1039,
-			"name": "(Showtime) Sora Harukawa",
-			"nick": "sora",
-			"alias": "ur3",
+			"id": 1056,
+			"name": "(Colored Flower Cards) Souma Kanzaki",
+			"nick": "souma",
+			"alias": "ur",
 			"star": "5",
-			"lesson": "Increases acquisition of all Blue Jewels",
-			"dreamfes": "Increases own Vocal",
-			"stat": "Vo",
-			"origin": "Scout: Showtime! (29 Sept 2017)",
-			"img": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_cwdqlbfk_n.png",
-			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/86/images/cd_cwdqlbfk_e.png"
+			"lesson": "Increases Trust Rate",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: The Colored Flower Cards! (14 Oct 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_iapdmewn_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/87/images/cd_iapdmewn_e.png"
 		}
 
 	]

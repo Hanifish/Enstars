@@ -92,6 +92,19 @@
 			"origin": "Scout: Nazuna's Introduction! (26 July 2017)",
 			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Rabbit%27s_Feelings%29_Nazuna_Nito.png/revision/latest?cb=20170726062700",
 			"imgbloomed": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/d/d5/%28Rabbit%27s_Feelings%29_Nazuna_Nito_Bloomed.png/revision/latest?cb=20170726062700"
+		},
+		{
+			"id": 9999,
+			"name": "(Little Red Riding Hood of the Forest) Nazuna Nito",
+			"nick": "nazuna",
+			"alias": "sr9",
+			"star": "4",
+			"lesson": "Increases acquisition of all Jewel Fragments",
+			"dreamfes": "Increases own Dance",
+			"stat": "Da",
+			"origin": "Scout: Red Riding Hood! (14 Nov 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_mkzfqleu_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_mkzfqleu_e.png"
 		}
     ],
     "three": [

@@ -220,6 +220,19 @@
 			"origin": "Event: Lots of Monsters☆Sweet Halloween! (31 Oct 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_amsgiyvk_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/60/images/cd_amsgiyvk_e.png"
+		},
+		{
+			"id": 9999,
+			"name": "(Hunter Shinobu) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "r18",
+			"star": "3",
+			"lesson": "Slightly increases all Stats during Produce Battle",
+			"dreamfes": "Slightly decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Scout: Red Riding Hood! (14 Nov 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_mupgfnol_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/gachas/90/images/cd_mupgfnol_e.png"
 		}
 	]
 }
