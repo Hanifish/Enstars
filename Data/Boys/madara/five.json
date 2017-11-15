@@ -25,6 +25,19 @@
 			"origin": "Scout: Concerto! (14 July 2017)",
 			"img": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/1/17/%28Violin_of_the_Setting_Sun%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/250?cb=20170714070217",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Violin_of_the_Setting_Sun%29_Madara_Mikejima_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170714063335"
+		},
+		{
+			"id": 9999,
+			"name": "(Flower of Encouragement) Madara Mikejima",
+			"nick": "madara",
+			"alias": "ur3",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of all Red Jewels",
+			"dreamfes": "Decreases opponent's Dance",
+			"stat": "Da",
+			"origin": "Event: The Golden Wind＊Wishing Live of Encouragement! (14 Nov 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/61/images/cd_whievrbp_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/61/images/cd_whievrbp_e.png"
 		}
 	]
 }

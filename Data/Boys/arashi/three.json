@@ -220,6 +220,19 @@
             "origin": "Revival Scout: Knights Unit Song CD 3rd 02! (4 Oct 2017)",
 			"img": "http://stars.happyelements.co.jp/app_help/revival_gachas/2/images/cd_lhseozam_n.png",
 			"imgbloomed": "http://stars.happyelements.co.jp/app_help/revival_gachas/2/images/cd_lhseozam_e.png"
+		},
+		{
+			"id": 9999,
+			"name": "(Circle of Kindness) Arashi Narukami",
+			"nick": "arashi",
+			"alias": "r18",
+			"star": "3",
+			"lesson": "Slightly increases Dance during Produce Battle",
+			"dreamfes": "Slightly increases own Dance",
+			"stat": "Da",
+			"origin": "Event: The Golden Wind＊Wishing Live of Encouragement! (14 Nov 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/61/images/cd_kvjzxbfw_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/61/images/cd_kvjzxbfw_e.png"
 		}
 	]
 }

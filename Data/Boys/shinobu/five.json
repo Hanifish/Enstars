@@ -64,6 +64,19 @@
 			"origin": "Scout: Ukiyo Air Ride! (30 May 2017)",
 			"img": "https://vignette1.wikia.nocookie.net/ensemble-stars/images/8/89/%28Shy_Ninja%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/250?cb=20170530064204",
 			"imgbloomed": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/c/cc/%28Shy_Ninja%29_Shinobu_Sengoku_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170530064207"
+		},
+		{
+			"id": 9999,
+			"name": "(Light of Hope) Shinobu Sengoku",
+			"nick": "shinobu",
+			"alias": "ur6",
+			"star": "5",
+			"lesson": "Slightly increases acquisition of Medium Blue Jewels",
+			"dreamfes": "Increases own Vocal",
+			"stat": "Vo",
+			"origin": "Event: The Golden Wind＊Wishing Live of Encouragement! (14 Nov 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/61/images/cd_gwudavnk_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/61/images/cd_gwudavnk_e.png"
 		}
 	]
 }

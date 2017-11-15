@@ -38,6 +38,19 @@
 			"origin": "Event: Seven-Colored＊Sunshower Festa! (15 June 2017)",
 			"img": "https://vignette2.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Trick_Sunshower%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/250?cb=20170615172820",
 			"imgbloomed": "https://vignette4.wikia.nocookie.net/ensemble-stars/images/2/21/%28Trick_Sunshower%29_Natsume_Sakasaki_Bloomed.png/revision/latest/scale-to-width-down/250?cb=20170615172819"
+		},
+		{
+			"id": 9999,
+			"name": "(A Sliver of the Future) Natsume Sakasaki",
+			"nick": "natsume",
+			"alias": "sr4",
+			"star": "4",
+			"lesson": "Slightly increases acquisition of all Jewel Fragments",
+			"dreamfes": "Increases own Performance",
+			"stat": "Pf",
+			"origin": "Event: The Golden Wind＊Wishing Live of Encouragement! (14 Nov 2017)",
+			"img": "http://stars.happyelements.co.jp/app_help/events/61/images/cd_lpmhtrva_n.png",
+			"imgbloomed": "http://stars.happyelements.co.jp/app_help/events/61/images/cd_lpmhtrva_e.png"
 		}
 	]
 }
